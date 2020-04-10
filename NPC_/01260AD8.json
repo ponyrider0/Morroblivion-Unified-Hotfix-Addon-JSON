@@ -1,0 +1,144 @@
+{
+    "Record Header": {
+        "Signature": "NPC_", 
+        "Data Size": 881, 
+        "Record Flags": {
+            "Compressed ": true
+        }, 
+        "FormID": "01260AD8", 
+        "Version Control Info": "00 00 00 00"
+    }, 
+    "EDID - Editor ID": "0BlackSDartSGilur", 
+    "FULL - Name": "Black Dart Gilur", 
+    "Model": {
+        "MODL - Model FileName": "Characters\\_Male\\skeleton.nif", 
+        "MODB - Bound Radius": 99.624664000000000
+    }, 
+    "ACBS - Configuration": {
+        "Flags": {
+            "No Rumors": true
+        }, 
+        "Base spell points": "000000A6", 
+        "Fatigue": "00000140", 
+        "Barter gold": "00000000", 
+        "Level (offset)": 40, 
+        "Calc min": "00000001", 
+        "Calc max": "00000000"
+    }, 
+    "Factions": [
+        {
+            "Faction": "01003B47", 
+            "Rank": "00", 
+            "Unused": "4F 44 42"
+        }, 
+        {
+            "Faction": "0122001B", 
+            "Rank": "00", 
+            "Unused": "4F 44 42"
+        }
+    ], 
+    "RNAM - Race": "DarkElf [RACE:000191C1]", 
+    "Items": [
+        {
+            "Item": "WeapSteelBow [WEAP:000229B7]", 
+            "Count": 1
+        }, 
+        {
+            "Item": "Arrow2Steel [AMMO:000229C1]", 
+            "Count": 18
+        }, 
+        {
+            "Item": "0commonUshirtU02 [CLOT:01140021]", 
+            "Count": 1
+        }, 
+        {
+            "Item": "0commonUrobeU02Uh [CLOT:01140051]", 
+            "Count": 1
+        }, 
+        {
+            "Item": "0randomSgold [LVLI:011A0020]", 
+            "Count": 12
+        }, 
+        {
+            "Item": "FbmwCommonBelt5 [CLOT:01F8EA22]", 
+            "Count": 1
+        }, 
+        {
+            "Item": "mwBlackDartPoison [ALCH:060020E5]", 
+            "Count": 3
+        }, 
+        {
+            "Item": "mwBleederDartPoison [ALCH:06017D7F]", 
+            "Count": 3
+        }, 
+        {
+            "Item": "mwCarmineDartPoison [ALCH:06017D80]", 
+            "Count": 3
+        }
+    ], 
+    "SCRI - Script": "mwBlackDartNPCScript [SCPT:06010105]", 
+    "AIDT - AI Data": {
+        "Aggression": "5A", 
+        "Confidence": "63", 
+        "Energy Level": "32", 
+        "Responsibility": "1E", 
+        "Buys/Sells and Services": "00000000", 
+        "Teaches": "Hand To Hand:5", 
+        "Maximum training level": "5E", 
+        "Unused": "00 00"
+    }, 
+    "AI Packages": [
+        "PKID - AI Package": "aaaDefaultStayAtEditorLocation [PACK:0002C81C]"
+    ], 
+    "CNAM - Class": "00023C0D", 
+    "DATA - Stats": {
+        "Armorer": "09", 
+        "Athletics": "4A", 
+        "Blade": "58", 
+        "Block": "36", 
+        "Blunt": "09", 
+        "Hand to Hand": "5E", 
+        "Heavy Armor": "09", 
+        "Alchemy": "09", 
+        "Alteration": "09", 
+        "Conjuration": "09", 
+        "Destruction": "13", 
+        "Illusion": "09", 
+        "Mysticism": "0E", 
+        "Restoration": "09", 
+        "Acrobatics": "4E", 
+        "Light Armor": "26", 
+        "Marksman": "5A", 
+        "Mercantile": "5E", 
+        "Security": "4E", 
+        "Sneak": "4E", 
+        "Speechcraft": "5E", 
+        "Health": "000000F0", 
+        "Unused": "00 00", 
+        "Strength": "5B", 
+        "Intelligence": "53", 
+        "Willpower": "3D", 
+        "Agility": "5F", 
+        "Speed": "64", 
+        "Endurance": "49", 
+        "Personality": "64", 
+        "Luck": "28"
+    }, 
+    "HNAM - Hair": "0006420D", 
+    "LNAM - Hair length": 0.109684000000000, 
+    "ENAM - Eyes": {
+        "Eyes #0": "00027307"
+    }, 
+    "HCLR - Hair color": {
+        "Red": "2C", 
+        "Green": "1F", 
+        "Blue": "16", 
+        "Unused": "00"
+    }, 
+    "FaceGen Data": {
+        "FGGS - FaceGen Geometry-Symmetric": "79 E5 8D 3F A0 3D 94 BE B0 B2 70 BF B0 1D 84 3D 04 EC EC BF 5C CA A8 3F 7C 68 68 3F AF 3B 94 3E 4A 90 17 40 E4 D4 B4 3F 01 EC DA 3F C3 45 EC BE AA 45 86 BF F2 B4 A0 C0 68 DD 61 BE 80 71 87 3B 1C 82 F1 BE 9C 97 B8 3E FE 87 8C BF 50 E1 F4 3E FE D4 57 BF 27 97 39 3E D5 29 50 40 F6 C5 C0 BF 57 EB 46 40 80 0C 94 BB 80 78 A5 3C C0 CA 34 3F F6 10 25 BF EC 5D F1 BE 99 17 CA BF 38 1E 1C BF 03 24 14 C0 18 85 C7 3F 40 8B 55 3D C4 14 05 3F 90 C6 3C 3F 3A DF A6 3F 88 AE 58 C0 D1 54 56 BF 86 32 11 40 9F EE 2A C0 7C 90 0D 40 39 04 8F BF E0 C7 12 3F CA 3C 18 C0 30 24 74 3F 86 AC 7C C0 9C 3E 45 40 88 B1 3C C0", 
+        "FGGA - FaceGen Geometry-Asymmetric": "3B 18 A5 BF 59 74 93 3F 84 53 1D 3F C8 A7 A9 3C F8 4B EB BE A8 47 03 3F 60 C0 5E 3F 13 FB 39 BE F6 73 B1 3E 33 B4 A7 BF 03 B6 8A BE 51 DD CA 3D DC 1B 53 BF E4 4E 2E 3F 8B 2E 44 3E BF 10 AB BC 9C B0 83 3E 1F B4 26 3F 7E 0D 2A 3F E9 1C C9 3E 7C 98 63 BE 5E C6 66 3F 68 4B E7 3E 38 DC 5B 3F 53 5D 8E BE 2E 4E 3D 3E A0 FF A2 BF 60 15 8F BF 86 38 2D 3E D7 30 01 BE", 
+        "FGTS - FaceGen Texture-Symmetric": "AC 0F 38 BE F2 10 F5 3D 94 AD 8D BD 07 45 CF BE 33 AF BB BF 29 5F 70 BF 7B 23 66 BD 69 B4 3C BF 5E 4C E9 3D 7B F1 2A 3F F2 CF D9 B9 63 A9 AF BF 17 C6 A5 3F DE E8 FB 3E 19 EA 1A 3E 51 F0 2C BF FE 0B 9D 3F 07 E6 15 BF A1 D8 2A 3E F4 B6 DC BD 40 EA 08 3F C7 49 91 3F 71 0A 9E 3E B9 B2 A1 3F BD 36 A3 BF 85 A4 05 3F 0C D9 60 3E FA 0B 2A 3F 32 6C 60 BF 91 21 99 3F 5C B2 0D BF 40 73 81 BF 34 57 C4 3E 5F 2D E2 3E C3 83 7E BE F2 69 29 3E 44 7B AB 3F 2D EC 04 3F 15 EB 31 BF 0C C9 CF BE 1E 0C 9E BE 22 4E 4C 3F 44 AE 5C BF 83 72 39 BF 7E 89 A2 BE 88 48 42 3F 3C 07 B1 BF 08 2F 83 BE B5 98 E9 3C 50 CA 47 BF"
+    }, 
+    "FNAM - Unknown": "72 54"
+}

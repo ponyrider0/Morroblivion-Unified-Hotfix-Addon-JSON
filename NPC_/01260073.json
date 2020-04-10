@@ -1,0 +1,146 @@
+{
+    "Record Header": {
+        "Signature": "NPC_", 
+        "Data Size": 850, 
+        "Record Flags": {
+            "Compressed ": true
+        }, 
+        "FormID": "01260073", 
+        "Version Control Info": "00 00 00 00"
+    }, 
+    "EDID - Editor ID": "0angoril", 
+    "FULL - Name": "Angoril", 
+    "Model": {
+        "MODL - Model FileName": "Characters\\_Male\\skeleton.nif", 
+        "MODB - Bound Radius": 71.400482000000000
+    }, 
+    "ACBS - Configuration": {
+        "Flags": {
+            "No Rumors": true
+        }, 
+        "Base spell points": "0000006E", 
+        "Fatigue": "000000D7", 
+        "Barter gold": "00000000", 
+        "Level (offset)": 7, 
+        "Calc min": "00000001", 
+        "Calc max": "00000000"
+    }, 
+    "Factions": [
+        {
+            "Faction": "0122000F", 
+            "Rank": "07", 
+            "Unused": "4F 44 42"
+        }, 
+        {
+            "Faction": "0122001B", 
+            "Rank": "00", 
+            "Unused": "4F 44 42"
+        }, 
+        {
+            "Faction": "01F0A263", 
+            "Rank": "00", 
+            "Unused": "4F 44 42"
+        }
+    ], 
+    "RNAM - Race": "HighElf [RACE:00019204]", 
+    "Items": [
+        {
+            "Item": "Beef [INGR:0003365F]", 
+            "Count": -1
+        }, 
+        {
+            "Item": "0imperialSbroadsword [WEAP:01100009]", 
+            "Count": 1
+        }, 
+        {
+            "Item": "0templarSboots [ARMO:0112000A]", 
+            "Count": 1
+        }, 
+        {
+            "Item": "0templarUcuirass [ARMO:01120010]", 
+            "Count": 1
+        }, 
+        {
+            "Item": "0templarUgreaves [ARMO:01120048]", 
+            "Count": 1
+        }, 
+        {
+            "Item": "0templarSskirtSobj [CLOT:01140002]", 
+            "Count": 1
+        }, 
+        {
+            "Item": "0keyUstandardU01UpelUfortUprison [KEYM:0140007E]", 
+            "Count": 1
+        }
+    ], 
+    "AIDT - AI Data": {
+        "Aggression": "00", 
+        "Confidence": "63", 
+        "Energy Level": "19", 
+        "Responsibility": "1E", 
+        "Buys/Sells and Services": {
+            "Training": true
+        }, 
+        "Teaches": "Blunt:4", 
+        "Maximum training level": "2C", 
+        "Unused": "00 00"
+    }, 
+    "AI Packages": [
+        "PKID - AI Package": "MOEatCurrent8x1 [PACK:0106C391]", 
+        "PKID - AI Package": "MOEatCurrent12x1 [PACK:0106C38F]", 
+        "PKID - AI Package": "MOEatCurrent18x1 [PACK:0106C390]", 
+        "PKID - AI Package": "MOSleep0x6 [PACK:01F8CB81]", 
+        "PKID - AI Package": "MOMerchantPackage512 [PACK:0106C39A]"
+    ], 
+    "CNAM - Class": "0124001D", 
+    "DATA - Stats": {
+        "Armorer": "0E", 
+        "Athletics": "0E", 
+        "Blade": "2C", 
+        "Block": "1D", 
+        "Blunt": "2C", 
+        "Hand to Hand": "15", 
+        "Heavy Armor": "1D", 
+        "Alchemy": "10", 
+        "Alteration": "0B", 
+        "Conjuration": "0B", 
+        "Destruction": "10", 
+        "Illusion": "0B", 
+        "Mysticism": "06", 
+        "Restoration": "06", 
+        "Acrobatics": "06", 
+        "Light Armor": "1D", 
+        "Marksman": "06", 
+        "Mercantile": "0A", 
+        "Security": "06", 
+        "Sneak": "06", 
+        "Speechcraft": "06", 
+        "Health": "00000061", 
+        "Unused": "00 00", 
+        "Strength": "3C", 
+        "Intelligence": "37", 
+        "Willpower": "2D", 
+        "Agility": "30", 
+        "Speed": "29", 
+        "Endurance": "3E", 
+        "Personality": "2C", 
+        "Luck": "28"
+    }, 
+    "HNAM - Hair": "0001DA83", 
+    "LNAM - Hair length": 0.120518000000000, 
+    "ENAM - Eyes": {
+        "Eyes #0": "00027308"
+    }, 
+    "HCLR - Hair color": {
+        "Red": "85", 
+        "Green": "6C", 
+        "Blue": "47", 
+        "Unused": "00"
+    }, 
+    "FaceGen Data": {
+        "FGGS - FaceGen Geometry-Symmetric": "36 64 07 3F 8E 1D 0E BE A7 47 BB BE 76 8D 89 BE 9F 60 34 BF 50 0C 38 BF BA DF DF 3E 90 D4 3C BF A1 28 3D 3E E9 E9 A9 BF 48 74 5F 3F EE 8E FC 3E 3E FA 83 3E 2A AE 00 BE B5 3D DC BE 58 2C 97 BE 5E 9E 71 BF AC DB 2D BF DD FC 99 BE EB 4D 90 3E 47 8E 9D BC 0D BD 16 BE BC CB 3E BF 40 D5 17 C0 E4 79 60 BD 80 C7 D4 3B 0C C5 BA 3E 9C E2 E6 BF A0 12 19 BC 40 70 C9 BE 2A 5B 08 3F C5 6B 18 BE 64 C0 79 3F 2B A8 CE BE 07 E0 90 3E 8E B2 C1 BE 90 E9 1F 3F 02 1A 3E BF 08 B0 8A 3F D4 5C 3B 40 9B BF 00 BF E6 28 0B BF 4D 94 8D 3F 2B DD 01 BF D6 BF C1 BE D1 39 9E 3D BC 2E A2 3F 68 FE 13 3F E8 7F D4 3F 6D E0 61 BF", 
+        "FGGA - FaceGen Geometry-Asymmetric": "CB DB 27 3E 68 5A 11 3F 00 0F 2A 3F 8C C7 69 3E DB 63 B3 BF 13 C8 3D 3E 16 49 33 3E 3D 39 34 3E 84 EC 9F BE 22 EC FB BE 7C 1A 66 BD EC 42 7B BE ED 96 88 3D 85 7C 29 BE DC D0 9D BF F6 10 80 3F C0 38 D7 3D 8C 47 BA 3F 8F A7 27 3D 6F 29 8C BD EE 9F 60 3F 5B FB 67 3E 37 13 80 BF 88 7D 6A BE BC A7 BC BF 9D 4A 2C 3F 8D C6 3E BF E0 C9 FD 3D F2 EA BC BF 74 72 52 BF", 
+        "FGTS - FaceGen Texture-Symmetric": "ED AC F8 BE B0 4D 17 BF 6B 91 57 3E FE F6 9D 3F 90 8D A7 BE 58 26 DF BE 7A 90 AD BE 8E 3C C1 3E 48 53 46 BE B8 EC 3B BF 48 0B F5 BD A2 58 0D BF 00 1E EC 3B D8 41 B3 BF 00 13 49 BD 2B 4D 8C 3F B6 8C 07 3F C3 6E 85 3F 1E CC A9 3F B4 8E CA 3E DD 0A 5B 3F 40 49 36 3F A9 63 87 3F C8 1E C9 BE C2 80 C9 3E C0 35 50 BE 79 0F BD 3E AE 71 A5 BF A9 FE 13 3F 98 02 C4 3E 34 0A 21 3E 77 D1 28 BF 30 B7 53 BE AB F9 40 BF 5E BF 9B BE 54 67 E3 3F D1 3B 59 3F E0 7C 85 BF EC B4 78 BE 39 41 59 3F B8 16 94 3E D7 53 1A BF A0 54 86 3E 30 0C AE 3E C0 40 0C 3C 4A 81 AE BF 58 19 18 3F 54 8F 98 BE 80 8E BF BE AE 3C 8A BE"
+    }, 
+    "FNAM - Unknown": "E6 21"
+}

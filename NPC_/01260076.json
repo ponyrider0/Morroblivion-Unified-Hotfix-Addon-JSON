@@ -1,0 +1,142 @@
+{
+    "Record Header": {
+        "Signature": "NPC_", 
+        "Data Size": 881, 
+        "Record Flags": {
+            "Compressed ": true
+        }, 
+        "FormID": "01260076", 
+        "Version Control Info": "00 00 00 00"
+    }, 
+    "EDID - Editor ID": "0valaScatraso", 
+    "FULL - Name": "Vala Catraso", 
+    "Model": {
+        "MODL - Model FileName": "Characters\\_Male\\skeleton.nif", 
+        "MODB - Bound Radius": 83.578926000000000
+    }, 
+    "ACBS - Configuration": {
+        "Flags": {
+            "Female": true, 
+            "No Rumors": true
+        }, 
+        "Base spell points": "0000007A", 
+        "Fatigue": "000000AA", 
+        "Barter gold": "00000000", 
+        "Level (offset)": 4, 
+        "Calc min": "00000001", 
+        "Calc max": "00000000"
+    }, 
+    "Factions": [
+        {
+            "Faction": "0100761B", 
+            "Rank": "00", 
+            "Unused": "4F 44 42"
+        }, 
+        {
+            "Faction": "0122001B", 
+            "Rank": "00", 
+            "Unused": "4F 44 42"
+        }, 
+        {
+            "Faction": "01F0A263", 
+            "Rank": "00", 
+            "Unused": "4F 44 42"
+        }
+    ], 
+    "RNAM - Race": "Imperial [RACE:00000907]", 
+    "Items": [
+        {
+            "Item": "Beef [INGR:0003365F]", 
+            "Count": -1
+        }, 
+        {
+            "Item": "0expensiveUshoesU03 [CLOT:0114000B]", 
+            "Count": 1
+        }, 
+        {
+            "Item": "0expensiveUrobeU02Ua [CLOT:0114005D]", 
+            "Count": 1
+        }, 
+        {
+            "Item": "fbmwExpensiveRing03 [CLOT:01F8EA29]", 
+            "Count": 1
+        }, 
+        {
+            "Item": "fbmwAmuletExpensive01 [CLOT:01F8EA33]", 
+            "Count": 1
+        }
+    ], 
+    "Spells": [
+        "SPLO - Spell": "LL2PriestLvl100 [LVSP:00056AA9]", 
+        "SPLO - Spell": "StandardBoundDaggerNovice [SPEL:000A97B7]"
+    ], 
+    "AIDT - AI Data": {
+        "Aggression": "05", 
+        "Confidence": "32", 
+        "Energy Level": "32", 
+        "Responsibility": "5A", 
+        "Buys/Sells and Services": "00000000", 
+        "Teaches": "Restoration:13", 
+        "Maximum training level": "36", 
+        "Unused": "00 00"
+    }, 
+    "AI Packages": [
+        "PKID - AI Package": "MOEatCurrent6x1 [PACK:0106C39C]", 
+        "PKID - AI Package": "MOMageCast19x1 [PACK:0106C395]", 
+        "PKID - AI Package": "MOEatCurrent12x1 [PACK:0106C38F]", 
+        "PKID - AI Package": "MOMageRead3161 [PACK:0106C398]", 
+        "PKID - AI Package": "MOEatCurrent18x1 [PACK:0106C390]", 
+        "PKID - AI Package": "aaaServicesEditorlocStandStill [PACK:01F8B74F]"
+    ], 
+    "CNAM - Class": "00023785", 
+    "DATA - Stats": {
+        "Armorer": "05", 
+        "Athletics": "05", 
+        "Blade": "0A", 
+        "Block": "05", 
+        "Blunt": "21", 
+        "Hand to Hand": "0A", 
+        "Heavy Armor": "0F", 
+        "Alchemy": "22", 
+        "Alteration": "22", 
+        "Conjuration": "22", 
+        "Destruction": "0C", 
+        "Illusion": "0C", 
+        "Mysticism": "22", 
+        "Restoration": "22", 
+        "Acrobatics": "05", 
+        "Light Armor": "05", 
+        "Marksman": "05", 
+        "Mercantile": "0F", 
+        "Security": "05", 
+        "Sneak": "05", 
+        "Speechcraft": "26", 
+        "Health": "0000002C", 
+        "Unused": "00 00", 
+        "Strength": "2C", 
+        "Intelligence": "31", 
+        "Willpower": "34", 
+        "Agility": "20", 
+        "Speed": "20", 
+        "Endurance": "2A", 
+        "Personality": "32", 
+        "Luck": "32"
+    }, 
+    "HNAM - Hair": "0002C4D0", 
+    "LNAM - Hair length": 0.793481000000000, 
+    "ENAM - Eyes": {
+        "Eyes #0": "00027309"
+    }, 
+    "HCLR - Hair color": {
+        "Red": "86", 
+        "Green": "48", 
+        "Blue": "39", 
+        "Unused": "00"
+    }, 
+    "FaceGen Data": {
+        "FGGS - FaceGen Geometry-Symmetric": "75 99 FB 3E D9 35 2B BF 96 BD 25 BE 0F D4 3C BF F6 E8 F2 3E 4F 9E 17 BF 29 87 01 BF 68 64 F2 3E 2A D5 01 40 8C A4 09 40 4F 77 48 BF 5E 61 E1 3F 58 04 84 BF FE D5 A5 3F BA CE 29 C0 98 01 9D 3F 59 74 25 3F 66 CE 75 BE B8 5E 29 3F 80 7B 7D 3F 1F 8A 15 40 6C FF 1D 40 A0 C7 E3 BD EC 67 45 BE 2E 7A D0 BF C4 2B 38 40 8F 43 A7 BF 40 60 46 3F A7 F5 32 40 A9 C1 B9 BF D0 49 42 C0 13 60 07 C0 99 A3 EF BE C8 C1 82 3E EC 29 20 3F 88 F4 10 C0 49 2E D8 3F 8F 3D FB BF 31 B7 60 BF BC E7 18 40 1A 6D 32 C0 61 5E 94 BF EA 25 9F 3F 5C 47 87 40 C6 1E 3A 3E 3A DF FF BE FE 99 B9 3F BB E4 D6 BE 8A DB 57 40 2D 3F B6 3F", 
+        "FGGA - FaceGen Geometry-Asymmetric": "60 F3 20 BE 82 B2 A9 3E F8 A9 17 BF 95 13 41 BF 3D 9A 0A BF 12 D1 C4 BF A1 69 06 BF 81 59 45 BF 6B 06 13 3F 5D D5 20 BF EE 2E 90 BE F4 09 0A BF 37 DD 64 3F FB 09 F0 BE B5 BB B9 3F D5 28 31 3F DF 0A 81 BE AE F4 D7 3E A9 37 1D C0 88 D6 65 3E D8 30 F4 3D 18 86 5A BF 50 56 99 BE 63 AC B0 BF 64 F4 91 BF DD 6A AF 3E 90 FE DC BF 78 E1 2D 3D 3D FE 25 3F 8A CE A8 3E", 
+        "FGTS - FaceGen Texture-Symmetric": "A2 CF 2F 3F 3E 68 94 BE BD 47 F7 3E 1F B8 3C BF 0D F1 84 3F D3 0E 9E 3F E0 DA F3 3E A6 D4 1A BE 2E 75 9D 3F 90 06 84 BF 66 1E C2 BF D0 92 0D 3D E4 20 00 BE ED EB AF BF 2A 37 16 C0 37 1E 30 BF 88 9E 72 3E 86 62 26 C0 0D 35 0C 3F E9 B7 1F C0 58 59 EA BE 3C 27 B0 BF 65 6D 33 3E FE 65 91 BE A0 A6 81 3F 31 25 3F 3F 2C DF 01 C0 E0 E9 67 3F A1 E5 2D 3F 8C FD 80 3F 1C DC 36 40 3E B4 89 BF 17 59 4E C0 16 A0 10 C0 8C 44 E8 3F 2D 73 A1 3F 97 9E 4C 40 7A 03 78 BF C4 EF C2 3F CE 74 8B 3F AA 99 E6 3F D1 EC 35 C0 83 CB 30 C0 EA 24 FF BE 52 90 91 40 60 22 52 C0 B3 37 39 3F F0 CE 88 BD 17 D2 9A 3F FD 2D 28 3F"
+    }, 
+    "FNAM - Unknown": "8E 35"
+}

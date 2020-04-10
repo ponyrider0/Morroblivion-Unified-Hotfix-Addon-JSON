@@ -1,0 +1,144 @@
+{
+    "Record Header": {
+        "Signature": "NPC_", 
+        "Data Size": 856, 
+        "Record Flags": {
+            "Compressed ": true
+        }, 
+        "FormID": "01260068", 
+        "Version Control Info": "00 00 00 00"
+    }, 
+    "EDID - Editor ID": "0danderaSselaro", 
+    "FULL - Name": "Dandera Selaro", 
+    "Model": {
+        "MODL - Model FileName": "Characters\\_Male\\skeleton.nif", 
+        "MODB - Bound Radius": 71.400482000000000
+    }, 
+    "ACBS - Configuration": {
+        "Flags": {
+            "Female": true, 
+            "No Rumors": true
+        }, 
+        "Base spell points": "0000005E", 
+        "Fatigue": "000000E0", 
+        "Barter gold": "000002EE", 
+        "Level (offset)": 10, 
+        "Calc min": "00000001", 
+        "Calc max": "00000000"
+    }, 
+    "Factions": [
+        {
+            "Faction": "0122001B", 
+            "Rank": "00", 
+            "Unused": "4F 44 42"
+        }, 
+        {
+            "Faction": "01F0A263", 
+            "Rank": "00", 
+            "Unused": "4F 44 42"
+        }
+    ], 
+    "RNAM - Race": "DarkElf [RACE:000191C1]", 
+    "Items": [
+        {
+            "Item": "RepairHammer [MISC:0000000C]", 
+            "Count": -10
+        }, 
+        {
+            "Item": "FbmwCommonBelt2 [CLOT:0100B68B]", 
+            "Count": 1
+        }, 
+        {
+            "Item": "0netchUleatherUgauntletUright [ARMO:01120027]", 
+            "Count": 1
+        }, 
+        {
+            "Item": "0commonUshoesU04 [CLOT:01140007]", 
+            "Count": 1
+        }, 
+        {
+            "Item": "0commonUpantsU04 [CLOT:01140015]", 
+            "Count": 1
+        }, 
+        {
+            "Item": "0commonUshirtU02Ut [CLOT:0114003B]", 
+            "Count": 1
+        }, 
+        {
+            "Item": "mwAldRuhnDanderaSelaroKey [KEYM:01F8CE77]", 
+            "Count": 1
+        }
+    ], 
+    "AIDT - AI Data": {
+        "Aggression": "05", 
+        "Confidence": "32", 
+        "Energy Level": "32", 
+        "Responsibility": "63", 
+        "Buys/Sells and Services": {
+            "Weapons": true, 
+            "Armor": true, 
+            "Miscellaneous": true, 
+            "Repair": true
+        }, 
+        "Teaches": "Armorer:0", 
+        "Maximum training level": "30", 
+        "Unused": "00 00"
+    }, 
+    "AI Packages": [
+        "PKID - AI Package": "aaaEatCurrent6x2 [PACK:01F8B4F1]", 
+        "PKID - AI Package": "mwAldRuhnDanderaSelaroEat20X2 [PACK:01F8B6AE]", 
+        "PKID - AI Package": "mwAldRuhnDanderaSelaroSleep22X8 [PACK:01F8B6AF]", 
+        "PKID - AI Package": "aaaServicesEditorlocStandStill [PACK:01F8B74F]"
+    ], 
+    "CNAM - Class": "0001C823", 
+    "DATA - Stats": {
+        "Armorer": "30", 
+        "Athletics": "14", 
+        "Blade": "26", 
+        "Block": "30", 
+        "Blunt": "22", 
+        "Hand to Hand": "27", 
+        "Heavy Armor": "22", 
+        "Alchemy": "06", 
+        "Alteration": "06", 
+        "Conjuration": "06", 
+        "Destruction": "10", 
+        "Illusion": "06", 
+        "Mysticism": "0B", 
+        "Restoration": "06", 
+        "Acrobatics": "06", 
+        "Light Armor": "1D", 
+        "Marksman": "0B", 
+        "Mercantile": "0F", 
+        "Security": "06", 
+        "Sneak": "06", 
+        "Speechcraft": "06", 
+        "Health": "00000077", 
+        "Unused": "00 00", 
+        "Strength": "4F", 
+        "Intelligence": "2F", 
+        "Willpower": "25", 
+        "Agility": "39", 
+        "Speed": "48", 
+        "Endurance": "33", 
+        "Personality": "2D", 
+        "Luck": "28"
+    }, 
+    "HNAM - Hair": "0002C4D0", 
+    "LNAM - Hair length": 0.250000000000000, 
+    "ENAM - Eyes": {
+        "Eyes #0": "00027307"
+    }, 
+    "HCLR - Hair color": {
+        "Red": "21", 
+        "Green": "12", 
+        "Blue": "14", 
+        "Unused": "00"
+    }, 
+    "FaceGen Data": {
+        "FGGS - FaceGen Geometry-Symmetric": "03 02 64 BF 8A E2 59 3E 5F 8D 1D BF 27 37 CB 3E 5A C4 34 3F 1E 3E BD 3E C8 89 C4 BC 2D A9 48 3F 83 B0 93 BF 10 93 EB 3E 03 92 44 BF E8 53 96 3F 12 F3 2F 3F CC 9F 29 3F 7C 0C 2A 3E 6E 6C C0 BF 98 8B 94 BF B6 6B 3D 3F 80 71 A2 BE 60 C0 55 3E 0E 54 BA 3F E5 3B D3 3E EE F7 D5 3F 00 AC A6 BC 70 6F BD BD CD 0D 8A 3F D8 60 C7 3F AA 48 4C 3F A0 7A E7 3E 26 F8 D5 3E A8 48 33 BE 92 D5 35 3F 80 F1 BA 3B 33 51 87 3E 42 11 DA 3F 43 15 C0 BF 4C 80 4A BE 4A 63 06 BF D1 5B 2F 3F 29 5C F1 3F D8 16 D6 3E 10 3B BB 3E 01 28 85 BF 20 B5 59 BF 3C B2 81 3F 2C 23 CF BE 0C 38 F9 3F B4 16 64 BF 2A 65 1B 3E A4 FC 7A BF", 
+        "FGGA - FaceGen Geometry-Asymmetric": "86 62 8B BF 28 06 26 3E 8D 5F BA BF EF A6 5E 3F AE 8E 4C 3F 3A A2 19 BF A2 B3 CC 3D 22 71 96 BE 03 9E 6B BF CA EA A9 3F B5 92 64 3F 6C 5D 98 BD 40 97 C5 BE E9 00 A3 3E CE 55 0F 3E 2F CE 72 BE FA C0 06 3F CE 4D E8 BF 78 AA FC BB 10 7C 96 BE 04 7A 89 BE BB 2C 1B 3F C7 F5 4F BF 75 9E 0B BF 4C 4D 70 BF 8E 4D 21 BF 3E 30 EB 3D 60 32 EF 3F F4 1E 80 3E A7 70 8B BE", 
+        "FGTS - FaceGen Texture-Symmetric": "A8 C7 1E 3E 30 11 84 3F 45 5B 78 BE 12 10 4B BE A8 0B ED BF 98 82 48 3D D6 63 6B BF 40 83 EC 3E 5F 0C 3F BF 0A A1 06 BF 72 A1 47 BF AC BA 92 3E 16 47 62 BF 7B E3 A5 3E 54 EE 97 3E BD 0C B3 BE 6E 3A 9E BF 70 2A 35 3D EB 7B 32 3F 7C F1 8E BE 97 A1 72 3F 10 13 24 3C 34 8E 3B 3F 80 C8 D8 3C 37 47 8E BF 36 62 F4 BE 64 32 4F BF 7D DB C6 BE C4 04 FD 3E 02 87 32 BF 5C 6C FC 3E 7A CD 95 3F 1A 23 23 BF 24 E4 6C BF 86 99 01 BF E0 E1 0E 3F 72 96 A7 3F 28 98 F8 BE 8B B8 5B 3E A7 17 4E BF 83 68 9E BF 52 4E 88 BF 55 BE 03 3F 6E D3 0E 3E 59 68 C9 3E B2 F3 15 BD A0 8A 3D BD E2 40 7E 3F 50 0E 86 3E EE CD 94 BF"
+    }, 
+    "FNAM - Unknown": "72 54"
+}

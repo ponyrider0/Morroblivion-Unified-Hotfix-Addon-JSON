@@ -1,0 +1,37 @@
+{
+    "Record Header": {
+        "Signature": "CLAS", 
+        "Data Size": 125, 
+        "Record Flags": {}, 
+        "FormID": "0124003B", 
+        "Version Control Info": "00 00 00 00"
+    }, 
+    "EDID - Editor ID": "0HealerSService", 
+    "FULL - Name": "Healer", 
+    "DESC - Description": "Healer (service provider)", 
+    "DATA - DATA": {
+        "Primary Attributes": [
+            "Primary Attribute": "Willpower:2", 
+            "Primary Attribute": "Personality:6"
+        ], 
+        "Specialization": "Magic:1", 
+        "Major Skills": [
+            "Major Skill": 17, 
+            "Major Skill": 19, 
+            "Major Skill": 20, 
+            "Major Skill": 23, 
+            "Major Skill": 24, 
+            "Major Skill": 25, 
+            "Major Skill": 32
+        ], 
+        "Flags": {}, 
+        "Buys/Sells and Services": {
+            "Ingredients": true, 
+            "Spells": true, 
+            "Potions": true
+        }, 
+        "Teaches": "Armorer:0", 
+        "Maximum training level": "00", 
+        "Unused": "00000000"
+    }
+}

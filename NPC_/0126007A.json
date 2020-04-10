@@ -1,0 +1,167 @@
+{
+    "Record Header": {
+        "Signature": "NPC_", 
+        "Data Size": 896, 
+        "Record Flags": {
+            "Compressed ": true
+        }, 
+        "FormID": "0126007A", 
+        "Version Control Info": "00 00 00 00"
+    }, 
+    "EDID - Editor ID": "0minerSarobar", 
+    "FULL - Name": "Miner Arobar", 
+    "Model": {
+        "MODL - Model FileName": "Characters\\_Male\\skeleton.nif", 
+        "MODB - Bound Radius": 85.686050000000000
+    }, 
+    "ACBS - Configuration": {
+        "Flags": {
+            "Essential": true, 
+            "Auto-calc stats": true, 
+            "No Rumors": true
+        }, 
+        "Base spell points": "0000008C", 
+        "Fatigue": "0000011D", 
+        "Barter gold": "00000000", 
+        "Level (offset)": 19, 
+        "Calc min": "00000001", 
+        "Calc max": "00000000"
+    }, 
+    "Factions": [
+        {
+            "Faction": "01220000", 
+            "Rank": "08", 
+            "Unused": "4F 44 42"
+        }, 
+        {
+            "Faction": "0122001B", 
+            "Rank": "00", 
+            "Unused": "4F 44 42"
+        }, 
+        {
+            "Faction": "01F0A263", 
+            "Rank": "00", 
+            "Unused": "4F 44 42"
+        }
+    ], 
+    "RNAM - Race": "DarkElf [RACE:000191C1]", 
+    "Items": [
+        {
+            "Item": "Gold001 [MISC:0000000F]", 
+            "Count": 300
+        }, 
+        {
+            "Item": "Beef [INGR:0003365F]", 
+            "Count": -1
+        }, 
+        {
+            "Item": "FbmwExtravagantBelt1 [CLOT:0100B694]", 
+            "Count": 1
+        }, 
+        {
+            "Item": "0dwarvenSclaymore [WEAP:0110004D]", 
+            "Count": 1
+        }, 
+        {
+            "Item": "0minerAsSpick [WEAP:0110018C]", 
+            "Count": 1
+        }, 
+        {
+            "Item": "0bonemoldUarmunTanUcuirass [ARMO:01120065]", 
+            "Count": 1
+        }, 
+        {
+            "Item": "0bonemoldUgreaves [ARMO:01120068]", 
+            "Count": 1
+        }, 
+        {
+            "Item": "0bonemoldUboots [ARMO:01120069]", 
+            "Count": 1
+        }, 
+        {
+            "Item": "0extravagantUrobeU01Ur [CLOT:01140063]", 
+            "Count": 1
+        }, 
+        {
+            "Item": "0keyUarobarmanorU01 [KEYM:0140008E]", 
+            "Count": 1
+        }, 
+        {
+            "Item": "fbmwAmuletExtravagant01 [CLOT:01F8EA21]", 
+            "Count": 1
+        }, 
+        {
+            "Item": "fbmwExtravagantRing01 [CLOT:01F8EA2A]", 
+            "Count": 1
+        }
+    ], 
+    "SCRI - Script": "fbmwRedoranCouncilor [SCPT:01025B0E]", 
+    "AIDT - AI Data": {
+        "Aggression": "05", 
+        "Confidence": "32", 
+        "Energy Level": "32", 
+        "Responsibility": "32", 
+        "Buys/Sells and Services": "00000000", 
+        "Teaches": "Armorer:0", 
+        "Maximum training level": "00", 
+        "Unused": "00 00"
+    }, 
+    "AI Packages": [
+        "PKID - AI Package": "aaaEat20x2 [PACK:0002C50B]", 
+        "PKID - AI Package": "aaaEat6x2 [PACK:0001EB72]", 
+        "PKID - AI Package": "Sleepathome [PACK:01F8B532]", 
+        "PKID - AI Package": "mwAldRuhnCouncilHallMeeting [PACK:01F8B6E8]", 
+        "PKID - AI Package": "aaaDefaultExploreEditorLoc3000 [PACK:0002AA2F]"
+    ], 
+    "CNAM - Class": "01240006", 
+    "DATA - Stats": {
+        "Armorer": "39", 
+        "Athletics": "3E", 
+        "Blade": "43", 
+        "Block": "39", 
+        "Blunt": "3E", 
+        "Hand to Hand": "39", 
+        "Heavy Armor": "39", 
+        "Alchemy": "07", 
+        "Alteration": "07", 
+        "Conjuration": "07", 
+        "Destruction": "11", 
+        "Illusion": "07", 
+        "Mysticism": "0C", 
+        "Restoration": "07", 
+        "Acrobatics": "07", 
+        "Light Armor": "0C", 
+        "Marksman": "0C", 
+        "Mercantile": "07", 
+        "Security": "07", 
+        "Sneak": "07", 
+        "Speechcraft": "07", 
+        "Health": "000000BA", 
+        "Unused": "00 00", 
+        "Strength": "63", 
+        "Intelligence": "38", 
+        "Willpower": "29", 
+        "Agility": "33", 
+        "Speed": "4B", 
+        "Endurance": "5E", 
+        "Personality": "32", 
+        "Luck": "32"
+    }, 
+    "HNAM - Hair": "000690C0", 
+    "LNAM - Hair length": 0.787714000000000, 
+    "ENAM - Eyes": {
+        "Eyes #0": "00027307"
+    }, 
+    "HCLR - Hair color": {
+        "Red": "2C", 
+        "Green": "1F", 
+        "Blue": "16", 
+        "Unused": "00"
+    }, 
+    "FaceGen Data": {
+        "FGGS - FaceGen Geometry-Symmetric": "AE 5C 2E BF 7A 69 27 3F BD E4 76 BF 00 DB 5D BF A8 14 D5 3F 38 C8 38 BE 8A 91 0D BE F5 9D 5F 3F B0 A0 A6 BF 65 C6 A3 3E 76 C8 39 3E B6 4F A8 3F A9 0C 7A BF A8 34 8E 3F 40 2E AB BB 42 6D 61 BE 66 B3 4D 3E 8A 66 F1 BE 75 9F 85 3E 8F 33 B3 BF 01 25 21 BF 09 6E B4 BE CA BF C8 3E 51 9B 7C 3F 12 6D 0E 3F 85 F2 3A 3F 8A 8E E1 3E ED 8A 0E 3F 78 DD E4 BD B9 05 CD BE DD 94 B4 3F E1 43 A1 BF 21 3B A8 BE 45 98 34 BE E3 96 B1 3E 9A C8 8C 3F 58 33 8C 3F DC 26 6C BF AB D7 6D BE 9C 59 76 BE 4C 90 BE BF 1E B6 DE 3D EF 98 4D 3E 3E C5 4B BF 8E 7D E2 3E DE 75 85 3F 62 01 6D 3F 9F 3A 98 BD 86 09 80 3F CE 82 02 3F", 
+        "FGGA - FaceGen Geometry-Asymmetric": "9E 01 B8 3D 3A 6D 03 3E E8 D4 E4 BD 0B 74 E3 3E AF 12 29 3C 9F 01 B8 BF 5E 86 7A BF 45 E2 8C 3F 18 4B A7 BF 04 90 66 BF 30 EC 83 BF 5C 9B 19 3F E5 91 A1 3E 47 E6 B7 3D 46 2F F0 3E F8 1E 13 3F C3 26 30 3F 22 8A 41 3F 7D DC D8 3E 49 E9 0B 3E 53 CA 39 3F B2 30 17 3F C2 EB 31 BF 8F 95 3D 3F 7E 3D 9A 3F 05 EE E4 BF 6C 7B 0E BF B1 61 9D BD 1D ED 23 BF AC 28 B0 3E", 
+        "FGTS - FaceGen Texture-Symmetric": "20 0D BF BE A0 97 99 BE F8 02 78 BF 00 63 38 3C AA 9E B2 3F 99 DF B5 3F B0 88 89 BE 2E 2D 67 3F DA AA C4 3E 4D AF B0 BF B3 8F 59 3F CB 46 86 3F 20 F8 09 3F 64 31 C8 BE 8E 32 66 BF 95 53 87 3E 46 9A 59 3E FE 98 23 BF 64 07 BC BE B3 31 32 3F E8 35 D5 3F 25 93 EE BE 72 CC D1 3E 62 A3 A3 BF 93 44 09 3F 3E 44 7B BE AE 83 DC 3E 25 2F 34 BF 00 BD 82 BC FA C3 1D BE 0F 73 27 BF 8D D4 2E BF 48 5C 8A 3E 23 BD 09 3F 88 71 95 BF 3A 1D 5F BD 8B 71 80 BF 65 07 97 3E 62 0B 46 3D 64 3A 41 3F 37 0D 26 BF D8 19 05 3E B5 6B 82 3F 00 34 9C 3F 7E 94 29 BE D0 D3 2D 3C 29 B0 06 BF A5 17 C0 3D B3 D0 29 BE 5A 0A B0 3F"
+    }, 
+    "FNAM - Unknown": "72 54"
+}

@@ -1,0 +1,143 @@
+{
+    "Record Header": {
+        "Signature": "NPC_", 
+        "Data Size": 878, 
+        "Record Flags": {
+            "Compressed ": true
+        }, 
+        "FormID": "01260A91", 
+        "Version Control Info": "00 00 00 00"
+    }, 
+    "EDID - Editor ID": "0Elanande", 
+    "FULL - Name": "Elanande", 
+    "Model": {
+        "MODL - Model FileName": "Characters\\_Male\\skeleton.nif", 
+        "MODB - Bound Radius": 71.400482000000000
+    }, 
+    "ACBS - Configuration": {
+        "Flags": {
+            "Female": true, 
+            "No Rumors": true
+        }, 
+        "Base spell points": "000000C8", 
+        "Fatigue": "00000157", 
+        "Barter gold": "00000000", 
+        "Level (offset)": 30, 
+        "Calc min": "00000001", 
+        "Calc max": "00000000"
+    }, 
+    "Factions": [
+        {
+            "Faction": "0122001B", 
+            "Rank": "00", 
+            "Unused": "4F 44 42"
+        }, 
+        {
+            "Faction": "01F0A263", 
+            "Rank": "00", 
+            "Unused": "4F 44 42"
+        }
+    ], 
+    "RNAM - Race": "HighElf [RACE:00019204]", 
+    "Items": [
+        {
+            "Item": "0ebonySwarSaxeUelanande [WEAP:011001F4]", 
+            "Count": 1
+        }, 
+        {
+            "Item": "0extravagantUrobeU02Uelanande [CLOT:01140201]", 
+            "Count": 1
+        }
+    ], 
+    "Spells": [
+        "SPLO - Spell": "0direSweary [SPEL:0106002A]", 
+        "SPLO - Spell": "0strongSfrostSshield [SPEL:01060034]", 
+        "SPLO - Spell": "0secondSbarrier [SPEL:01060045]", 
+        "SPLO - Spell": "0strongSshockSshield [SPEL:0106004C]", 
+        "SPLO - Spell": "0summonSclanfear [SPEL:01060065]", 
+        "SPLO - Spell": "0wildSclumsiness [SPEL:010600AD]", 
+        "SPLO - Spell": "0wildSdistraction [SPEL:010600C2]", 
+        "SPLO - Spell": "0drainSenchant [SPEL:010600CA]", 
+        "SPLO - Spell": "0drainSdestruction [SPEL:010600CB]", 
+        "SPLO - Spell": "0drainSalteration [SPEL:010600CC]", 
+        "SPLO - Spell": "0drainSconjuration [SPEL:010600CE]", 
+        "SPLO - Spell": "0drainSalchemy [SPEL:010600D1]", 
+        "SPLO - Spell": "0strongSreflect [SPEL:01060180]", 
+        "SPLO - Spell": "0strongSspelldrinker [SPEL:01060186]", 
+        "SPLO - Spell": "0wildSspelldrinker [SPEL:01060187]", 
+        "SPLO - Spell": "0absorbSagilitySXrangedX [SPEL:0106018D]", 
+        "SPLO - Spell": "0absorbSenduranceSXrangedX [SPEL:0106018F]", 
+        "SPLO - Spell": "0drainSblood [SPEL:01060198]", 
+        "SPLO - Spell": "0absorbSluckSXrangedX [SPEL:0106019C]", 
+        "SPLO - Spell": "0absorbSstrengthSXrangedX [SPEL:010601A4]", 
+        "SPLO - Spell": "0absorbSwillpowerSXrangedX [SPEL:010601A6]", 
+        "SPLO - Spell": "0bloodSdespair [SPEL:010601A9]", 
+        "SPLO - Spell": "0GhostSCurse [SPEL:01060366]", 
+        "SPLO - Spell": "0poisonUpowerful [SPEL:01060387]", 
+        "SPLO - Spell": "0vivecAsUwrath [SPEL:0106038B]"
+    ], 
+    "AIDT - AI Data": {
+        "Aggression": "00", 
+        "Confidence": "46", 
+        "Energy Level": "32", 
+        "Responsibility": "1E", 
+        "Buys/Sells and Services": "00000000", 
+        "Teaches": "Blunt:4", 
+        "Maximum training level": "64", 
+        "Unused": "00 00"
+    }, 
+    "AI Packages": [
+        "PKID - AI Package": "aaaDefaultStayAtEditorLocation [PACK:0002C81C]"
+    ], 
+    "CNAM - Class": "00023997", 
+    "DATA - Stats": {
+        "Armorer": "08", 
+        "Athletics": "08", 
+        "Blade": "2C", 
+        "Block": "08", 
+        "Blunt": "64", 
+        "Hand to Hand": "08", 
+        "Heavy Armor": "3B", 
+        "Alchemy": "4A", 
+        "Alteration": "54", 
+        "Conjuration": "54", 
+        "Destruction": "58", 
+        "Illusion": "20", 
+        "Mysticism": "40", 
+        "Restoration": "1B", 
+        "Acrobatics": "08", 
+        "Light Armor": "08", 
+        "Marksman": "2C", 
+        "Mercantile": "08", 
+        "Security": "08", 
+        "Sneak": "08", 
+        "Speechcraft": "08", 
+        "Health": "000000C8", 
+        "Unused": "00 00", 
+        "Strength": "64", 
+        "Intelligence": "64", 
+        "Willpower": "64", 
+        "Agility": "48", 
+        "Speed": "3F", 
+        "Endurance": "47", 
+        "Personality": "39", 
+        "Luck": "28"
+    }, 
+    "HNAM - Hair": "00069473", 
+    "LNAM - Hair length": 0.916648000000000, 
+    "ENAM - Eyes": {
+        "Eyes #0": "00027308"
+    }, 
+    "HCLR - Hair color": {
+        "Red": "5C", 
+        "Green": "53", 
+        "Blue": "3A", 
+        "Unused": "00"
+    }, 
+    "FaceGen Data": {
+        "FGGS - FaceGen Geometry-Symmetric": "CF 7B A6 BD 2E 1D 23 BF 21 27 82 BF 44 76 05 3F 90 13 97 3F F4 78 8A 3D 5D 38 57 BE 47 CA 07 40 FB 0E 52 BE 93 A0 CE 3F 7D 50 08 3F A7 ED 8E 3E 04 B4 26 BF DD 9A F9 3E 7E C1 8D 3F B2 0E 77 BF C4 A5 52 BF 3E 71 46 BF EC 1C 45 3E 2A 5C 57 BE 6B 07 97 BF 7D 7C 32 3F 38 6B 1E BF 62 6D 0C BF 2D 61 94 3E E0 27 F3 3F 4F B0 51 BF B6 3A 8A 3F F5 10 11 BF CA C9 6F 3F 93 6A DE 3C 22 0E 43 3E AF 62 5D 3E 46 52 EE 3E 6B 40 04 BE 6C D1 09 BE 45 4B F2 BF 1D 34 39 3F EB 53 16 3F FD BC 99 3E 42 1C CF BE 88 04 48 3F A6 C0 01 3F 76 6B C4 BD EE 0A 9C BF 31 1C 04 BE 4F 5F 76 3F 56 FF A7 BF BD A1 2C BF D5 16 1F 3F", 
+        "FGGA - FaceGen Geometry-Asymmetric": "6A 13 06 BF 98 36 74 BF 4B 73 0D 3F 99 48 25 BE 03 34 8D 3F 13 34 11 3F 07 9B 67 3E B9 51 88 3F A8 FA 16 BF 18 34 07 BF 7A E6 AC 3D 97 68 EA BD 3C E7 80 3E C6 7D A4 3E 94 6F 64 BE F5 47 1A C0 DC 67 FB 3D 6C 0F A3 3D 82 07 2E BF 64 B9 35 3F 2E C9 34 3D 6F 85 6C BF 1E E5 9C 3F 8B 58 56 BF E6 1D 4D 3F 9C 5F 4D BF 46 9E 1D 3E EA 44 8D BD 52 D2 5A 3E 11 52 BE BF", 
+        "FGTS - FaceGen Texture-Symmetric": "99 15 0E 3F 4F 29 8F BF 04 1D B8 3E 14 E8 4D BF F0 3C 50 BF AC CB B8 BE E8 18 41 BF 00 2D 88 BD C1 92 FF 3E 1B 9E A8 BF 1D 63 9D 3E EA FC B4 3E 50 92 39 BF 58 AC E6 3E 8C AD 5D BF 5D E8 AC 3F 80 2A 98 BE 0C 6E BA BF 3D 97 5F BF 59 FF 0D BE 18 D7 18 BF E7 29 CC BE 01 E7 1E BF 5A B7 FA BE C7 36 81 3E 41 96 AB BF 6B 58 92 3F 84 2D 97 BE C7 63 1E 3E 18 6F 7B BE FC A4 F6 BD A8 1D 47 3F 1E 0F 8C 3E 16 5B 72 38 9A EF 43 BF 91 FA 38 3F 7B FF 3E BD 43 5A D5 BE 37 14 73 BF BC D5 80 BE 48 12 2F BE 5E 36 DA 3C 40 6A E4 3E 76 57 1F BF 76 72 E2 BF 5C 52 55 BE DB 94 5E BE 6B BF BD BE 82 B6 7F 3E 68 DA 7E BF"
+    }, 
+    "FNAM - Unknown": "77 44"
+}

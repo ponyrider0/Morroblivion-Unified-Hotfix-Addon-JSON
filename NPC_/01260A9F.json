@@ -1,0 +1,124 @@
+{
+    "Record Header": {
+        "Signature": "NPC_", 
+        "Data Size": 848, 
+        "Record Flags": {
+            "Compressed ": true
+        }, 
+        "FormID": "01260A9F", 
+        "Version Control Info": "00 00 00 00"
+    }, 
+    "EDID - Editor ID": "0tarenSandoren", 
+    "FULL - Name": "Taren Andoren", 
+    "Model": {
+        "MODL - Model FileName": "Characters\\_Male\\skeleton.nif", 
+        "MODB - Bound Radius": 71.400482000000000
+    }, 
+    "ACBS - Configuration": {
+        "Flags": {
+            "No Rumors": true
+        }, 
+        "Base spell points": "0000008A", 
+        "Fatigue": "000000EB", 
+        "Barter gold": "00000000", 
+        "Level (offset)": 19, 
+        "Calc min": "00000001", 
+        "Calc max": "00000000"
+    }, 
+    "Factions": [
+        {
+            "Faction": "0122001B", 
+            "Rank": "00", 
+            "Unused": "4F 44 42"
+        }, 
+        {
+            "Faction": "01F0A263", 
+            "Rank": "00", 
+            "Unused": "4F 44 42"
+        }
+    ], 
+    "RNAM - Race": "DarkElf [RACE:000191C1]", 
+    "Items": [
+        {
+            "Item": "0expensiveUshoesU03 [CLOT:0114000B]", 
+            "Count": 1
+        }, 
+        {
+            "Item": "0expensiveUshirtU03 [CLOT:01140027]", 
+            "Count": 1
+        }, 
+        {
+            "Item": "0commonUpantsU04Ub [CLOT:0114008D]", 
+            "Count": 1
+        }
+    ], 
+    "Spells": [
+        "SPLO - Spell": "0OgrulAsUQuickUAgain [SPEL:01060372]"
+    ], 
+    "SCRI - Script": "fbmwMSAdultererTarenScript [SCPT:01F8E99D]", 
+    "AIDT - AI Data": {
+        "Aggression": "05", 
+        "Confidence": "19", 
+        "Energy Level": "32", 
+        "Responsibility": "1E", 
+        "Buys/Sells and Services": "00000000", 
+        "Teaches": "Athletics:1", 
+        "Maximum training level": "43", 
+        "Unused": "00 00"
+    }, 
+    "AI Packages": [
+        "PKID - AI Package": "fbmwMSAdulterAffairPackage [PACK:01F8E9D0]", 
+        "PKID - AI Package": "aaaDefaultStayAtEditorLocation [PACK:0002C81C]"
+    ], 
+    "CNAM - Class": "00023E63", 
+    "DATA - Stats": {
+        "Armorer": "15", 
+        "Athletics": "43", 
+        "Blade": "3A", 
+        "Block": "2F", 
+        "Blunt": "15", 
+        "Hand to Hand": "07", 
+        "Heavy Armor": "15", 
+        "Alchemy": "07", 
+        "Alteration": "07", 
+        "Conjuration": "07", 
+        "Destruction": "11", 
+        "Illusion": "07", 
+        "Mysticism": "0C", 
+        "Restoration": "21", 
+        "Acrobatics": "21", 
+        "Light Armor": "26", 
+        "Marksman": "0C", 
+        "Mercantile": "30", 
+        "Security": "30", 
+        "Sneak": "21", 
+        "Speechcraft": "30", 
+        "Health": "00000093", 
+        "Unused": "00 00", 
+        "Strength": "3F", 
+        "Intelligence": "45", 
+        "Willpower": "32", 
+        "Agility": "47", 
+        "Speed": "32", 
+        "Endurance": "33", 
+        "Personality": "50", 
+        "Luck": "32"
+    }, 
+    "HNAM - Hair": "00027FF2", 
+    "LNAM - Hair length": 0.698477000000000, 
+    "ENAM - Eyes": {
+        "Eyes #0": "00027307"
+    }, 
+    "HCLR - Hair color": {
+        "Red": "2C", 
+        "Green": "1F", 
+        "Blue": "16", 
+        "Unused": "00"
+    }, 
+    "FaceGen Data": {
+        "FGGS - FaceGen Geometry-Symmetric": "CD 03 2E BF 4C D4 A4 3F C6 AF D6 3E 58 75 70 3F 74 DC 89 3F FC DE 67 BF F6 31 FF 3E 21 E8 61 BE 0E 58 E8 BF 79 BF 08 3F 37 7E 8D 3F BC 89 4D 40 CC 4D E7 BF 6C C7 21 BF 8A FF 5E 3F 28 56 FC BE 16 2A 85 3F 8B 74 12 BF EC B9 22 BD 7F D1 1B BF CC C3 B9 BD 60 09 20 3F 3A E0 0D 3F 12 42 13 3F 25 88 26 BF BF 06 96 BD 4F D2 5B 3F 18 5A D4 BE 32 1F F6 BE 0A 74 3A 3E 71 A6 98 3F D1 FF 0C 3E 6C C7 5B 3F 7B 8A F4 3F F2 67 99 3D DC FB 52 BF 00 9C 0E 3E B2 22 51 3D 4F 4B 96 BF C8 56 AE 3E EF 38 89 BE 27 56 5C 3F 73 25 7B 3F ED 8D 70 3D E2 C0 A7 BF 72 E2 FD 3E EA 90 12 BF 90 CC 56 3E 20 E9 02 BF 03 40 00 40", 
+        "FGGA - FaceGen Geometry-Asymmetric": "07 BD 72 3F 18 E4 2D 3F 36 8F 75 BE 6A 78 41 3E 36 B3 1C BF 4E 3C 08 BE 49 C9 78 BD E6 8A 27 BE 32 62 8D 3F 0A 10 B2 BE B7 A4 50 BE 4B F6 D2 3E 80 9C 0F BE 9D C4 FD BF E2 86 DC 3F DE 51 6A 3F FD 97 44 3F 38 24 A8 3E 4E FA 8B BD A6 FE 06 3F 94 27 A8 3F 6C 8E 60 3F D2 84 E8 3F 74 58 56 BF 78 20 30 BF 02 D3 83 BF 9D 86 D5 3C 91 EF 8D 3F 14 50 E1 3E 34 01 01 C0", 
+        "FGTS - FaceGen Texture-Symmetric": "AC 66 A7 3E 4A E3 B3 BF C2 54 C2 3F F2 0E EB BF A8 31 A7 3E B4 34 86 3F 0C DC 28 3F 58 95 C3 BD FC 0A D4 BD CB 2C 04 BF 70 28 86 3E 2A AC E9 3F BC 86 A3 BF A5 83 83 3F 6C 4F 11 3F 00 D7 97 3E 0A 3D 2A BE 47 7B 99 BE 78 BA 8F 3D 5F 09 E6 BF 83 76 B8 3D 9E A3 C8 BF BE 65 53 BF 68 46 BA BE E3 84 93 3F F6 90 36 BF 9A 33 D2 3E 5C F6 8B BF 56 D1 99 3E 13 5B 7B BE 9C 22 46 3F 88 40 85 BF 85 10 3B 3E 6D 8D DB 3E FF 61 3C 3E 8E 2F D1 BE 23 78 DA BD 70 9C 8D 3F 0C D6 40 BF 89 19 A8 3F E7 69 97 3F 4A EC 62 3F 5C 31 BA 3E 6E D0 8F 3F 9B CB 54 BE 5F 7A 06 BF CB F9 09 BE 32 3D 3A 3E 83 00 61 BF 03 89 5D 3E"
+    }, 
+    "FNAM - Unknown": "72 54"
+}

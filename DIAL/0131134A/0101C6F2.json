@@ -1,0 +1,12 @@
+{
+    "Topic": "1AntoniusSNuncius [DIAL:0131134A]", 
+    "Record Header": {
+        "Signature": "INFO", 
+        "Data Size": 0, 
+        "Record Flags": {
+            "Deleted": true
+        }, 
+        "FormID": "0101C6F2", 
+        "Version Control Info": "00 00 00 00"
+    }
+}

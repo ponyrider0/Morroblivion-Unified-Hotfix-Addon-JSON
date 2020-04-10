@@ -1,0 +1,32 @@
+{
+    "Record Header": {
+        "Signature": "DIAL", 
+        "Data Size": 209, 
+        "Record Flags": {}, 
+        "FormID": "00000105", 
+        "Version Control Info": "00 00 00 00"
+    }, 
+    "EDID - Editor ID": "Seen", 
+    "Quests": [
+        "QSTI - Quest": "Generic [QUST:00010602]", 
+        "QSTI - Quest": "SE12 [QUST:0001383C]", 
+        "QSTI - Quest": "SE00 [QUST:00018E8C]", 
+        "QSTI - Quest": "MQ00 [QUST:0001E722]", 
+        "QSTI - Quest": "MQ05 [QUST:0001E727]", 
+        "QSTI - Quest": "Charactergen [QUST:0002466E]", 
+        "QSTI - Quest": "MS45 [QUST:00027815]", 
+        "QSTI - Quest": "GenericWoodElfmorro [QUST:05001073]", 
+        "QSTI - Quest": "GenericArgonianmorro [QUST:05009860]", 
+        "QSTI - Quest": "GenericDarkElfmorro [QUST:0500A0D5]", 
+        "QSTI - Quest": "GenericOrcmorro [QUST:0500ED8A]", 
+        "QSTI - Quest": "GenericHighElfmorro [QUST:05010745]", 
+        "QSTI - Quest": "GenericBretonmorro [QUST:0501213D]", 
+        "QSTI - Quest": "WereWolfMorro [QUST:05013794]", 
+        "QSTI - Quest": "GenericImperialmorro [QUST:050165C4]", 
+        "QSTI - Quest": "GenericKhajiitMorro [QUST:050198FB]", 
+        "QSTI - Quest": "GenericNordMorro [QUST:050198FC]", 
+        "QSTI - Quest": "GenericRedguardMorro [QUST:050198FD]"
+    ], 
+    "FULL - Name": "Seen", 
+    "DATA - Type": "04"
+}

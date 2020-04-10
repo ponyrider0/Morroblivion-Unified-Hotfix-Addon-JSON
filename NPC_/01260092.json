@@ -1,0 +1,159 @@
+{
+    "Record Header": {
+        "Signature": "NPC_", 
+        "Data Size": 862, 
+        "Record Flags": {
+            "Compressed ": true
+        }, 
+        "FormID": "01260092", 
+        "Version Control Info": "00 00 00 00"
+    }, 
+    "EDID - Editor ID": "0redoranSguardSfemale", 
+    "FULL - Name": "Redoran Guard", 
+    "Model": {
+        "MODL - Model FileName": "Characters\\_Male\\skeleton.nif", 
+        "MODB - Bound Radius": 84.455948000000000
+    }, 
+    "ACBS - Configuration": {
+        "Flags": {
+            "Female": true, 
+            "Respawn": true, 
+            "Auto-calc stats": true, 
+            "No Rumors": true
+        }, 
+        "Base spell points": "0000007F", 
+        "Fatigue": "0000011F", 
+        "Barter gold": "00000000", 
+        "Level (offset)": 20, 
+        "Calc min": "00000001", 
+        "Calc max": "00000000"
+    }, 
+    "Factions": [
+        {
+            "Faction": "01220000", 
+            "Rank": "00", 
+            "Unused": "4F 44 42"
+        }, 
+        {
+            "Faction": "0122001B", 
+            "Rank": "00", 
+            "Unused": "4F 44 42"
+        }, 
+        {
+            "Faction": "01F0A263", 
+            "Rank": "00", 
+            "Unused": "4F 44 42"
+        }
+    ], 
+    "RNAM - Race": "DarkElf [RACE:000191C1]", 
+    "Items": [
+        {
+            "Item": "FbmwExtravagantBelt1 [CLOT:0100B694]", 
+            "Count": 1
+        }, 
+        {
+            "Item": "0bonemoldUgahTjulanUhelm [ARMO:0112005C]", 
+            "Count": 1
+        }, 
+        {
+            "Item": "0bonemoldUgahTjulanUcuirass [ARMO:01120064]", 
+            "Count": 1
+        }, 
+        {
+            "Item": "0bonemoldUbracerUright [ARMO:01120067]", 
+            "Count": 1
+        }, 
+        {
+            "Item": "0bonemoldUgreaves [ARMO:01120068]", 
+            "Count": 1
+        }, 
+        {
+            "Item": "0bonemoldUboots [ARMO:01120069]", 
+            "Count": 1
+        }, 
+        {
+            "Item": "0extravagantUshoesU01 [CLOT:0114000C]", 
+            "Count": 1
+        }, 
+        {
+            "Item": "0extravagantUskirtU01 [CLOT:01140032]", 
+            "Count": 1
+        }, 
+        {
+            "Item": "0extravagantUshirtU01Ur [CLOT:01140041]", 
+            "Count": 1
+        }, 
+        {
+            "Item": "0torch [LIGH:012C0014]", 
+            "Count": 1
+        }, 
+        {
+            "Item": "0silverSlongsword [WEAP:01F8E983]", 
+            "Count": 1
+        }
+    ], 
+    "AIDT - AI Data": {
+        "Aggression": "05", 
+        "Confidence": "64", 
+        "Energy Level": "32", 
+        "Responsibility": "64", 
+        "Buys/Sells and Services": "00000000", 
+        "Teaches": "Armorer:0", 
+        "Maximum training level": "00", 
+        "Unused": "00 00"
+    }, 
+    "AI Packages": [
+        "PKID - AI Package": "aaaDefaultExploreEditorLoc3000 [PACK:0002AA2F]"
+    ], 
+    "CNAM - Class": "00034E6E", 
+    "DATA - Stats": {
+        "Armorer": "15", 
+        "Athletics": "40", 
+        "Blade": "44", 
+        "Block": "3A", 
+        "Blunt": "40", 
+        "Hand to Hand": "15", 
+        "Heavy Armor": "3A", 
+        "Alchemy": "07", 
+        "Alteration": "07", 
+        "Conjuration": "07", 
+        "Destruction": "11", 
+        "Illusion": "07", 
+        "Mysticism": "0C", 
+        "Restoration": "07", 
+        "Acrobatics": "07", 
+        "Light Armor": "0C", 
+        "Marksman": "31", 
+        "Mercantile": "07", 
+        "Security": "07", 
+        "Sneak": "2C", 
+        "Speechcraft": "07", 
+        "Health": "000000C4", 
+        "Unused": "00 00", 
+        "Strength": "57", 
+        "Intelligence": "33", 
+        "Willpower": "29", 
+        "Agility": "52", 
+        "Speed": "4D", 
+        "Endurance": "4D", 
+        "Personality": "4A", 
+        "Luck": "32"
+    }, 
+    "HNAM - Hair": "00090475", 
+    "LNAM - Hair length": 0.620960000000000, 
+    "ENAM - Eyes": {
+        "Eyes #0": "00027307"
+    }, 
+    "HCLR - Hair color": {
+        "Red": "7C", 
+        "Green": "38", 
+        "Blue": "21", 
+        "Unused": "00"
+    }, 
+    "FaceGen Data": {
+        "FGGS - FaceGen Geometry-Symmetric": "23 7B BA 3E 82 F2 89 BF 0A CC 40 BF 19 EA FF 3E BE A2 10 40 12 30 96 3E D0 BC B3 3E DA 8A F8 BE F4 6E F4 3E C4 7D 04 3F A0 4A AE 3F 28 33 A1 3E F0 D8 AA 3D 94 B4 CF 3F 27 45 DD 3F A0 6C 91 BF BC F0 02 BF 6E 26 F4 3F 88 F6 2F BF C8 3A 83 3E 18 BC DE 3D C7 4E 20 3F 90 E6 04 C0 CA 25 E8 3E AD 2E C7 3D 5A 5C 19 3F 96 36 E1 BE 5C 56 88 3E BA 42 29 3F 41 86 3D 3F 97 6C 37 BF FC FE FA BE 50 D4 BC BE AC 3D 0B BF 28 27 A0 BF D4 67 B7 BE E8 91 E8 3E A4 8F 22 3E 4C 89 76 3E D0 6C 03 3D BB BB 2B BF 60 74 CB BE 9A 1B 2E BF F8 50 8E 3D 0A 29 DC 3E 37 6E 60 3F 26 74 D1 BF E8 39 B8 BF E0 B1 F0 BE EE A2 7B 3F", 
+        "FGGA - FaceGen Geometry-Asymmetric": "D1 AE 9F 3D 86 5E B4 3E 16 4D 0F BF 8C 06 DB 3E F0 0D 2C 3F 62 44 43 3E 0F 5C 7D 3E 5C 5C 39 BF 7D 17 22 BF 94 31 47 BF B4 C9 57 BF 6C 63 6D BE 93 DD 04 BF 30 CA 0D 3F 3A E9 E3 3E 40 B3 F1 BE 01 E8 9C BF B6 C2 57 BE F3 5D 9A 3E 1E 62 C8 3E 6E D8 99 BC 7C 62 4E 3E D8 6A 53 BF C6 82 F0 3E C8 27 8A BF 6C C9 76 3E 32 E2 4B 3E 5B 6D FD 3E 76 71 FB 3E 60 99 8B BE", 
+        "FGTS - FaceGen Texture-Symmetric": "AC B6 04 3E 48 EB 26 3E E5 34 1C BF 12 6D AC BF 65 5C 01 BE BA 61 05 BF F2 65 16 BF 72 9C 6F BF B2 E7 0F BE 3A 70 F6 BE A4 44 12 BD 83 6D 14 3F 4E 3C 62 BF 14 57 40 3F DB 16 94 BF 06 FC 4D BE EA 61 88 BF E6 64 B0 3E 4C 28 DE BE A8 D3 30 3E BF E0 47 3F 49 69 B2 3E AC 26 12 BF E3 01 54 BF 84 08 F3 3E 13 CE 06 BF 74 4C AF BF A9 FF D8 BF 9C 5A 26 BF AC CC EA 3E D6 84 13 BF 0F 3E CA 3E EA C5 B2 3F 47 EC 8D BF A4 34 74 3E 66 61 B4 3F 65 B0 85 BF E2 BC D8 BE 00 23 EE 3E 1E 1C 1B BF 31 48 85 3F DC 49 CD 3E 4C 9A 2C 3F F4 51 C9 BE 2E C5 8C BE 18 94 0D 40 73 0E 16 BF 38 B6 A3 3D 4C 98 41 BE 72 8C 95 3F"
+    }, 
+    "FNAM - Unknown": "72 54"
+}

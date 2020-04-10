@@ -1,0 +1,151 @@
+{
+    "Record Header": {
+        "Signature": "NPC_", 
+        "Data Size": 854, 
+        "Record Flags": {
+            "Compressed ": true
+        }, 
+        "FormID": "0126001B", 
+        "Version Control Info": "00 00 00 00"
+    }, 
+    "EDID - Editor ID": "0anarenen", 
+    "FULL - Name": "Anarenen", 
+    "Model": {
+        "MODL - Model FileName": "Characters\\_Male\\skeleton.nif", 
+        "MODB - Bound Radius": 91.940842000000000
+    }, 
+    "ACBS - Configuration": {
+        "Flags": {
+            "No Rumors": true
+        }, 
+        "Base spell points": "00000029", 
+        "Fatigue": "000000B2", 
+        "Barter gold": "00000190", 
+        "Level (offset)": 7, 
+        "Calc min": "00000001", 
+        "Calc max": "00000000"
+    }, 
+    "Factions": [
+        {
+            "Faction": "0100761B", 
+            "Rank": "00", 
+            "Unused": "4F 44 42"
+        }, 
+        {
+            "Faction": "0122001B", 
+            "Rank": "00", 
+            "Unused": "4F 44 42"
+        }, 
+        {
+            "Faction": "01F0A263", 
+            "Rank": "00", 
+            "Unused": "4F 44 42"
+        }
+    ], 
+    "RNAM - Race": "HighElf [RACE:00019204]", 
+    "Items": [
+        {
+            "Item": "Beef [INGR:0003365F]", 
+            "Count": -1
+        }, 
+        {
+            "Item": "0commonUshoesU04 [CLOT:01140007]", 
+            "Count": 1
+        }, 
+        {
+            "Item": "0commonUrobeU05 [CLOT:01140057]", 
+            "Count": 1
+        }, 
+        {
+            "Item": "0apparatusUjUmortarU01 [APPA:01420004]", 
+            "Count": 1
+        }, 
+        {
+            "Item": "0apparatusUjUalembicU01 [APPA:01420008]", 
+            "Count": 1
+        }, 
+        {
+            "Item": "0apparatusUjUcalcinatorU01 [APPA:0142000C]", 
+            "Count": 1
+        }, 
+        {
+            "Item": "0apparatusUjUretortU01 [APPA:01420010]", 
+            "Count": 1
+        }
+    ], 
+    "AIDT - AI Data": {
+        "Aggression": "05", 
+        "Confidence": "19", 
+        "Energy Level": "32", 
+        "Responsibility": "63", 
+        "Buys/Sells and Services": {
+            "Ingredients": true, 
+            "Apparatus": true, 
+            "Potions": true, 
+            "Training": true
+        }, 
+        "Teaches": "Alchemy:7", 
+        "Maximum training level": "32", 
+        "Unused": "00 00"
+    }, 
+    "AI Packages": [
+        "PKID - AI Package": "MOMageRead16x1 [PACK:0106C396]", 
+        "PKID - AI Package": "MOEatCurrent8x1 [PACK:0106C391]", 
+        "PKID - AI Package": "MOEatCurrent12x1 [PACK:0106C38F]", 
+        "PKID - AI Package": "MOMageRead3161 [PACK:0106C398]", 
+        "PKID - AI Package": "MOEatCurrent18x1 [PACK:0106C390]", 
+        "PKID - AI Package": "MOSleep0x6 [PACK:01F8CB81]", 
+        "PKID - AI Package": "MOMerchantPackage [PACK:0106C399]"
+    ], 
+    "CNAM - Class": "00023C09", 
+    "DATA - Stats": {
+        "Armorer": "06", 
+        "Athletics": "06", 
+        "Blade": "06", 
+        "Block": "16", 
+        "Blunt": "06", 
+        "Hand to Hand": "16", 
+        "Heavy Armor": "06", 
+        "Alchemy": "32", 
+        "Alteration": "2E", 
+        "Conjuration": "32", 
+        "Destruction": "13", 
+        "Illusion": "0E", 
+        "Mysticism": "28", 
+        "Restoration": "09", 
+        "Acrobatics": "06", 
+        "Light Armor": "06", 
+        "Marksman": "06", 
+        "Mercantile": "0A", 
+        "Security": "06", 
+        "Sneak": "06", 
+        "Speechcraft": "16", 
+        "Health": "00000047", 
+        "Unused": "00 00", 
+        "Strength": "27", 
+        "Intelligence": "52", 
+        "Willpower": "2F", 
+        "Agility": "30", 
+        "Speed": "32", 
+        "Endurance": "2C", 
+        "Personality": "2E", 
+        "Luck": "32"
+    }, 
+    "HNAM - Hair": "000690C0", 
+    "LNAM - Hair length": 0.771508000000000, 
+    "ENAM - Eyes": {
+        "Eyes #0": "00027309"
+    }, 
+    "HCLR - Hair color": {
+        "Red": "85", 
+        "Green": "6C", 
+        "Blue": "47", 
+        "Unused": "00"
+    }, 
+    "FaceGen Data": {
+        "FGGS - FaceGen Geometry-Symmetric": "86 AC B8 3E 16 9D 1B 3F 1D 55 21 BF 26 6F E5 BC 40 EB D6 3E 79 86 10 3E A9 E9 14 3F 7C 0F 8E BD 65 CD A7 BF 55 5B 0F 3E C2 93 50 BF B3 38 C5 3E DD 36 31 3F CB 1C 37 3E F9 1D 82 3E BD B9 8A BF 22 E6 96 BF 1A E6 09 3F C8 17 FF BE 85 5A 28 3F FE 0F 1B 3E 21 FF 94 3E 7C FE 53 BE 78 18 0B BF 16 40 A9 3E AC 0C C4 BE 4A D9 7F BE F0 16 20 3F 16 75 C4 BE 49 04 E7 BE EE FA 45 3F 4A 1F 21 3E 3F 63 A1 3E 2D 73 58 BE 4B 05 1E 3F C6 28 CE BF E5 0B B0 BE 12 81 F5 BE 32 C0 35 3F B8 88 56 BE 99 78 6B 3F AF D7 4B BE DB 78 C9 BE 69 E3 DC BE 51 22 03 3D A1 A7 81 BE 53 77 60 3F 00 C6 A9 38 04 F1 85 3F B2 60 15 3F", 
+        "FGGA - FaceGen Geometry-Asymmetric": "26 2E 4D 3F 91 68 BE 3F 1C 8D 30 3E 83 64 A4 3D 64 04 F5 BE A4 1E 4D 3F CD BA 17 BF 6C A8 51 BE C4 9C 0D 3F 6C 2B 61 3E 79 00 45 3E CB 1F F0 3D E9 FD 0D 3C 3D 45 34 BF 59 26 27 3F 62 47 2C BF 3D 8E 8F 3E 36 6F A6 BE E0 FD 9D 3E 66 DC 57 BF E2 3D B9 3F 66 6D 0D BF CF DC B0 BF C2 CD 54 BF BE 4E 70 3E 87 62 AA 3E BD 52 89 3F CC 02 D6 3F FE 7C EE 3D 32 C8 91 3C", 
+        "FGTS - FaceGen Texture-Symmetric": "8A C8 B1 BF CA D3 19 3F BE B3 E4 3E 84 52 4A 3D 06 B1 B8 BE D8 07 33 BE E0 80 59 BF CF 75 57 3F 69 38 38 3E 40 69 12 BF 02 6A E8 BE B8 91 4C BE F8 50 D1 BD 9F 11 15 BF E0 74 02 BE 42 22 86 3F F6 05 9C 3F B8 9D C3 BD CC C8 23 BF 1A 91 71 BF 7C 3E 8D 3E A0 3A D8 3E 03 5C 26 BF 22 38 79 BF F0 E3 89 3F 10 B6 D1 BE 76 12 AE 3F 19 F2 15 40 A1 EC 09 3F 04 AC DA BE C8 90 BF BE 04 A7 21 3F 50 0D AA BD 9E 97 26 BE F5 96 1F 3F 6C C4 C1 BF B0 16 75 3D 46 52 B6 BE F0 FC 3F 3D CE 55 F6 3E B0 8C 33 BE 90 D6 60 3E B4 49 0E 3F 75 34 09 3F DC 57 34 3F 51 4E 96 BF 78 04 86 BE 50 C3 96 BF 60 AC 43 BD 88 CF 19 3E"
+    }, 
+    "FNAM - Unknown": "E6 21"
+}

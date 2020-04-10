@@ -1,0 +1,12 @@
+{
+    "Topic": "1goSwithSyou [DIAL:0131139B]", 
+    "Record Header": {
+        "Signature": "INFO", 
+        "Data Size": 0, 
+        "Record Flags": {
+            "Deleted": true
+        }, 
+        "FormID": "013220F7", 
+        "Version Control Info": "00 00 00 00"
+    }
+}

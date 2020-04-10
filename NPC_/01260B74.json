@@ -1,0 +1,139 @@
+{
+    "Record Header": {
+        "Signature": "NPC_", 
+        "Data Size": 842, 
+        "Record Flags": {
+            "Compressed ": true
+        }, 
+        "FormID": "01260B74", 
+        "Version Control Info": "00 00 00 00"
+    }, 
+    "EDID - Editor ID": "0skaalUhunter2", 
+    "FULL - Name": "Skaal Hunter", 
+    "Model": {
+        "MODL - Model FileName": "Characters\\_Male\\skeleton.nif", 
+        "MODB - Bound Radius": 77.388329000000000
+    }, 
+    "ACBS - Configuration": {
+        "Flags": {
+            "No Low Level Processing": true, 
+            "No Rumors": true
+        }, 
+        "Base spell points": "0000008A", 
+        "Fatigue": "0000017B", 
+        "Barter gold": "00000000", 
+        "Level (offset)": 50, 
+        "Calc min": "00000001", 
+        "Calc max": "00000000"
+    }, 
+    "Factions": [
+        {
+            "Faction": "0122001A", 
+            "Rank": "00", 
+            "Unused": "4F 44 42"
+        }, 
+        {
+            "Faction": "0122001B", 
+            "Rank": "00", 
+            "Unused": "4F 44 42"
+        }
+    ], 
+    "RNAM - Race": "Nord [RACE:000224FD]", 
+    "Items": [
+        {
+            "Item": "fbmwbmrandomnordhuntweap [LVLI:0102D86F]", 
+            "Count": 1
+        }, 
+        {
+            "Item": "0BMSbearSboots [ARMO:01120154]", 
+            "Count": 1
+        }, 
+        {
+            "Item": "0BMSbearScuirass [ARMO:01120155]", 
+            "Count": 1
+        }, 
+        {
+            "Item": "0BMSbearSgreaves [ARMO:01120158]", 
+            "Count": 1
+        }, 
+        {
+            "Item": "fbmwbmskaalhuntshield [LVLI:0115A3C3]", 
+            "Count": 1
+        }, 
+        {
+            "Item": "0BMUskaalhunthelm [LVLI:011A010D]", 
+            "Count": 1
+        }, 
+        {
+            "Item": "0BMUskaalhuntRGaunt [LVLI:011A0112]", 
+            "Count": 1
+        }
+    ], 
+    "SCRI - Script": "fbmwbmTotemHunterScript [SCPT:01F8B826]", 
+    "AIDT - AI Data": {
+        "Aggression": "50", 
+        "Confidence": "46", 
+        "Energy Level": "32", 
+        "Responsibility": "1E", 
+        "Buys/Sells and Services": "00000000", 
+        "Teaches": "Athletics:1", 
+        "Maximum training level": "64", 
+        "Unused": "00 00"
+    }, 
+    "AI Packages": [
+        "PKID - AI Package": "fbmwbmSkaalHuntLeave [PACK:01F8BCC2]", 
+        "PKID - AI Package": "fbmwbmSkaalHuntingTotem [PACK:01F8BCC3]", 
+        "PKID - AI Package": "aaaDefaultExploreEditorLoc512 [PACK:0002251B]"
+    ], 
+    "CNAM - Class": "00023787", 
+    "DATA - Stats": {
+        "Armorer": "5E", 
+        "Athletics": "64", 
+        "Blade": "64", 
+        "Block": "64", 
+        "Blunt": "64", 
+        "Hand to Hand": "0A", 
+        "Heavy Armor": "64", 
+        "Alchemy": "0A", 
+        "Alteration": "0A", 
+        "Conjuration": "0A", 
+        "Destruction": "0A", 
+        "Illusion": "0A", 
+        "Mysticism": "0A", 
+        "Restoration": "0A", 
+        "Acrobatics": "0A", 
+        "Light Armor": "64", 
+        "Marksman": "40", 
+        "Mercantile": "0A", 
+        "Security": "0A", 
+        "Sneak": "0A", 
+        "Speechcraft": "0A", 
+        "Health": "0000018A", 
+        "Unused": "00 00", 
+        "Strength": "64", 
+        "Intelligence": "45", 
+        "Willpower": "4F", 
+        "Agility": "64", 
+        "Speed": "64", 
+        "Endurance": "64", 
+        "Personality": "3B", 
+        "Luck": "28"
+    }, 
+    "HNAM - Hair": "00027FF2", 
+    "LNAM - Hair length": 0.868500000000000, 
+    "ENAM - Eyes": {
+        "Eyes #0": "00027306"
+    }, 
+    "HCLR - Hair color": {
+        "Red": "AF", 
+        "Green": "93", 
+        "Blue": "56", 
+        "Unused": "00"
+    }, 
+    "FaceGen Data": {
+        "FGGS - FaceGen Geometry-Symmetric": "AC 63 51 C0 60 E9 33 40 A8 F0 34 BF 54 B4 47 3E D2 2C 25 BF 74 37 46 3E 22 90 02 C0 00 AA 23 BD 1E D4 EF BE 83 A9 D2 BF 98 B0 83 3F 80 D0 32 3F A2 44 17 BE 8D F6 FA BF AC 3C 91 3E EA 34 85 3F 7B 04 B4 BF B5 17 96 BF EE 8D 2C 40 FC 77 65 BF 68 32 E7 3F A8 F1 48 BF B8 99 0E 3F 66 B1 AD BE 62 B4 C8 BE A7 4B 65 3F 6F 51 73 BF 00 83 F8 BF A9 8A A5 3F 6F 8B A0 3F 8E 73 E8 3F B9 F9 3B BE 69 FD 09 40 3A DD 91 3F 22 D1 F2 3E A5 8A D3 3E 1D 54 1A 3F 16 16 9D BC 00 19 87 BA 74 F5 95 BE C3 DE 65 BF A1 6B 1A 3E AB 32 8F BF 2D 2E B2 BF 9E 8A B9 BE 60 35 46 BC 78 66 CA 3F 64 A1 C0 3E 2A 86 1E BF 8F CE 64 BF", 
+        "FGGA - FaceGen Geometry-Asymmetric": "9F FF 8D BE E6 6A 9E 3E 08 69 2D BF 00 04 61 3E DC 39 4B 3E 26 21 1E BF 72 C0 C8 BE 4E A7 BF 3E E8 11 55 BB 06 4F 6B BE 45 23 DC 3B D2 A6 45 3F EE 47 92 BF 52 AB 72 3F AB D7 21 BF 4F AF A2 3F 22 26 B8 BE 0E AA FE 3E 4A 87 ED 3E BC 03 5C 3E 98 D4 E7 3E 8C E9 99 BE 58 94 D0 3D 80 A6 8E 3E BE FC 3A 3F CA E4 04 3F 0C 26 3D BF C6 60 6E 3E A1 2D 2E BF E8 80 AB BF", 
+        "FGTS - FaceGen Texture-Symmetric": "F1 A9 C0 BF 55 08 BB BE 43 41 0D 3E 92 29 83 BE 04 95 80 BD EE 54 E5 3E 18 D4 22 40 B1 71 5A BF 04 E7 1F 3E BB 3D A6 BF EF E1 CA 3E 98 B9 3C 3C 62 C8 E0 3F 31 4A 00 BF BA 22 09 BE F5 FA 9C 3F 04 DA 92 3E 15 D0 EF 3E AD EF 3C BF 10 4A 41 BF A7 2F C3 BE 35 1E 6D BF 8A 64 F9 BE DF 90 69 3F D6 E5 61 BF C8 BE 25 3F 3F 09 83 3F 2A F7 94 BF 80 CA A1 BF 96 BB 17 3F 4F 4F 5D BF AA 47 F6 BE 6E 22 64 3F 3B 69 5F 3E 58 1B 28 BF 40 F5 9E BE 2A A1 B5 BF 46 EA C8 BF 7A A3 04 3F 3F 43 6A 3F 60 D5 0F BE 98 E5 4A 3E 23 F8 02 3E E4 6F 46 BE AE 22 6A BF 94 4A 2D BF 12 E7 C0 3F EF 23 40 3E 80 8C 39 BF F8 C5 27 3E"
+    }, 
+    "FNAM - Unknown": "B6 03"
+}

@@ -1,0 +1,142 @@
+{
+    "Record Header": {
+        "Signature": "NPC_", 
+        "Data Size": 847, 
+        "Record Flags": {
+            "Compressed ": true
+        }, 
+        "FormID": "01260071", 
+        "Version Control Info": "00 00 00 00"
+    }, 
+    "EDID - Editor ID": "0imperialSguardScaptain", 
+    "FULL - Name": "Guard Captain", 
+    "Model": {
+        "MODL - Model FileName": "Characters\\_Male\\skeleton.nif", 
+        "MODB - Bound Radius": 82.679550000000000
+    }, 
+    "ACBS - Configuration": {
+        "Flags": {
+            "Respawn": true, 
+            "Auto-calc stats": true, 
+            "No Rumors": true
+        }, 
+        "Base spell points": "00000087", 
+        "Fatigue": "0000013D", 
+        "Barter gold": "00000000", 
+        "Level (offset)": 24, 
+        "Calc min": "00000001", 
+        "Calc max": "00000000"
+    }, 
+    "Factions": [
+        {
+            "Faction": "0122000F", 
+            "Rank": "02", 
+            "Unused": "4F 44 42"
+        }, 
+        {
+            "Faction": "0122001B", 
+            "Rank": "00", 
+            "Unused": "4F 44 42"
+        }, 
+        {
+            "Faction": "01F0A263", 
+            "Rank": "00", 
+            "Unused": "4F 44 42"
+        }
+    ], 
+    "RNAM - Race": "Imperial [RACE:00000907]", 
+    "Items": [
+        {
+            "Item": "FbmwImperialBelt [CLOT:01017E30]", 
+            "Count": 1
+        }, 
+        {
+            "Item": "0imperialSbroadsword [WEAP:01100009]", 
+            "Count": 1
+        }, 
+        {
+            "Item": "0imperialSrightSgauntlet [ARMO:01120014]", 
+            "Count": 1
+        }, 
+        {
+            "Item": "0imperialSboots [ARMO:01120015]", 
+            "Count": 1
+        }, 
+        {
+            "Item": "0imperialShelmetSarmor [ARMO:01120017]", 
+            "Count": 1
+        }, 
+        {
+            "Item": "0imperialScuirassUarmor [ARMO:011200A6]", 
+            "Count": 1
+        }, 
+        {
+            "Item": "0imperialSskirtUclothing [CLOT:01140085]", 
+            "Count": 1
+        }
+    ], 
+    "AIDT - AI Data": {
+        "Aggression": "05", 
+        "Confidence": "63", 
+        "Energy Level": "32", 
+        "Responsibility": "63", 
+        "Buys/Sells and Services": "00000000", 
+        "Teaches": "Armorer:0", 
+        "Maximum training level": "00", 
+        "Unused": "00 00"
+    }, 
+    "AI Packages": [
+        "PKID - AI Package": "aaaDefaultExploreEditorLoc512 [PACK:0002251B]"
+    ], 
+    "CNAM - Class": "00034E6E", 
+    "DATA - Stats": {
+        "Armorer": "18", 
+        "Athletics": "40", 
+        "Blade": "46", 
+        "Block": "40", 
+        "Blunt": "46", 
+        "Hand to Hand": "1D", 
+        "Heavy Armor": "4A", 
+        "Alchemy": "07", 
+        "Alteration": "07", 
+        "Conjuration": "07", 
+        "Destruction": "07", 
+        "Illusion": "07", 
+        "Mysticism": "07", 
+        "Restoration": "07", 
+        "Acrobatics": "07", 
+        "Light Armor": "07", 
+        "Marksman": "30", 
+        "Mercantile": "11", 
+        "Security": "07", 
+        "Sneak": "30", 
+        "Speechcraft": "11", 
+        "Health": "000000EA", 
+        "Unused": "00 00", 
+        "Strength": "60", 
+        "Intelligence": "36", 
+        "Willpower": "2C", 
+        "Agility": "51", 
+        "Speed": "48", 
+        "Endurance": "60", 
+        "Personality": "29", 
+        "Luck": "32"
+    }, 
+    "HNAM - Hair": "0018A891", 
+    "LNAM - Hair length": 0.466536000000000, 
+    "ENAM - Eyes": {
+        "Eyes #0": "00027309"
+    }, 
+    "HCLR - Hair color": {
+        "Red": "50", 
+        "Green": "40", 
+        "Blue": "2E", 
+        "Unused": "00"
+    }, 
+    "FaceGen Data": {
+        "FGGS - FaceGen Geometry-Symmetric": "D0 EB D8 3E 50 2F 07 40 D3 CB 5E BF EF 6D 86 BF 00 DA 79 39 6B 61 00 BF 3A B8 A8 3E 2C CE 97 3E 15 BC 39 BE D4 2A A3 3F 92 22 01 3D 42 93 93 3F 78 F2 1C BF 00 32 52 BE E3 02 FE 3E E1 87 04 40 C8 81 28 3C 97 D7 0C 3F 84 DD AB BF C0 D9 47 3F 86 FB D7 BE 3F B1 F8 BD DE ED 09 BF E3 EE 6A BF 34 BB 84 BE AD 21 58 3F 2E D7 06 3E C3 E9 23 BE 18 67 01 3F 26 27 0A BF 57 D1 5F 3F 65 45 58 BF C4 7D 50 3E A0 0B DC 3E 53 72 2A BF D8 D6 D1 3E 8C 61 89 BE 24 87 11 3E 76 58 81 3E C7 40 4B 3F 26 C1 22 BE 7F 1A 5E 3F 43 F5 30 3E 2B F7 F2 3D 0D 6E 2B BF F9 40 4C BF A6 F4 4A 3F E3 B6 04 3E 4F B9 A9 3F 40 1E 48 BE", 
+        "FGGA - FaceGen Geometry-Asymmetric": "94 4A 5B 3E B6 9D 06 3F A6 14 77 BF 34 AF 0C BF 05 94 12 3F B1 71 D3 3E CF 6E 6E 3F FC C6 9C BE B2 19 0C BF 74 E3 BD BE 90 36 3F BE 65 55 37 3E E4 17 5E 3D 15 D9 25 BF D9 62 9C BE 9A BA 19 3F 14 6B 50 3F 46 B0 84 BF 86 53 82 3E 82 FE 0E 3D CD 6E 34 3F D0 4B 5D 3D AE 77 64 BF A8 12 DF 3D 60 D0 73 3F F0 6F 38 3D E1 CF 8F 3E 62 53 8E BF 12 6F 18 BE 6F 3A 63 BE", 
+        "FGTS - FaceGen Texture-Symmetric": "8F 8F CD BF 30 63 A1 BD C2 E2 68 BE E5 7C F8 3D 64 FE A9 3F DA 52 C9 BE 6B 79 03 3F D2 42 BE BE 0E 50 9E 3C BB 93 93 3E 80 1D 6E 3D A2 36 12 BF A2 2F 0B 40 FB 42 9D 3F B6 59 69 3F 46 E3 D5 BD E8 3E 98 3F CA 65 76 BF 36 DC 57 3F 44 CB D8 3E BC 2C 17 BE 9D C9 3C BE F6 21 07 3E 7B F0 8F 3F 74 E3 14 BF 30 FE 77 3C 69 CB A2 3F 52 1E 65 BE 88 B8 87 3E 98 60 F7 BD 54 EC 32 3F 3A A0 8A 3F D4 8D 17 BE EF 1A 00 BF EC 84 9D BD 46 E3 DD BE 64 A0 E4 3D 03 F7 E2 BE 94 EF 88 BE 4C 83 1A 3F 27 95 9B BF 66 7D 0E BF 57 51 B4 3D E4 E4 D4 BF EE BC BC BF A8 AB 41 3F A6 68 01 3F 1E 4B A6 BE 9F 4C AD BE CA FD BA 3E"
+    }, 
+    "FNAM - Unknown": "8E 35"
+}

@@ -1,0 +1,137 @@
+{
+    "Record Header": {
+        "Signature": "NPC_", 
+        "Data Size": 824, 
+        "Record Flags": {
+            "Compressed ": true
+        }, 
+        "FormID": "01260B24", 
+        "Version Control Info": "00 00 00 00"
+    }, 
+    "EDID - Editor ID": "0hagradStheSstone", 
+    "FULL - Name": "Hagrad the Stone", 
+    "Model": {
+        "MODL - Model FileName": "Characters\\_Male\\skeleton.nif", 
+        "MODB - Bound Radius": 82.090240000000000
+    }, 
+    "ACBS - Configuration": {
+        "Flags": {
+            "Auto-calc stats": true, 
+            "No Rumors": true
+        }, 
+        "Base spell points": "00000084", 
+        "Fatigue": "0000013C", 
+        "Barter gold": "00000000", 
+        "Level (offset)": 40, 
+        "Calc min": "00000001", 
+        "Calc max": "00000000"
+    }, 
+    "Factions": [
+        {
+            "Faction": "0122001A", 
+            "Rank": "00", 
+            "Unused": "4F 44 42"
+        }, 
+        {
+            "Faction": "0122001B", 
+            "Rank": "00", 
+            "Unused": "4F 44 42"
+        }, 
+        {
+            "Faction": "0122001C", 
+            "Rank": "00", 
+            "Unused": "4F 44 42"
+        }
+    ], 
+    "RNAM - Race": "Nord [RACE:000224FD]", 
+    "Items": [
+        {
+            "Item": "0BMSnordicSsilverSbattleaxe [WEAP:0110022C]", 
+            "Count": 1
+        }, 
+        {
+            "Item": "0BMSbearSboots [ARMO:01120154]", 
+            "Count": 1
+        }, 
+        {
+            "Item": "0BMSbearScuirass [ARMO:01120155]", 
+            "Count": 1
+        }, 
+        {
+            "Item": "0BMSbearSrightSgauntlet [ARMO:01120157]", 
+            "Count": 1
+        }, 
+        {
+            "Item": "0BMSbearSgreaves [ARMO:01120158]", 
+            "Count": 1
+        }, 
+        {
+            "Item": "0BMSBearSHelmet [ARMO:01120159]", 
+            "Count": 1
+        }
+    ], 
+    "AIDT - AI Data": {
+        "Aggression": "05", 
+        "Confidence": "46", 
+        "Energy Level": "32", 
+        "Responsibility": "1E", 
+        "Buys/Sells and Services": "00000000", 
+        "Teaches": "Armorer:0", 
+        "Maximum training level": "00", 
+        "Unused": "00 00"
+    }, 
+    "AI Packages": [
+        "PKID - AI Package": "aaaDefaultExploreEditorLoc512 [PACK:0002251B]"
+    ], 
+    "CNAM - Class": "00023788", 
+    "DATA - Stats": {
+        "Armorer": "5E", 
+        "Athletics": "58", 
+        "Blade": "62", 
+        "Block": "5E", 
+        "Blunt": "62", 
+        "Hand to Hand": "58", 
+        "Heavy Armor": "2B", 
+        "Alchemy": "09", 
+        "Alteration": "09", 
+        "Conjuration": "09", 
+        "Destruction": "09", 
+        "Illusion": "09", 
+        "Mysticism": "09", 
+        "Restoration": "0E", 
+        "Acrobatics": "09", 
+        "Light Armor": "40", 
+        "Marksman": "09", 
+        "Mercantile": "09", 
+        "Security": "09", 
+        "Sneak": "09", 
+        "Speechcraft": "09", 
+        "Health": "00000127", 
+        "Unused": "00 00", 
+        "Strength": "64", 
+        "Intelligence": "35", 
+        "Willpower": "35", 
+        "Agility": "3F", 
+        "Speed": "64", 
+        "Endurance": "64", 
+        "Personality": "64", 
+        "Luck": "32"
+    }, 
+    "HNAM - Hair": "0002C4D0", 
+    "LNAM - Hair length": 0.890286000000000, 
+    "ENAM - Eyes": {
+        "Eyes #0": "00027308"
+    }, 
+    "HCLR - Hair color": {
+        "Red": "AF", 
+        "Green": "93", 
+        "Blue": "56", 
+        "Unused": "00"
+    }, 
+    "FaceGen Data": {
+        "FGGS - FaceGen Geometry-Symmetric": "1E 14 39 BF C8 37 36 3F 82 56 40 BE 22 3D 1F BF 80 AF 2C 3E 0E 8C 7F BF D4 C0 8A BD 0E 4A 17 3F A1 0C 2B BF B2 95 AC BF 7C B7 77 3F 05 FD E1 BF 3D 19 96 BF C6 49 37 BF 96 E3 7C 3F F7 7A 54 BF C5 CD AD 3F E6 A5 53 BF B2 87 9C 3E BD C3 05 C0 A0 D0 D2 BF D8 75 07 3E 30 27 0B 3F 50 9D 13 BF 56 75 D4 3F 3C ED DB 3F A8 A2 FF BF 38 10 89 BF B7 8F A4 3F 33 C2 03 C0 C0 32 55 BF 76 C1 40 BF 3D A5 0F BF C7 4A D3 3F 28 FD 35 BF FD 33 BE 3F D7 23 95 BF AA C5 8A 3E 4F 6B 4B BF 7A F2 E9 3E BD F3 AF BE 6F 7F 2C BF FC A0 96 BF CB 85 03 BF 9C 1B EC 3E 50 80 54 3E 7B 03 0E 3F 41 45 6F 3F 14 E6 67 3F 81 67 0D C0", 
+        "FGGA - FaceGen Geometry-Asymmetric": "3C A2 B0 BE 7C 4E AB 3F 39 2D FF BE F2 0C 8F BF AB 63 3C BF 09 EC 34 BF 56 80 7B BF FB AF 06 BF 4B A6 38 BF 4E 64 E8 BE F6 C9 C1 BE 84 5E 8E 3F 62 71 D4 3E D4 EC 64 3F 53 37 94 3E BA 82 F3 3E D9 A4 46 BE A4 2B 5E BF 25 CF 2E BF E6 43 94 BF C5 12 20 3E BA 1E 39 3F 4A 47 02 3F BE 7F 83 3F 35 63 36 3D 7F 15 1D 3E 8C 98 07 BE CC C6 53 3E 53 EB 58 3F BC 72 2E BF", 
+        "FGTS - FaceGen Texture-Symmetric": "2F AF 78 BF 28 12 61 BF 4B 08 8D BF 52 6F 99 3F 72 9E 7C BF 17 B8 6C BF 1A 98 FD 3E 83 1E D6 3F 34 89 F0 BE 24 0F D0 BE F0 5A 4E 3E 8E 1C C7 BF A4 C3 8A BF 81 68 BE BF 5C 4E C8 BE 17 56 03 BF 18 4A F4 3F E3 F9 E7 BF 2C 9B 03 C0 42 80 AF BF 0C 2D 57 BF 8D 08 ED 3F F0 CD 92 3F 02 D5 CC 3F F8 DB 59 BE C3 D5 C2 BE FE F6 47 3F 80 E0 CB 3D 98 F2 B7 3F E8 56 9E 3F 6E FF 93 BE F0 6C FC 3E 91 1A B2 BE 44 2D 73 3C FD 6D 81 BF 99 A5 FD 3E 4F B5 18 3F 7B 4C 34 BF 68 2A 66 BF EE 27 CB BE 04 9A B9 BE 2A 1F 16 BF 55 46 A1 BE 01 A8 81 BF 8D B8 8B 3F EC ED AB 3E 12 DF 11 BE CE 45 32 BF 64 13 ED BE C8 5B 0D 40"
+    }, 
+    "FNAM - Unknown": "B6 03"
+}

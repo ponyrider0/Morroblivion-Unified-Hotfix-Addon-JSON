@@ -1,0 +1,26 @@
+{
+    "Cell": " [CELL:01380001]", 
+    "Record Header": {
+        "Signature": "ACHR", 
+        "Data Size": 69, 
+        "Record Flags": {
+            "Quest item / Persistent reference / Show in Menu": true
+        }, 
+        "FormID": "01F029D4", 
+        "Version Control Info": "00 00 00 00"
+    }, 
+    "EDID - Editor ID": "mwAlvringWhitebeardREF", 
+    "NAME - Base": "0alvringSwhitebeard [NPC_:01260B39]", 
+    "DATA - Position/Rotation": {
+        "Position": {
+            "X": -161457.125000000000000, 
+            "Y": 211701.968750000000000, 
+            "Z": 3000.000000000000000
+        }, 
+        "Rotation": {
+            "X": 0.000000000000000, 
+            "Y": 0.000000000000000, 
+            "Z": 0.000000000000000
+        }
+    }
+}

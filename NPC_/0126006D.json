@@ -1,0 +1,161 @@
+{
+    "Record Header": {
+        "Signature": "NPC_", 
+        "Data Size": 785, 
+        "Record Flags": {
+            "Compressed ": true
+        }, 
+        "FormID": "0126006D", 
+        "Version Control Info": "00 00 00 00"
+    }, 
+    "EDID - Editor ID": "0cienneSsintieve", 
+    "FULL - Name": "Cienne Sintieve", 
+    "Model": {
+        "MODL - Model FileName": "Characters\\_Male\\skeleton.nif", 
+        "MODB - Bound Radius": 71.400482000000000
+    }, 
+    "ACBS - Configuration": {
+        "Flags": {
+            "Female": true, 
+            "No Rumors": true
+        }, 
+        "Base spell points": "000000AC", 
+        "Fatigue": "000000B7", 
+        "Barter gold": "0000012C", 
+        "Level (offset)": 9, 
+        "Calc min": "00000001", 
+        "Calc max": "00000000"
+    }, 
+    "Factions": [
+        {
+            "Faction": "0122001B", 
+            "Rank": "00", 
+            "Unused": "4F 44 42"
+        }, 
+        {
+            "Faction": "01F0A263", 
+            "Rank": "00", 
+            "Unused": "4F 44 42"
+        }
+    ], 
+    "RNAM - Race": "Breton [RACE:000224FC]", 
+    "Items": [
+        {
+            "Item": "Beef [INGR:0003365F]", 
+            "Count": -1
+        }, 
+        {
+            "Item": "FbmwExtravagantBelt1 [CLOT:0100B694]", 
+            "Count": 1
+        }, 
+        {
+            "Item": "0extravagantUshoesU01 [CLOT:0114000C]", 
+            "Count": 1
+        }, 
+        {
+            "Item": "0extravagantUshirtU01 [CLOT:01140028]", 
+            "Count": 1
+        }, 
+        {
+            "Item": "0extravagantUskirtU01 [CLOT:01140032]", 
+            "Count": 1
+        }, 
+        {
+            "Item": "0keyUciennesintieveU01 [KEYM:01400090]", 
+            "Count": 1
+        }, 
+        {
+            "Item": "fbmwAmuletExtravagant01 [CLOT:01F8EA21]", 
+            "Count": 1
+        }, 
+        {
+            "Item": "fbmwExtravagantRing01 [CLOT:01F8EA2A]", 
+            "Count": 1
+        }
+    ], 
+    "Spells": [
+        "SPLO - Spell": "0weary [SPEL:01060028]", 
+        "SPLO - Spell": "0tinurAsShoptoad [SPEL:01060037]", 
+        "SPLO - Spell": "0summonSgreaterSbonewalker [SPEL:01060069]", 
+        "SPLO - Spell": "0summonSleastSbonewalker [SPEL:0106006A]", 
+        "SPLO - Spell": "0summonSscamp [SPEL:0106006B]", 
+        "SPLO - Spell": "0commandingStouch [SPEL:01060148]", 
+        "SPLO - Spell": "0reflect [SPEL:0106017E]", 
+        "SPLO - Spell": "0sothaAsSmirror [SPEL:01060182]", 
+        "SPLO - Spell": "0weakSspelldrinker [SPEL:01060184]", 
+        "SPLO - Spell": "0wildSspelldrinker [SPEL:01060187]", 
+        "SPLO - Spell": "0vivecAsSfeast [SPEL:01060188]", 
+        "SPLO - Spell": "0summonSskeletalSminion [SPEL:010602F0]"
+    ], 
+    "AIDT - AI Data": {
+        "Aggression": "05", 
+        "Confidence": "19", 
+        "Energy Level": "32", 
+        "Responsibility": "63", 
+        "Buys/Sells and Services": {
+            "Ingredients": true, 
+            "Apparatus": true, 
+            "Potions": true
+        }, 
+        "Teaches": "Conjuration:9", 
+        "Maximum training level": "39", 
+        "Unused": "00 00"
+    }, 
+    "AI Packages": [
+        "PKID - AI Package": "aaaEat20x2 [PACK:0002C50B]", 
+        "PKID - AI Package": "aaaEat6x2 [PACK:0001EB72]", 
+        "PKID - AI Package": "aaaSleep22x8 [PACK:0003557C]", 
+        "PKID - AI Package": "aaaDefaultHomeOwnerServices [PACK:000C7935]"
+    ], 
+    "CNAM - Class": "00023C09", 
+    "DATA - Stats": {
+        "Armorer": "06", 
+        "Athletics": "06", 
+        "Blade": "06", 
+        "Block": "17", 
+        "Blunt": "06", 
+        "Hand to Hand": "17", 
+        "Heavy Armor": "06", 
+        "Alchemy": "34", 
+        "Alteration": "34", 
+        "Conjuration": "39", 
+        "Destruction": "0F", 
+        "Illusion": "14", 
+        "Mysticism": "39", 
+        "Restoration": "19", 
+        "Acrobatics": "06", 
+        "Light Armor": "06", 
+        "Marksman": "06", 
+        "Mercantile": "0C", 
+        "Security": "06", 
+        "Sneak": "06", 
+        "Speechcraft": "17", 
+        "Health": "0000003D", 
+        "Unused": "00 00", 
+        "Strength": "28", 
+        "Intelligence": "56", 
+        "Willpower": "45", 
+        "Agility": "27", 
+        "Speed": "33", 
+        "Endurance": "23", 
+        "Personality": "2F", 
+        "Luck": "32"
+    }, 
+    "HNAM - Hair": "0002C4D0", 
+    "LNAM - Hair length": 0.243324000000000, 
+    "ENAM - Eyes": {
+        "Eyes #0": "00027306"
+    }, 
+    "HCLR - Hair color": {
+        "Red": "43", 
+        "Green": "36", 
+        "Blue": "23", 
+        "Unused": "00"
+    }, 
+    "FaceGen Data": {
+        "FGGS - FaceGen Geometry-Symmetric": "79 97 B1 BE 32 91 5E BB 17 78 0C 3F 2D 8D 08 BD 75 DC 0D 3F 4E A2 B0 BE BF 0D 6E 3F 19 A9 54 3F CF B5 B5 BF 38 2C E3 BE 20 7A D1 BF 4A 4D D3 3F D1 B1 32 3F 19 38 07 40 D3 37 A4 3F E6 95 44 C0 1B A3 00 40 CF CA 57 BF D7 31 FE 3F 50 F9 30 40 80 BE FC BE A5 48 3A 3F D0 3B CA BF 85 2C 23 3F 98 39 A1 BF 5A B8 D6 3E 79 C6 17 C0 3D 4C C3 3F 9E CA D7 3F 70 7E C1 BF F4 09 E6 3E CA 46 C4 3E 3D A8 75 BE CD DF AD BF 69 39 6B C0 52 66 74 3F 79 9C 12 BF E1 CF A0 BE 42 A1 24 40 AF AF 46 3F CE 0C D7 BE 52 2B 3D 3D 4F 92 A1 3E 54 2B 03 BF 99 2D AA BE 7F E1 C5 3F F1 F5 9A 3F 05 FB 3F 3F 2B 61 BB BF 9A 30 29 3F", 
+        "FGGA - FaceGen Geometry-Asymmetric": "00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00", 
+        "FGTS - FaceGen Texture-Symmetric": "0C D4 2D 3E C0 3B A0 BC C8 23 8C 3D F0 91 52 BE D8 83 6F BC 00 1E D7 BB 1C EE 00 BE D0 2B 83 BC 00 57 8F 3B C0 A5 CF BB 30 D4 0E BD 78 2D B7 3D 00 B0 49 BC 00 09 03 3C 60 E9 70 BD 40 B0 D9 3B 90 04 38 BD BC B4 A2 BD 80 FE 44 3C 20 CF AD BC 60 65 81 3D 5C AD 87 BD 60 D4 54 3C 80 D0 BA BC 18 15 17 3D 80 37 57 3C 90 55 8F 3C 80 24 65 BC D8 5A 38 BD 00 36 6C 3B C0 5D E3 3C B0 52 3A 3D E0 C1 AE BC 80 4E F7 BC BC 84 8F 3C 60 EF F4 BC E0 B5 84 BC 00 DD 92 3B 40 0F 63 3C 20 E5 12 BD 40 60 7A 3D 40 47 2C BC 40 8F 8B 3C 00 A3 40 3C C0 28 90 BC C0 16 BD 3C 88 6E 9A 3C 00 8E EB BB 80 E6 AC BB 00 A7 15 BC"
+    }, 
+    "FNAM - Unknown": "48 1D"
+}

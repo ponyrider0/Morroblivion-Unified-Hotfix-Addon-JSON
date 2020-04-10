@@ -1,0 +1,139 @@
+{
+    "Record Header": {
+        "Signature": "NPC_", 
+        "Data Size": 854, 
+        "Record Flags": {
+            "Compressed ": true
+        }, 
+        "FormID": "01066F42", 
+        "Version Control Info": "00 00 00 00"
+    }, 
+    "EDID - Editor ID": "0aradraen", 
+    "FULL - Name": "Aradraen", 
+    "Model": {
+        "MODL - Model FileName": "Characters\\_Male\\skeleton.nif", 
+        "MODB - Bound Radius": 81.782227000000000
+    }, 
+    "ACBS - Configuration": {
+        "Flags": {
+            "Female": true, 
+            "No Rumors": true
+        }, 
+        "Base spell points": "0000009A", 
+        "Fatigue": "000000F9", 
+        "Barter gold": "00001F40", 
+        "Level (offset)": 15, 
+        "Calc min": "00000001", 
+        "Calc max": "00000000"
+    }, 
+    "Factions": [
+        {
+            "Faction": "0122001B", 
+            "Rank": "00", 
+            "Unused": "4F 44 42"
+        }, 
+        {
+            "Faction": "0122001C", 
+            "Rank": "00", 
+            "Unused": "4F 44 42"
+        }, 
+        {
+            "Faction": "01F0A263", 
+            "Rank": "00", 
+            "Unused": "4F 44 42"
+        }
+    ], 
+    "RNAM - Race": "WoodElf [RACE:000223C8]", 
+    "Items": [
+        {
+            "Item": "mwVivecAradraenKey [KEYM:0106BAEC]", 
+            "Count": 1
+        }, 
+        {
+            "Item": "0ingredUbreadU01 [INGR:010A0040]", 
+            "Count": 1
+        }, 
+        {
+            "Item": "0commonUshoesU01 [CLOT:01140004]", 
+            "Count": 1
+        }, 
+        {
+            "Item": "0commonUrobeU02Ut [CLOT:01140052]", 
+            "Count": 1
+        }
+    ], 
+    "Spells": [
+        "SPLO - Spell": "0fireSstorm [SPEL:01060112]", 
+        "SPLO - Spell": "0weaknessStoSblightSdisease [SPEL:01060132]", 
+        "SPLO - Spell": "0weaknessStoScorpusSdisease [SPEL:01060133]", 
+        "SPLO - Spell": "0frostSstorm [SPEL:01060306]", 
+        "SPLO - Spell": "0weaknessStoScorprusSdisease [SPEL:010603BD]"
+    ], 
+    "AIDT - AI Data": {
+        "Aggression": "05", 
+        "Confidence": "46", 
+        "Energy Level": "32", 
+        "Responsibility": "63", 
+        "Buys/Sells and Services": {
+            "Weapons": true, 
+            "Training": true
+        }, 
+        "Teaches": "Marksman:16", 
+        "Maximum training level": "4B", 
+        "Unused": "00 00"
+    }, 
+    "AI Packages": [
+        "PKID - AI Package": "aaaEat6x2 [PACK:0001EB72]", 
+        "PKID - AI Package": "aaaEat22x2 [PACK:0000564C]", 
+        "PKID - AI Package": "Sleepathome [PACK:01F8B532]", 
+        "PKID - AI Package": "aaaServicesEditorLocLockAtEndStandStill [PACK:00009D8E]"
+    ], 
+    "CNAM - Class": "00023E6C", 
+    "DATA - Stats": {
+        "Armorer": "12", 
+        "Athletics": "29", 
+        "Blade": "12", 
+        "Block": "12", 
+        "Blunt": "12", 
+        "Hand to Hand": "06", 
+        "Heavy Armor": "12", 
+        "Alchemy": "0B", 
+        "Alteration": "06", 
+        "Conjuration": "06", 
+        "Destruction": "2C", 
+        "Illusion": "06", 
+        "Mysticism": "06", 
+        "Restoration": "1D", 
+        "Acrobatics": "22", 
+        "Light Armor": "38", 
+        "Marksman": "4B", 
+        "Mercantile": "06", 
+        "Security": "1D", 
+        "Sneak": "36", 
+        "Speechcraft": "1D", 
+        "Health": "0000007D", 
+        "Unused": "00 00", 
+        "Strength": "37", 
+        "Intelligence": "4D", 
+        "Willpower": "39", 
+        "Agility": "5F", 
+        "Speed": "41", 
+        "Endurance": "32", 
+        "Personality": "35", 
+        "Luck": "28"
+    }, 
+    "HNAM - Hair": "00069473", 
+    "LNAM - Hair length": 0.011051000000000, 
+    "HCLR - Hair color": {
+        "Red": "52", 
+        "Green": "3E", 
+        "Blue": "27", 
+        "Unused": "00"
+    }, 
+    "FaceGen Data": {
+        "FGGS - FaceGen Geometry-Symmetric": "61 64 34 BF 22 C7 67 BF FD 44 10 3F F8 14 8D 3E 49 E0 E1 3D 30 1E 06 BF 15 2B 6E 3F 86 99 E0 BF A2 25 A9 3F D3 57 3F BF CA 9F AB 3F B8 53 C3 BF 13 BE 51 40 F0 54 1A 3E C5 43 30 BF C6 1A 85 BF 18 08 C3 3E 66 67 3C 3F FE 14 97 3F 5F 80 80 BF 2B CE 0B C0 D0 27 53 3F 49 B5 CE BF 16 D3 32 BC CD BF 04 3E 4F F3 8F 3E 20 32 1B BE 11 6D 05 C0 1B B8 1B 3F C8 97 8F 3E 34 B2 DE 3E 04 37 AF BF C2 6C 98 BF CB A1 21 40 7F 29 80 BF 00 E6 F8 3E 3C C6 DF 3E 06 BE 1F 3F 7D BC C1 BE F3 21 1D BD 44 DB 0F BF 00 36 69 BF 3E F1 43 BF 1C 71 04 BF EB 99 23 3F 51 6B EA 3E 57 13 04 3E D4 F4 33 3F BE 72 47 BE 75 E9 C3 BF", 
+        "FGGA - FaceGen Geometry-Asymmetric": "38 4F 7D 3F 1C C8 59 3E DD 14 EF 3F 8A 1B B9 BE 7A E1 10 BE 04 85 84 3E 78 DD E2 BE 04 3A 22 3F AF 0D 8F BE 96 89 83 3E 7A 42 98 BC 7B C6 97 3F DB B8 30 3F 07 C7 30 3F AA 8F 6E BF 98 29 C4 BE B2 D4 FE BE 17 68 00 BF 60 8D 39 BF E8 1B 18 3B 94 B4 15 BF 7A A4 CC BE 36 B5 67 3F 07 84 66 3E 06 92 6B 3F 46 54 1E BE FB 8C 2A BF 62 62 DD BF 2C B7 83 BE DA 71 16 BE", 
+        "FGTS - FaceGen Texture-Symmetric": "8F C2 05 40 42 49 93 BF 2F 90 29 40 92 7B 11 BE 14 65 73 BE DA 9F D1 3F D4 F5 13 3E FC 68 90 40 FF D3 21 C0 76 96 A9 BF 36 A8 31 3F A9 77 86 3D B3 41 D0 BF 9C EB 21 C0 F0 37 62 BE 08 C8 04 BF 2A D9 84 3E 1E CC B1 BF D4 56 71 BE 6A 26 12 3D 08 55 93 3F 1C 7C 1E BD 97 1D 02 3F 4F 92 D1 3D AC 01 75 BF 02 76 CD 3F 54 3C 3D 3F 2E 7C AE 3F 1E 5F E6 3F B4 28 12 BF 99 AF 4B BF 1F EA 77 3E 6A 72 85 3F 27 14 BA C0 FB EB FB BE BB DE B8 BF C2 DF FC 3D C3 A3 97 BF DE 3B 30 3F 0E DC A0 BF FD A6 AC BF 30 58 9D BE C6 99 2E 40 E4 1B 0F 3F 75 3D C9 3D 26 50 83 3F AE 83 53 3E AD 28 50 BF 9B E6 C4 BF BF 3A FF BE"
+    }, 
+    "FNAM - Unknown": "2E 4A"
+}

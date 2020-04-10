@@ -1,0 +1,58 @@
+{
+    "Record Header": {
+        "Signature": "LVLC", 
+        "Data Size": 151, 
+        "Record Flags": {}, 
+        "FormID": "01000BD1", 
+        "Version Control Info": "00 00 00 00"
+    }, 
+    "EDID - Editor ID": "fbmw0bmUexUwolfpackU20", 
+    "LVLD - Chance none": "14", 
+    "LVLF - Flags": {
+        "Calculate from all levels <= player's level": true
+    }, 
+    "Leveled List Entries": [
+        {
+            "Level": 20, 
+            "Unused": "36 1E", 
+            "Reference": "0100089E", 
+            "Count": 1, 
+            "Unused": "36 1E"
+        }, 
+        {
+            "Level": 40, 
+            "Unused": "36 1E", 
+            "Reference": "01000886", 
+            "Count": 1, 
+            "Unused": "36 1E"
+        }, 
+        {
+            "Level": 40, 
+            "Unused": "36 1E", 
+            "Reference": "01000886", 
+            "Count": 1, 
+            "Unused": "36 1E"
+        }, 
+        {
+            "Level": 40, 
+            "Unused": "36 1E", 
+            "Reference": "01000886", 
+            "Count": 1, 
+            "Unused": "36 1E"
+        }, 
+        {
+            "Level": 40, 
+            "Unused": "36 1E", 
+            "Reference": "01000886", 
+            "Count": 1, 
+            "Unused": "36 1E"
+        }, 
+        {
+            "Level": 40, 
+            "Unused": "36 1E", 
+            "Reference": "01000886", 
+            "Count": 1, 
+            "Unused": "36 1E"
+        }
+    ]
+}

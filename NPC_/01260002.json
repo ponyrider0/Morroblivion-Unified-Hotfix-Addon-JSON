@@ -1,0 +1,172 @@
+{
+    "Record Header": {
+        "Signature": "NPC_", 
+        "Data Size": 886, 
+        "Record Flags": {
+            "Compressed ": true
+        }, 
+        "FormID": "01260002", 
+        "Version Control Info": "00 00 00 00"
+    }, 
+    "EDID - Editor ID": "0ImperialSGuard", 
+    "FULL - Name": "Guard", 
+    "Model": {
+        "MODL - Model FileName": "Characters\\_Male\\skeleton.nif", 
+        "MODB - Bound Radius": 84.593475000000000
+    }, 
+    "ACBS - Configuration": {
+        "Flags": {
+            "Respawn": true, 
+            "No Rumors": true
+        }, 
+        "Base spell points": "0000006E", 
+        "Fatigue": "00000135", 
+        "Barter gold": "00000000", 
+        "Level (offset)": 20, 
+        "Calc min": "00000001", 
+        "Calc max": "00000000"
+    }, 
+    "Factions": [
+        {
+            "Faction": "0122000F", 
+            "Rank": "02", 
+            "Unused": "4F 44 42"
+        }, 
+        {
+            "Faction": "0122001B", 
+            "Rank": "00", 
+            "Unused": "4F 44 42"
+        }, 
+        {
+            "Faction": "01F0A263", 
+            "Rank": "00", 
+            "Unused": "4F 44 42"
+        }
+    ], 
+    "RNAM - Race": "Imperial [RACE:00000907]", 
+    "Items": [
+        {
+            "Item": "MiddleShirt01 [CLOT:000229AD]", 
+            "Count": 1
+        }, 
+        {
+            "Item": "MiddlePants01 [CLOT:000229AE]", 
+            "Count": 1
+        }, 
+        {
+            "Item": "MiddleShoes01 [CLOT:000229AF]", 
+            "Count": 1
+        }, 
+        {
+            "Item": "Beef [INGR:0003365F]", 
+            "Count": -1
+        }, 
+        {
+            "Item": "Book3ValuableLustyArgonianMaid [BOOK:00078562]", 
+            "Count": 1
+        }, 
+        {
+            "Item": "FbmwImperialBelt [CLOT:01017E30]", 
+            "Count": 1
+        }, 
+        {
+            "Item": "0imperialSrightSgauntlet [ARMO:01120014]", 
+            "Count": 1
+        }, 
+        {
+            "Item": "0imperialSboots [ARMO:01120015]", 
+            "Count": 1
+        }, 
+        {
+            "Item": "0imperialUgreaves [ARMO:01120045]", 
+            "Count": 1
+        }, 
+        {
+            "Item": "0imperialScuirassUarmor [ARMO:011200A6]", 
+            "Count": 1
+        }, 
+        {
+            "Item": "0ImperialSGuardSRandomSHelmet [LVLI:011A00D8]", 
+            "Count": 1
+        }, 
+        {
+            "Item": "0ImperialSGuardSRandomSSkirt [LVLI:011A00DB]", 
+            "Count": 1
+        }, 
+        {
+            "Item": "0torch [LIGH:012C0014]", 
+            "Count": 1
+        }, 
+        {
+            "Item": "0silverSlongsword [WEAP:01F8E983]", 
+            "Count": 1
+        }
+    ], 
+    "AIDT - AI Data": {
+        "Aggression": "05", 
+        "Confidence": "63", 
+        "Energy Level": "32", 
+        "Responsibility": "63", 
+        "Buys/Sells and Services": "00000000", 
+        "Teaches": "Blade:2", 
+        "Maximum training level": "4B", 
+        "Unused": "00 00"
+    }, 
+    "AI Packages": [
+        "PKID - AI Package": "MOEatCurrent8x1 [PACK:0106C391]", 
+        "PKID - AI Package": "MOEatCurrent18x1 [PACK:0106C390]", 
+        "PKID - AI Package": "MOSleep0x6 [PACK:01F8CB81]", 
+        "PKID - AI Package": "aaaDefaultExploreEditorLoc3000 [PACK:0002AA2F]"
+    ], 
+    "CNAM - Class": "00034E6E", 
+    "DATA - Stats": {
+        "Armorer": "30", 
+        "Athletics": "40", 
+        "Blade": "4B", 
+        "Block": "40", 
+        "Blunt": "30", 
+        "Hand to Hand": "0C", 
+        "Heavy Armor": "40", 
+        "Alchemy": "07", 
+        "Alteration": "07", 
+        "Conjuration": "07", 
+        "Destruction": "07", 
+        "Illusion": "07", 
+        "Mysticism": "07", 
+        "Restoration": "07", 
+        "Acrobatics": "07", 
+        "Light Armor": "0C", 
+        "Marksman": "22", 
+        "Mercantile": "11", 
+        "Security": "07", 
+        "Sneak": "07", 
+        "Speechcraft": "11", 
+        "Health": "0000011D", 
+        "Unused": "00 00", 
+        "Strength": "64", 
+        "Intelligence": "37", 
+        "Willpower": "2D", 
+        "Agility": "42", 
+        "Speed": "46", 
+        "Endurance": "62", 
+        "Personality": "3D", 
+        "Luck": "28"
+    }, 
+    "HNAM - Hair": "0018A891", 
+    "LNAM - Hair length": 0.093234000000000, 
+    "ENAM - Eyes": {
+        "Eyes #0": "00027306"
+    }, 
+    "HCLR - Hair color": {
+        "Red": "50", 
+        "Green": "40", 
+        "Blue": "2E", 
+        "Unused": "00"
+    }, 
+    "FaceGen Data": {
+        "FGGS - FaceGen Geometry-Symmetric": "56 64 DF 3E DC 34 99 3F 8E CD B0 3F 12 2E AC BF 6A 18 90 BE CA A8 84 3F 68 92 98 BE 90 28 F9 3E A5 32 97 BE 4D 89 D4 3E 5A B6 AA BE EE 50 B2 BF D0 54 33 BF 6C F6 8E BE 94 7B 68 BE 5F 92 DD BF 38 7E 12 BF 69 5B 8B 3F 7E B1 6C BF 6C 59 7E BF 59 04 54 3E B3 DF 42 3F 47 F5 04 BF 2B CC 1D BF 09 78 82 3F 98 01 B7 3E 47 DB CC BF 07 A8 3F BF 93 17 03 40 FA BE C1 BE 57 5C 10 3D BB 2E B4 3F 7C 49 72 BF B0 99 65 BE 92 99 55 BE 76 01 DB 3F 5F DC E6 3E A3 1B BC 3E 23 32 3A 3F 76 99 23 BE 3E 2A FA BE 28 E5 EE BE 6C FB 32 BF F2 69 60 BE F8 5B 9B 3F 9B 09 8D 3F 2E 85 C5 3F 32 C7 9E BC F6 44 BF 3E 0C 62 6C BF", 
+        "FGGA - FaceGen Geometry-Asymmetric": "88 EB 0F 3E F0 7F 5C BD E2 86 04 BE 32 51 DD 3E 0F 31 EC 3E 86 B3 55 BF D6 AA A1 BF A9 EE 2C 3F CC 9A 16 3F CB E1 03 BF 2A BE 41 BD 0A 07 D1 3E A0 77 77 BF 0E 87 6A 3F CE 53 5F BE E7 9B BC BF 86 AD 25 BE 60 72 BC BF 19 7F 87 3E 2A 68 A1 3F 16 DA 95 BE B4 D6 DF 3E 1E 84 AD 3E 7A 29 18 BF A5 00 12 3E CD FF AF BE 46 B4 2C BE B8 60 A7 BE 12 5F EA 3F 06 B3 A8 BF", 
+        "FGTS - FaceGen Texture-Symmetric": "34 2A 8D BE 6B 41 05 BF 0A 9E 9A BF 09 78 13 3F 5F C3 04 BE 64 0B 2B BF B4 F7 27 BD 56 39 EE 3F D0 9B 07 BF 2D 82 CE 3E 9A F0 6E 3F 9A 33 8C BF B7 08 44 3F 08 BA CC BF A7 E8 04 3F C6 9D AC 3D F4 6E BB 3E 36 53 85 BE 6F 20 8B BF CC 6E 07 3E 01 81 78 BF 5A 74 80 3F 39 45 F2 BE 88 26 77 BE 3F 15 16 BF ED 04 09 3F 2E A4 17 3F 92 86 72 3F C4 B3 A8 BF 3A 73 8B 3F 2C E9 0A 3D AC 61 A4 BE 32 F4 41 3F 70 BC 43 BE F0 B7 1C BF 44 4C 47 3F 22 C4 1C BF 50 01 D2 3C BE FD 68 3E 6C 58 2F 3C 80 EA 11 BC 28 42 14 BD 15 66 89 BF 8C 75 63 BD 4B 90 1A 3F 18 1B 5A BF C6 13 D9 BE D0 A4 37 3F B4 F3 97 3D F0 0C F0 3D"
+    }, 
+    "FNAM - Unknown": "8E 35"
+}

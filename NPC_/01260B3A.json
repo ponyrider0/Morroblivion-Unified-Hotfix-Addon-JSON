@@ -1,0 +1,130 @@
+{
+    "Record Header": {
+        "Signature": "NPC_", 
+        "Data Size": 709, 
+        "Record Flags": {
+            "Compressed ": true
+        }, 
+        "FormID": "01260B3A", 
+        "Version Control Info": "00 00 00 00"
+    }, 
+    "EDID - Editor ID": "0horskiStallowhand", 
+    "FULL - Name": "Horski Tallowhand", 
+    "Model": {
+        "MODL - Model FileName": "Characters\\_Male\\skeleton.nif", 
+        "MODB - Bound Radius": 71.400482000000000
+    }, 
+    "ACBS - Configuration": {
+        "Flags": {
+            "Female": true, 
+            "Auto-calc stats": true, 
+            "No Rumors": true
+        }, 
+        "Base spell points": "00000082", 
+        "Fatigue": "00000144", 
+        "Barter gold": "00000000", 
+        "Level (offset)": 38, 
+        "Calc min": "00000001", 
+        "Calc max": "00000000"
+    }, 
+    "Factions": [
+        {
+            "Faction": "0122001A", 
+            "Rank": "00", 
+            "Unused": "4F 44 42"
+        }, 
+        {
+            "Faction": "0122001B", 
+            "Rank": "00", 
+            "Unused": "4F 44 42"
+        }, 
+        {
+            "Faction": "0122001C", 
+            "Rank": "00", 
+            "Unused": "4F 44 42"
+        }
+    ], 
+    "RNAM - Race": "Nord [RACE:000224FD]", 
+    "Items": [
+        {
+            "Item": "0BMSnordicSsilverSlongsword [WEAP:0110022E]", 
+            "Count": 1
+        }, 
+        {
+            "Item": "0BMSbearSboots [ARMO:01120154]", 
+            "Count": 1
+        }, 
+        {
+            "Item": "0BMSbearSgreaves [ARMO:01120158]", 
+            "Count": 1
+        }, 
+        {
+            "Item": "0BMUNordic01Ushirt [CLOT:01140222]", 
+            "Count": 1
+        }
+    ], 
+    "AIDT - AI Data": {
+        "Aggression": "05", 
+        "Confidence": "46", 
+        "Energy Level": "32", 
+        "Responsibility": "1E", 
+        "Buys/Sells and Services": "00000000", 
+        "Teaches": "Armorer:0", 
+        "Maximum training level": "00", 
+        "Unused": "00 00"
+    }, 
+    "AI Packages": [
+        "PKID - AI Package": "aaaDefaultExploreEditorLoc512 [PACK:0002251B]"
+    ], 
+    "CNAM - Class": "00023787", 
+    "DATA - Stats": {
+        "Armorer": "5A", 
+        "Athletics": "56", 
+        "Blade": "60", 
+        "Block": "5A", 
+        "Blunt": "60", 
+        "Hand to Hand": "56", 
+        "Heavy Armor": "60", 
+        "Alchemy": "09", 
+        "Alteration": "09", 
+        "Conjuration": "09", 
+        "Destruction": "09", 
+        "Illusion": "09", 
+        "Mysticism": "09", 
+        "Restoration": "0E", 
+        "Acrobatics": "09", 
+        "Light Armor": "09", 
+        "Marksman": "09", 
+        "Mercantile": "09", 
+        "Security": "09", 
+        "Sneak": "09", 
+        "Speechcraft": "09", 
+        "Health": "00000142", 
+        "Unused": "00 00", 
+        "Strength": "64", 
+        "Intelligence": "34", 
+        "Willpower": "3E", 
+        "Agility": "3E", 
+        "Speed": "5C", 
+        "Endurance": "64", 
+        "Personality": "32", 
+        "Luck": "32"
+    }, 
+    "HNAM - Hair": "00027FF2", 
+    "LNAM - Hair length": 0.003479000000000, 
+    "ENAM - Eyes": {
+        "Eyes #0": "00027306"
+    }, 
+    "HCLR - Hair color": {
+        "Red": "AF", 
+        "Green": "93", 
+        "Blue": "56", 
+        "Unused": "00"
+    }, 
+    "FaceGen Data": {
+        "FGGS - FaceGen Geometry-Symmetric": "1A C5 31 3E 94 9E 33 BD 44 E7 2F BF 2A 53 C9 3E D0 D5 8D BE CB EA B3 BE B4 22 35 3F EF 6D A6 3F CD 0D F9 3F 13 E9 0B 40 00 89 CC 3C 2A B9 87 3E 90 08 17 3F BB 1B EC BF 2A AC 14 3F 79 E6 E7 BE D4 2F 88 C0 FE 0D 9C BE D2 3C F5 BF 12 1B 08 BF 65 47 B0 3F 20 C5 86 3E D7 E7 F6 3E 7B 98 5B 3F 73 4A 67 3F 61 FB 99 3F 8A 4D 88 3F F2 EC 4A BF A4 C6 85 BF A3 9A 86 BE 1B C8 21 C0 69 FB 51 3F 1E D5 87 40 F8 D9 9A 40 69 2A 1E C0 B4 F7 C8 BE 84 FC BD 3F 46 58 A2 BF 4F B4 B9 BF BE 0E 4D BE 89 22 36 C0 6E 88 BA BB 6C 6A C5 BF FB 3C 93 C0 47 AB F8 3F 8C D9 02 C0 81 4F BA C0 BE C0 41 C0 17 49 12 40 C6 43 EF BF", 
+        "FGGA - FaceGen Geometry-Asymmetric": "00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00", 
+        "FGTS - FaceGen Texture-Symmetric": "78 EF 2B 3E A0 66 15 3D AC 57 42 3D 06 33 20 BE 14 6E 36 BD A0 40 E7 3B E8 DE 22 BE F0 C4 A1 BC 80 09 F8 BB 00 A4 72 3B 00 28 F6 BB 75 02 18 3D 00 CF 83 3B 00 6B CF BB 20 47 BB BC D0 69 14 BD 40 1C 09 BD 98 F8 68 BD 9E C3 40 3C 00 12 DF BA 80 E9 E5 3C 20 4F DA BC 00 06 87 BA D0 81 CA BC B0 DF 8A 3C 48 F5 A6 3C 40 5A 2D 3C 00 89 55 3B B0 AA 1B BD F0 35 94 BC A0 57 AE 3C 30 85 24 3D 20 A7 41 BC B3 54 C3 BC C0 2B 78 3C 30 B9 25 BC 00 16 F3 BA D0 BD 42 BC C0 97 8B BB 50 2C 06 BD E0 41 16 3D 80 DA 95 BB BC E5 8C 3C 00 BA 85 3A 08 16 3E 3B 68 11 3A 3C 50 14 70 3C 40 45 EE BB C0 01 D8 3B C0 A0 C0 BB"
+    }, 
+    "FNAM - Unknown": "B6 03"
+}

@@ -1,0 +1,155 @@
+{
+    "Record Header": {
+        "Signature": "NPC_", 
+        "Data Size": 903, 
+        "Record Flags": {
+            "Compressed ": true
+        }, 
+        "FormID": "01260AC8", 
+        "Version Control Info": "00 00 00 00"
+    }, 
+    "EDID - Editor ID": "0TenTTonguesUWeerhat", 
+    "FULL - Name": "'Ten-Tongues' Weerhat", 
+    "Model": {
+        "MODL - Model FileName": "Characters\\_Male\\SkeletonBeast.nif", 
+        "MODB - Bound Radius": 71.400482000000000
+    }, 
+    "ACBS - Configuration": {
+        "Flags": {
+            "No Rumors": true
+        }, 
+        "Base spell points": "00000066", 
+        "Fatigue": "000000DB", 
+        "Barter gold": "000003E8", 
+        "Level (offset)": 15, 
+        "Calc min": "00000001", 
+        "Calc max": "00000000"
+    }, 
+    "Factions": [
+        {
+            "Faction": "0122001B", 
+            "Rank": "00", 
+            "Unused": "4F 44 42"
+        }, 
+        {
+            "Faction": "01F0A263", 
+            "Rank": "00", 
+            "Unused": "4F 44 42"
+        }
+    ], 
+    "RNAM - Race": "Argonian [RACE:00023FE9]", 
+    "Items": [
+        {
+            "Item": "FbmwExquisiteBelt [CLOT:0100B693]", 
+            "Count": 1
+        }, 
+        {
+            "Item": "0commonUpantsU03Uc [CLOT:0114017A]", 
+            "Count": 1
+        }, 
+        {
+            "Item": "0exquisiteUshirtU01Urasha [CLOT:01140187]", 
+            "Count": 6
+        }, 
+        {
+            "Item": "0bkUnermarcnotes [BOOK:01180247]", 
+            "Count": 1
+        }, 
+        {
+            "Item": "0randomSgold [LVLI:011A0020]", 
+            "Count": 50
+        }
+    ], 
+    "Spells": [
+        "SPLO - Spell": "0demoralizeScreature [SPEL:01060155]", 
+        "SPLO - Spell": "0demoralizeShumanoid [SPEL:01060156]", 
+        "SPLO - Spell": "0rallyScreature [SPEL:01060157]", 
+        "SPLO - Spell": "0rallyShumanoid [SPEL:01060158]", 
+        "SPLO - Spell": "0almsiviSintervention [SPEL:01060174]", 
+        "SPLO - Spell": "0detectSenchantment [SPEL:01060175]", 
+        "SPLO - Spell": "0tevralAsShawkshaw [SPEL:01060176]", 
+        "SPLO - Spell": "0divineSintervention [SPEL:0106017B]", 
+        "SPLO - Spell": "0mark [SPEL:0106017C]", 
+        "SPLO - Spell": "0recall [SPEL:0106017D]", 
+        "SPLO - Spell": "0sothaAsSmirror [SPEL:01060182]", 
+        "SPLO - Spell": "0vivecAsSfeast [SPEL:01060188]", 
+        "SPLO - Spell": "0spellSabsorption [SPEL:01060189]", 
+        "SPLO - Spell": "0telekinesis [SPEL:0106018A]", 
+        "SPLO - Spell": "0dispel [SPEL:010602EB]"
+    ], 
+    "AIDT - AI Data": {
+        "Aggression": "05", 
+        "Confidence": "19", 
+        "Energy Level": "32", 
+        "Responsibility": "63", 
+        "Buys/Sells and Services": {
+            "Weapons": true, 
+            "Armor": true, 
+            "Clothing": true, 
+            "Ingredients": true, 
+            "Lights": true, 
+            "Apparatus": true, 
+            "Miscellaneous": true, 
+            "Magic Items": true, 
+            "Potions": true, 
+            "Training": true
+        }, 
+        "Teaches": "Light Armor:15", 
+        "Maximum training level": "2D", 
+        "Unused": "00 00"
+    }, 
+    "AI Packages": [
+        "PKID - AI Package": "aaaServicesEditorLocLockAtEndStandStill [PACK:00009D8E]"
+    ], 
+    "CNAM - Class": "00023E69", 
+    "DATA - Stats": {
+        "Armorer": "09", 
+        "Athletics": "18", 
+        "Blade": "09", 
+        "Block": "1A", 
+        "Blunt": "09", 
+        "Hand to Hand": "16", 
+        "Heavy Armor": "09", 
+        "Alchemy": "0B", 
+        "Alteration": "06", 
+        "Conjuration": "06", 
+        "Destruction": "06", 
+        "Illusion": "0B", 
+        "Mysticism": "2A", 
+        "Restoration": "06", 
+        "Acrobatics": "06", 
+        "Light Armor": "2D", 
+        "Marksman": "06", 
+        "Mercantile": "25", 
+        "Security": "25", 
+        "Sneak": "25", 
+        "Speechcraft": "25", 
+        "Health": "0000005D", 
+        "Unused": "00 00", 
+        "Strength": "3B", 
+        "Intelligence": "33", 
+        "Willpower": "3D", 
+        "Agility": "2D", 
+        "Speed": "28", 
+        "Endurance": "36", 
+        "Personality": "2D", 
+        "Luck": "28"
+    }, 
+    "HNAM - Hair": "00064F32", 
+    "LNAM - Hair length": 0.404706000000000, 
+    "ENAM - Eyes": {
+        "Eyes #0": "0003E91E"
+    }, 
+    "HCLR - Hair color": {
+        "Red": "2C", 
+        "Green": "1F", 
+        "Blue": "16", 
+        "Unused": "00"
+    }, 
+    "FaceGen Data": {
+        "FGGS - FaceGen Geometry-Symmetric": "E1 2A E6 BF 49 A1 E4 3F A4 D9 EF 3E 44 E0 0E C0 57 F0 78 BF 73 97 58 3F 32 61 0F 3F 68 9E 9F 3E C6 F6 FC 3E AE FD 97 BF F6 E0 7E 3F F6 2A 2E BF 07 AB 19 3F 80 C9 C3 BD 8D 3A 7B BF 4E 23 C5 3E 54 FE 34 3F E8 58 69 3F 22 95 20 BF 38 2E 27 BF 32 8C 4C 3E 00 35 59 3F 18 4E B9 BF C4 F6 27 BF 00 BE 96 3F 60 6C 2F BE 7C 8E A9 BE 34 9A 24 3F 10 41 DC 3E 5D 55 79 3F 8C B6 EF BE B4 3F D8 3F B0 AC FE BE 50 6E 44 BE 0A F7 9A BF 42 88 75 3F 24 1C 23 BF E1 B6 85 3F 50 0A AD 3E 00 64 59 BE 20 87 86 3E D0 76 49 BF 80 69 35 3D 34 B2 5B BF 62 A1 32 BF E0 48 AC BE 80 28 97 3D 6E 45 8F 3F 40 14 E0 BC 7E FE D1 BF", 
+        "FGGA - FaceGen Geometry-Asymmetric": "F5 6A 08 BF 0F CE 98 BF BE 7E B5 BE 8A E7 2F 3F DA 9E 36 BF EA 63 92 3E 0E 75 6C 3F 57 46 89 3D B6 A8 78 3F 4F 9C 5A BF 60 B6 AB 3F 40 11 9B 3E 78 4F 5C BE E2 F1 5F BF C2 A9 BC BD 7F 00 51 BE 82 CC 4D 3F 10 F2 54 3E 34 40 0F 3E 81 D6 39 3F D8 99 70 BF F4 5F DE 3E EE 67 1D BF 87 E7 A6 3E C6 F6 A9 3F 8D 18 A9 BF 9E 8A A8 3F BB 2F B7 BE DA 37 92 BF 8F 85 ED BE", 
+        "FGTS - FaceGen Texture-Symmetric": "26 10 A5 BF 2C D7 BE BD 61 79 E5 BE 6B 22 3A 3F 5A A5 42 BF 75 9B 15 BF B0 B4 3E 3E E9 4B AE BF F9 3E 00 BE CA F5 C6 3D 63 DB C7 3F 6B E7 66 BF 5D 3C 8B 3F A7 74 8D 3E 42 7A 5C BF EE C2 FD BE 6D AE D8 3D C0 D6 D3 3F 96 91 76 BF BE 54 2E BD 1A 2D 18 BE 38 19 68 3F 2A 39 67 3D 58 B6 BD BE C9 64 53 BF A4 F4 57 BE E6 FA C3 BF CE 2C 1E 3F 00 12 EE 3F 53 70 32 3F F6 09 9B BF 28 75 82 BF 0B 2A 05 BF 6E 55 31 BD 7F 2C A3 3E 82 1E 17 BF 6F D6 99 3F E2 26 2F BE 93 DC 92 BF AA B2 41 3F D8 38 80 BE 40 E0 81 3E DB 2C F4 3E 59 D7 54 BF 76 F0 C8 3D C0 E5 71 3F 4E 8C 28 BF 77 8E 90 BF 94 3F 64 BE 52 F1 94 BF"
+    }, 
+    "FNAM - Unknown": "DC 3C"
+}

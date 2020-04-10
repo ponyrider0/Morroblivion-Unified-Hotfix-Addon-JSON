@@ -1,0 +1,163 @@
+{
+    "Record Header": {
+        "Signature": "NPC_", 
+        "Data Size": 893, 
+        "Record Flags": {
+            "Compressed ": true
+        }, 
+        "FormID": "0126002B", 
+        "Version Control Info": "00 00 00 00"
+    }, 
+    "EDID - Editor ID": "0ienasSsarandas", 
+    "FULL - Name": "Ienas Sarandas", 
+    "Model": {
+        "MODL - Model FileName": "Characters\\_Male\\skeleton.nif", 
+        "MODB - Bound Radius": 71.400482000000000
+    }, 
+    "ACBS - Configuration": {
+        "Flags": {
+            "Auto-calc stats": true, 
+            "No Rumors": true
+        }, 
+        "Base spell points": "00000091", 
+        "Fatigue": "000000C2", 
+        "Barter gold": "00000000", 
+        "Level (offset)": 10, 
+        "Calc min": "00000001", 
+        "Calc max": "00000000"
+    }, 
+    "Factions": [
+        {
+            "Faction": "0122001B", 
+            "Rank": "00", 
+            "Unused": "4F 44 42"
+        }, 
+        {
+            "Faction": "0122001C", 
+            "Rank": "00", 
+            "Unused": "4F 44 42"
+        }, 
+        {
+            "Faction": "01F0A263", 
+            "Rank": "00", 
+            "Unused": "4F 44 42"
+        }
+    ], 
+    "RNAM - Race": "DarkElf [RACE:000191C1]", 
+    "Items": [
+        {
+            "Item": "mwAldRuhnIenasSarandasKey [KEYM:010244CC]", 
+            "Count": 1
+        }, 
+        {
+            "Item": "0commonUpantsU01 [CLOT:01140086]", 
+            "Count": 1
+        }, 
+        {
+            "Item": "0commonUskirtU01 [CLOT:01140088]", 
+            "Count": 1
+        }, 
+        {
+            "Item": "fbmw0sarandasUpantsU2 [CLOT:011401A3]", 
+            "Count": 1
+        }, 
+        {
+            "Item": "fbmw0sarandasUshirtU2 [CLOT:011401A4]", 
+            "Count": 1
+        }, 
+        {
+            "Item": "fbmw0sarandasUshoesU2 [CLOT:011401A5]", 
+            "Count": 1
+        }, 
+        {
+            "Item": "fbmw0sarandusUringU2 [CLOT:01F0A34E]", 
+            "Count": 1
+        }, 
+        {
+            "Item": "fbmw0sarandusUringU1 [CLOT:01F0A34F]", 
+            "Count": 1
+        }, 
+        {
+            "Item": "fbmw0sarandusUamulet [CLOT:01F0A350]", 
+            "Count": 1
+        }, 
+        {
+            "Item": "fbm0sarandusUbelt [MISC:01F0A353]", 
+            "Count": 1
+        }, 
+        {
+            "Item": "0steelSsaber [WEAP:01F8E950]", 
+            "Count": 1
+        }
+    ], 
+    "SCRI - Script": "mwIenasSarandasScript [SCPT:01F0A342]", 
+    "AIDT - AI Data": {
+        "Aggression": "00", 
+        "Confidence": "19", 
+        "Energy Level": "32", 
+        "Responsibility": "1E", 
+        "Buys/Sells and Services": "00000000", 
+        "Teaches": "Armorer:0", 
+        "Maximum training level": "00", 
+        "Unused": "00 00"
+    }, 
+    "AI Packages": [
+        "PKID - AI Package": "mwPostQuestIenasSarandasPriest [PACK:01F0A39D]", 
+        "PKID - AI Package": "Sleepathome [PACK:01F8B532]", 
+        "PKID - AI Package": "aaaEat20x2 [PACK:0002C50B]", 
+        "PKID - AI Package": "aaaEat6x2 [PACK:0001EB72]", 
+        "PKID - AI Package": "mwAldRuhnWanderShops [PACK:01F8B6DA]", 
+        "PKID - AI Package": "aaaDefaultHomeOwner [PACK:000294AE]"
+    ], 
+    "CNAM - Class": "00023E6B", 
+    "DATA - Stats": {
+        "Armorer": "06", 
+        "Athletics": "27", 
+        "Blade": "2C", 
+        "Block": "22", 
+        "Blunt": "0B", 
+        "Hand to Hand": "06", 
+        "Heavy Armor": "06", 
+        "Alchemy": "22", 
+        "Alteration": "06", 
+        "Conjuration": "06", 
+        "Destruction": "10", 
+        "Illusion": "06", 
+        "Mysticism": "0B", 
+        "Restoration": "06", 
+        "Acrobatics": "0F", 
+        "Light Armor": "14", 
+        "Marksman": "14", 
+        "Mercantile": "2C", 
+        "Security": "2C", 
+        "Sneak": "0F", 
+        "Speechcraft": "2C", 
+        "Health": "00000059", 
+        "Unused": "00 00", 
+        "Strength": "35", 
+        "Intelligence": "3A", 
+        "Willpower": "23", 
+        "Agility": "35", 
+        "Speed": "3F", 
+        "Endurance": "35", 
+        "Personality": "2D", 
+        "Luck": "32"
+    }, 
+    "HNAM - Hair": "000690BD", 
+    "LNAM - Hair length": 0.104953000000000, 
+    "ENAM - Eyes": {
+        "Eyes #0": "00027307"
+    }, 
+    "HCLR - Hair color": {
+        "Red": "2C", 
+        "Green": "1F", 
+        "Blue": "16", 
+        "Unused": "00"
+    }, 
+    "FaceGen Data": {
+        "FGGS - FaceGen Geometry-Symmetric": "5A E5 BD BF 78 36 CC 3F 11 D4 87 BF 52 E3 1C 3F 66 4F 12 40 B7 96 09 C0 04 0E 91 BF 68 E5 89 3F 64 6E D3 BF CF B9 81 BF 54 53 4A BE 3F 97 6B 3F B8 96 7F 3E 4E DB 43 3E 5C 42 58 3F E0 FB 8C BF F6 76 B2 3E E6 24 B4 BF 3C 08 1A 3F 26 12 57 3F 20 AB DB BC E1 28 2A 3F 78 53 1E 3E 34 C5 0C 3F 9A B3 8D 3F E0 27 34 BF 14 6F 28 BF 22 C3 D7 BF 36 51 48 3E 6D 01 AB BE 1A 87 5F 3F 34 25 58 3F 1A AF 0D BF 8F 30 64 3F 03 1B 96 BE CB 4D D9 BD 56 DC 90 BE A0 44 78 3F C6 BD 9B BF D4 97 70 BE 12 0B 94 BD 74 51 47 3F 26 B0 75 3F FE 1D 54 BF 7C FD 1B 3D 86 F5 8F BE 78 94 C3 BD 06 1F BF BF 58 32 EC 3D 24 34 64 3F", 
+        "FGGA - FaceGen Geometry-Asymmetric": "F5 C9 8F 3F 6F 90 21 BF 2A 5A E2 BE 1B 8C 1F BE 8E FC 93 BF C0 99 29 3F E6 55 03 3E 16 E5 6A 3C D0 A7 A1 3E 6C A8 4F 3F 07 89 98 3E 0F 11 4A 3E B4 19 42 BF 7E 1B 92 3F 78 0A F6 3C 53 65 A8 3E 94 C6 4F BF 3C 70 C3 3E C0 94 7B 3F 3E 74 93 3F 35 D0 14 3F C4 DB B7 BD 7F 55 56 3C 19 74 64 3F CF A3 4B 3E 53 EB 30 3F D3 D3 44 3F 0B E4 DC BF E2 A8 FC BD 10 B5 C8 3E", 
+        "FGTS - FaceGen Texture-Symmetric": "B5 DC 27 BE 6C 83 48 BF C2 09 05 3D D3 A4 34 BF 9B 74 5C 3F 53 DB 26 BF EE FC 89 3F BC C0 91 3C 5F AA F5 3F CF 6D 3C BF D1 05 58 3F 95 D3 92 3F 31 94 64 3E F7 3B 09 40 D7 D9 E2 BD B4 D9 D8 3E 1A FF 85 3E 12 09 30 BE F9 83 F8 BE 07 B1 AA BF D3 1A 96 3E F1 3E 81 BF 2F 9C 7D BF C8 7A 7A 3E DE 5B 05 40 54 C0 93 BE 75 8F 4E 3F 72 FB 1F BF 8E 43 A7 BE 31 CA 8C 3E D1 39 15 BF F6 CF 22 BE 96 0C 85 BF DF 0D 10 BD 16 29 17 BE CA 84 F9 3E 10 EF B6 BF A1 7D C8 3F 0D 1E 94 3E E6 E5 A8 BF 77 AA A0 3F B2 97 30 BF 72 11 02 3F 79 05 27 3E 90 A4 EA BE 5D 8D FB 3E CE C3 37 3F F1 99 A5 BE A3 48 8F BE C4 DD 9D 3F"
+    }, 
+    "FNAM - Unknown": "72 54"
+}

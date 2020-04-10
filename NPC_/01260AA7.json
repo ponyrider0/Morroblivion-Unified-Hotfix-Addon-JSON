@@ -1,0 +1,152 @@
+{
+    "Record Header": {
+        "Signature": "NPC_", 
+        "Data Size": 909, 
+        "Record Flags": {
+            "Compressed ": true
+        }, 
+        "FormID": "01260AA7", 
+        "Version Control Info": "00 00 00 00"
+    }, 
+    "EDID - Editor ID": "0ignatiusUflaccus", 
+    "FULL - Name": "Ignatius Flaccus", 
+    "Model": {
+        "MODL - Model FileName": "Characters\\_Male\\skeleton.nif", 
+        "MODB - Bound Radius": 77.849075000000000
+    }, 
+    "ACBS - Configuration": {
+        "Flags": {
+            "No Rumors": true
+        }, 
+        "Base spell points": "000000C8", 
+        "Fatigue": "00000102", 
+        "Barter gold": "00000000", 
+        "Level (offset)": 20, 
+        "Calc min": "00000001", 
+        "Calc max": "00000000"
+    }, 
+    "Factions": [
+        {
+            "Faction": "0122001B", 
+            "Rank": "00", 
+            "Unused": "4F 44 42"
+        }, 
+        {
+            "Faction": "0122001C", 
+            "Rank": "00", 
+            "Unused": "4F 44 42"
+        }, 
+        {
+            "Faction": "01F0A263", 
+            "Rank": "00", 
+            "Unused": "4F 44 42"
+        }
+    ], 
+    "RNAM - Race": "Imperial [RACE:00000907]", 
+    "Items": [
+        {
+            "Item": "0expensiveUshoesU03 [CLOT:0114000B]", 
+            "Count": 1
+        }, 
+        {
+            "Item": "0expensiveUrobeU03 [CLOT:0114005E]", 
+            "Count": 1
+        }
+    ], 
+    "Spells": [
+        "SPLO - Spell": "0sleep [SPEL:010600B5]", 
+        "SPLO - Spell": "0wearyingStouch [SPEL:010600B7]", 
+        "SPLO - Spell": "0distractingStouch [SPEL:010600C0]", 
+        "SPLO - Spell": "0wildSdistraction [SPEL:010600C2]", 
+        "SPLO - Spell": "0shockbloom [SPEL:0106011E]", 
+        "SPLO - Spell": "0deadlySpoison [SPEL:01060121]", 
+        "SPLO - Spell": "0poisonbloom [SPEL:01060127]", 
+        "SPLO - Spell": "0viperbolt [SPEL:0106012A]", 
+        "SPLO - Spell": "0direSweaknessStoSfire [SPEL:01060135]", 
+        "SPLO - Spell": "0direSweaknessStoSfrost [SPEL:01060137]", 
+        "SPLO - Spell": "0direSweaknessStoSmagicka [SPEL:01060139]", 
+        "SPLO - Spell": "0direSweaknessStoSpoison [SPEL:0106013B]", 
+        "SPLO - Spell": "0direSweaknessStoSshock [SPEL:0106013D]", 
+        "SPLO - Spell": "0aladAsScaliginy [SPEL:01060142]", 
+        "SPLO - Spell": "0invisibility [SPEL:01060160]", 
+        "SPLO - Spell": "0hide [SPEL:01060161]", 
+        "SPLO - Spell": "0farSsilence [SPEL:0106016B]", 
+        "SPLO - Spell": "0direSnoise [SPEL:0106016F]", 
+        "SPLO - Spell": "0drainSblood [SPEL:01060198]", 
+        "SPLO - Spell": "0bloodSdespair [SPEL:010601A9]", 
+        "SPLO - Spell": "0wisdom [SPEL:0106023F]", 
+        "SPLO - Spell": "0ironSwill [SPEL:01060275]", 
+        "SPLO - Spell": "0greatSresistScommonSdisease [SPEL:01060280]", 
+        "SPLO - Spell": "0greatSresistSfire [SPEL:0106028B]", 
+        "SPLO - Spell": "0greatSresistSfrost [SPEL:0106028F]", 
+        "SPLO - Spell": "0greatSresistSmagicka [SPEL:01060294]", 
+        "SPLO - Spell": "0greaterSresistSpoison [SPEL:01060299]", 
+        "SPLO - Spell": "0magickguard [SPEL:0106029A]", 
+        "SPLO - Spell": "0daedricSbite [SPEL:010602F2]", 
+        "SPLO - Spell": "0poisonUpowerful [SPEL:01060387]"
+    ], 
+    "AIDT - AI Data": {
+        "Aggression": "05", 
+        "Confidence": "19", 
+        "Energy Level": "32", 
+        "Responsibility": "1E", 
+        "Buys/Sells and Services": "00000000", 
+        "Teaches": "Destruction:10", 
+        "Maximum training level": "4B", 
+        "Unused": "00 00"
+    }, 
+    "AI Packages": [
+        "PKID - AI Package": "aaaDefaultStayAtEditorLocation [PACK:0002C81C]"
+    ], 
+    "CNAM - Class": "0124001B", 
+    "DATA - Stats": {
+        "Armorer": "07", 
+        "Athletics": "07", 
+        "Blade": "11", 
+        "Block": "07", 
+        "Blunt": "07", 
+        "Hand to Hand": "0C", 
+        "Heavy Armor": "07", 
+        "Alchemy": "40", 
+        "Alteration": "30", 
+        "Conjuration": "30", 
+        "Destruction": "4B", 
+        "Illusion": "30", 
+        "Mysticism": "30", 
+        "Restoration": "30", 
+        "Acrobatics": "07", 
+        "Light Armor": "0C", 
+        "Marksman": "07", 
+        "Mercantile": "11", 
+        "Security": "07", 
+        "Sneak": "07", 
+        "Speechcraft": "11", 
+        "Health": "00000077", 
+        "Unused": "00 00", 
+        "Strength": "4A", 
+        "Intelligence": "64", 
+        "Willpower": "58", 
+        "Agility": "2D", 
+        "Speed": "46", 
+        "Endurance": "33", 
+        "Personality": "43", 
+        "Luck": "28"
+    }, 
+    "HNAM - Hair": "0018A891", 
+    "LNAM - Hair length": 0.132700000000000, 
+    "ENAM - Eyes": {
+        "Eyes #0": "00027306"
+    }, 
+    "HCLR - Hair color": {
+        "Red": "50", 
+        "Green": "40", 
+        "Blue": "2E", 
+        "Unused": "00"
+    }, 
+    "FaceGen Data": {
+        "FGGS - FaceGen Geometry-Symmetric": "13 24 53 BF A7 4E 0F 3F 72 E6 1A BE 80 BB B5 3D FF 72 C9 BD 33 0B 0C C0 CB F7 7A BF 15 6D DB 3F CA 58 E2 BE 70 4F 94 3D 65 1E 0D BE 2E C8 87 3D 32 45 B3 3E E0 3E 2A BF D9 02 69 BF 8A 6B 90 BE BC 23 86 BF 24 79 A3 3F 78 6C 5D 3F D0 50 89 3F 42 07 F2 3C D6 14 0A BF B4 48 4B 3F 1C 85 6A 3E 2B 91 04 3F D1 B3 48 BE 21 ED E3 3D 13 64 46 BF C5 64 D8 BE 99 D2 AA BF 3C 1C 79 3E EA C4 00 BE B7 DF FC BF 74 CC 15 3E E1 59 A7 3D BE 94 EB BF 9E 77 8C BF DD AC D4 3F 60 22 1C 3F 8A 42 DB BE 4A 2E 52 3E 90 95 C1 3E 2B 9B 00 3F C1 C8 9E BF 5B BB 96 BF 03 65 7A BF 5B EF 84 BD 92 5B 23 3F 8C 2A 96 BE F2 51 41 3F", 
+        "FGGA - FaceGen Geometry-Asymmetric": "94 B7 1B BF 75 71 68 3F A0 55 75 BF 26 1D 0B BF 14 77 8B BF 75 98 00 3F C5 AA C2 BF FA 1D CF 3E 8E 42 19 3F 1C E9 9C 3E C8 1C C7 BD CC 67 22 3F A3 D4 83 BE 3E C3 C8 BE A9 4C 5F 3E AA F2 55 3F 90 69 09 3F 44 E1 43 3F 69 82 57 3F 34 64 0C 3E A4 1C C6 BC 5D 04 63 3F 36 05 99 BF 5C 4C 86 3F 7B 89 C7 3D D1 37 02 3F BC 51 76 3D AB E0 65 BE 10 FE 78 BF 72 F5 97 3F", 
+        "FGTS - FaceGen Texture-Symmetric": "DA 11 48 BF B8 88 7E 3E EE D6 26 BF C4 D2 FB BE BC 3D 84 3F CF CD 2D 3F E4 DA B6 3F 0B 82 C1 3E 51 AE D2 BF 6A 17 95 BF 0B 1F D5 3F 9C AD 64 3E 08 54 9B BE CD 72 2A C0 E4 E7 5C BE C0 F6 F6 3F 01 D8 3E 3F 5F DF 93 BF EA BA 6D BF E6 9C 82 3F DE D0 DA 3E F6 11 FE 3D A9 24 D2 3F CC AA 99 3E 16 58 28 BF 18 C5 65 3F 14 AF 4A 3F 66 06 2A BE 5E C1 83 3F E0 B2 1C 3D 35 29 6B 3E 32 58 3C 3D F0 F1 52 BE C8 31 DD C0 D7 E6 79 BF 64 56 E9 BE 84 71 0C 3F A4 17 8B BF 9A 74 2E BF 65 F8 A4 BE 64 8F 8C 3E 64 13 23 3F B0 39 27 3F 8C 8E 83 3F 03 95 06 BF 40 D5 0E 3F 43 64 17 BF F8 3C 65 3E 2C 31 00 C0 9F 36 4C 3F"
+    }, 
+    "FNAM - Unknown": "8E 35"
+}

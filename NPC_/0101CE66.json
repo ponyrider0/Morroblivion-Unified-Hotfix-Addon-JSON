@@ -1,0 +1,136 @@
+{
+    "Record Header": {
+        "Signature": "NPC_", 
+        "Data Size": 832, 
+        "Record Flags": {
+            "Compressed ": true
+        }, 
+        "FormID": "0101CE66", 
+        "Version Control Info": "00 00 00 00"
+    }, 
+    "EDID - Editor ID": "fbmwDAAzuraStaada", 
+    "FULL - Name": "Staada", 
+    "Model": {
+        "MODL - Model FileName": "Characters\\_Male\\skeleton.nif", 
+        "MODB - Bound Radius": 79.943771000000000
+    }, 
+    "ACBS - Configuration": {
+        "Flags": {
+            "Female": true, 
+            "No Rumors": true
+        }, 
+        "Base spell points": "00000084", 
+        "Fatigue": "00000132", 
+        "Barter gold": "00000000", 
+        "Level (offset)": 22, 
+        "Calc min": "00000001", 
+        "Calc max": "00000000"
+    }, 
+    "Factions": [
+        {
+            "Faction": "00000013", 
+            "Rank": "00", 
+            "Unused": "4F 44 42"
+        }, 
+        {
+            "Faction": "0003E9A6", 
+            "Rank": "00", 
+            "Unused": "4F 44 42"
+        }, 
+        {
+            "Faction": "00053FED", 
+            "Rank": "00", 
+            "Unused": "4F 44 42"
+        }, 
+        {
+            "Faction": "0122001B", 
+            "Rank": "00", 
+            "Unused": "4F 44 42"
+        }
+    ], 
+    "RNAM - Race": "GoldenSaint [RACE:0001208F]", 
+    "Items": [
+        {
+            "Item": "SELL0NPCGoldenSaintArmorLvl100 [LVLI:00041509]", 
+            "Count": 1
+        }, 
+        {
+            "Item": "SELL0NPCGoldenSaintHelmetLvl100 [LVLI:0004150A]", 
+            "Count": 1
+        }, 
+        {
+            "Item": "SELL0NPCGoldenSaintShieldLvl100 [LVLI:0004150B]", 
+            "Count": 1
+        }, 
+        {
+            "Item": "SELL0NPCGoldenSaintWeaponLvl100 [LVLI:00041517]", 
+            "Count": 1
+        }, 
+        {
+            "Item": "fbmwSheogorathsSignetRing [CLOT:0102BB4F]", 
+            "Count": 1
+        }
+    ], 
+    "SCRI - Script": "fbmwdastaada [SCPT:01F2A4FD]", 
+    "AIDT - AI Data": {
+        "Aggression": "64", 
+        "Confidence": "46", 
+        "Energy Level": "32", 
+        "Responsibility": "32", 
+        "Buys/Sells and Services": "00000000", 
+        "Teaches": "Armorer:0", 
+        "Maximum training level": "00", 
+        "Unused": "00 00"
+    }, 
+    "CNAM - Class": "00023787", 
+    "DATA - Stats": {
+        "Armorer": "3E", 
+        "Athletics": "42", 
+        "Blade": "48", 
+        "Block": "42", 
+        "Blunt": "42", 
+        "Hand to Hand": "3E", 
+        "Heavy Armor": "48", 
+        "Alchemy": "07", 
+        "Alteration": "0C", 
+        "Conjuration": "07", 
+        "Destruction": "0C", 
+        "Illusion": "07", 
+        "Mysticism": "07", 
+        "Restoration": "07", 
+        "Acrobatics": "07", 
+        "Light Armor": "07", 
+        "Marksman": "07", 
+        "Mercantile": "07", 
+        "Security": "07", 
+        "Sneak": "07", 
+        "Speechcraft": "07", 
+        "Health": "000000E2", 
+        "Unused": "00 00", 
+        "Strength": "64", 
+        "Intelligence": "35", 
+        "Willpower": "35", 
+        "Agility": "35", 
+        "Speed": "45", 
+        "Endurance": "64", 
+        "Personality": "0A", 
+        "Luck": "32"
+    }, 
+    "HNAM - Hair": "0018A891", 
+    "LNAM - Hair length": 0.448711000000000, 
+    "ENAM - Eyes": {
+        "Eyes #0": "00054BBA"
+    }, 
+    "HCLR - Hair color": {
+        "Red": "4B", 
+        "Green": "32", 
+        "Blue": "19", 
+        "Unused": "00"
+    }, 
+    "FaceGen Data": {
+        "FGGS - FaceGen Geometry-Symmetric": "17 58 91 BE 94 AA 6B BF 49 5F E7 3E 6A 02 15 BC 64 1D 99 BE 39 30 A2 3F 5B B4 79 BE DB 2B 06 BE E0 03 5C 3E 6B 17 D3 BE 35 99 A4 3F C9 59 63 BF 45 2D 8B 3F 90 07 7F 3F B1 52 8F BF 24 34 DC BF EB C1 9F BF 7B F7 10 BF 70 E9 52 BF 4E F9 81 BE 5B 35 69 BE 2F E1 01 BE C1 0B 57 3D A1 08 48 3F DA 78 D2 3D B0 DC AA BE 75 4D 1F 3E EE 19 2F 3E 07 0F 0C 3F AC 01 97 BE 0A 9D 0D 3E 58 68 FB BC 25 B7 27 3F 84 ED 18 BF 26 E3 01 BF 96 93 7A BF DA 14 A8 BE 4C 3B 9F BF F9 AA 92 3F 50 D7 F5 3D 63 96 DF 3E 28 2F 9F 3E 7C 9C 9C BF 3C AC 12 3E 9E F8 68 3F E8 AA BC BF 71 1A AA BE 40 C2 62 BE 5A F7 14 3F 26 E4 F2 3D", 
+        "FGGA - FaceGen Geometry-Asymmetric": "E4 3F AF 3E E8 1F 1D BF A9 89 86 BE 18 84 C5 3D 5E 44 8E BD 55 C4 AA BE 8F C1 46 BE 94 34 6A 3A CE 9A 1A BF BE D3 0F 3F 12 5A EE 3E 0A EA E3 3F E6 74 9F 3E C2 33 66 BE 2C 77 85 3E E0 11 60 3F DC 32 98 BE C8 30 10 BE 8C 69 E4 3C F0 A1 E6 3E 9A C3 3E BF EE EB 9F BE 11 48 3F 3F 0E 79 D1 BF 35 ED 85 3E 9A 93 70 3F FE 7F A9 BE 72 B2 74 BE 92 BD CF 3E 34 28 50 BF", 
+        "FGTS - FaceGen Texture-Symmetric": "28 0E F5 3F 94 FA A8 BD 34 AC 36 BE 32 04 E1 BF 70 49 0F 3F 45 33 83 3F 5D 5E 3F BF 26 65 99 3E 30 7A 0E 3E DB 33 73 BE 8B B2 0C BF 41 A8 55 3F 75 F7 7C BD B0 A6 68 3E B3 31 A3 BE DD 73 92 BE 18 87 AC 3E 6A E4 8C 3F D7 AE FB 3F E9 4F 98 3D A0 4D 4D 3E D6 5A BE 3F D4 74 C5 3F 59 04 76 BF 37 92 84 3F D1 95 78 BF 53 90 A8 3F 4F 52 C8 BE 76 FC 86 BF BC 87 33 3F 78 6F 85 BB 3F 6C 65 BE 78 8A 03 3F 2F 25 BA 3F A9 6A DC 3E 0B 56 91 BF 71 B1 F4 3E 3E 38 AB 3E CB 1A BE 3E 9C B6 5F BF A2 E0 16 3F 6D 08 36 BE 21 F7 30 BF 24 24 9C 3E E5 F5 8A BF 40 EB 10 3F 50 0A 39 BF E8 89 17 BE E9 D8 F7 3D 12 19 83 BF"
+    }, 
+    "FNAM - Unknown": "26 46"
+}

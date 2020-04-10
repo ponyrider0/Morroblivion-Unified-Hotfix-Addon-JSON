@@ -1,0 +1,147 @@
+{
+    "Record Header": {
+        "Signature": "NPC_", 
+        "Data Size": 885, 
+        "Record Flags": {
+            "Compressed ": true
+        }, 
+        "FormID": "0126002E", 
+        "Version Control Info": "00 00 00 00"
+    }, 
+    "EDID - Editor ID": "0gildan", 
+    "FULL - Name": "Gildan", 
+    "Model": {
+        "MODL - Model FileName": "Characters\\_Male\\skeleton.nif", 
+        "MODB - Bound Radius": 71.400482000000000
+    }, 
+    "ACBS - Configuration": {
+        "Flags": {
+            "Female": true, 
+            "No Rumors": true
+        }, 
+        "Base spell points": "0000006A", 
+        "Fatigue": "000000E3", 
+        "Barter gold": "00000000", 
+        "Level (offset)": 13, 
+        "Calc min": "00000001", 
+        "Calc max": "00000000"
+    }, 
+    "Factions": [
+        {
+            "Faction": "0122000A", 
+            "Rank": "02", 
+            "Unused": "4F 44 42"
+        }, 
+        {
+            "Faction": "0122001B", 
+            "Rank": "00", 
+            "Unused": "4F 44 42"
+        }, 
+        {
+            "Faction": "01F0A263", 
+            "Rank": "00", 
+            "Unused": "4F 44 42"
+        }
+    ], 
+    "RNAM - Race": "WoodElf [RACE:000223C8]", 
+    "Items": [
+        {
+            "Item": "0commonUshoesU04 [CLOT:01140007]", 
+            "Count": 1
+        }, 
+        {
+            "Item": "0commonUshirtU04Ua [CLOT:0114008A]", 
+            "Count": 1
+        }, 
+        {
+            "Item": "0commonUskirtU04Uc [CLOT:0114008F]", 
+            "Count": 1
+        }
+    ], 
+    "Spells": [
+        "SPLO - Spell": "0heavySburden [SPEL:01060022]", 
+        "SPLO - Spell": "0greatSburdenSofSsin [SPEL:01060024]", 
+        "SPLO - Spell": "0crushingSburdenStouch [SPEL:01060026]", 
+        "SPLO - Spell": "0weary [SPEL:01060028]", 
+        "SPLO - Spell": "0strongSfeather [SPEL:0106002C]", 
+        "SPLO - Spell": "0ulmsSjuicedawAsSfeather [SPEL:0106002E]", 
+        "SPLO - Spell": "0tinurAsShoptoad [SPEL:01060037]", 
+        "SPLO - Spell": "0fifthSbarrier [SPEL:01060048]", 
+        "SPLO - Spell": "0sixthSbarrier [SPEL:01060049]", 
+        "SPLO - Spell": "0shadowmask [SPEL:0106015A]", 
+        "SPLO - Spell": "0concealment [SPEL:01060162]", 
+        "SPLO - Spell": "0farSsilence [SPEL:0106016B]", 
+        "SPLO - Spell": "0sothaAsSmirror [SPEL:01060182]", 
+        "SPLO - Spell": "0soulStrap [SPEL:01060183]"
+    ], 
+    "AIDT - AI Data": {
+        "Aggression": "00", 
+        "Confidence": "32", 
+        "Energy Level": "32", 
+        "Responsibility": "1E", 
+        "Buys/Sells and Services": {
+            "Spells": true, 
+            "Training": true
+        }, 
+        "Teaches": "Alteration:8", 
+        "Maximum training level": "35", 
+        "Unused": "00 00"
+    }, 
+    "AI Packages": [
+        "PKID - AI Package": "aaaEat6x2 [PACK:0001EB72]", 
+        "PKID - AI Package": "aaaEatCurrent20x2 [PACK:01F8B51D]", 
+        "PKID - AI Package": "aaaSleep22x8 [PACK:0003557C]", 
+        "PKID - AI Package": "aaaServicesEditorLocLockAtEndStandStill [PACK:00009D8E]"
+    ], 
+    "CNAM - Class": "00023F03", 
+    "DATA - Stats": {
+        "Armorer": "06", 
+        "Athletics": "06", 
+        "Blade": "2A", 
+        "Block": "06", 
+        "Blunt": "06", 
+        "Hand to Hand": "06", 
+        "Heavy Armor": "06", 
+        "Alchemy": "16", 
+        "Alteration": "35", 
+        "Conjuration": "11", 
+        "Destruction": "26", 
+        "Illusion": "32", 
+        "Mysticism": "35", 
+        "Restoration": "11", 
+        "Acrobatics": "0B", 
+        "Light Armor": "25", 
+        "Marksman": "32", 
+        "Mercantile": "0A", 
+        "Security": "1B", 
+        "Sneak": "32", 
+        "Speechcraft": "06", 
+        "Health": "00000053", 
+        "Unused": "00 00", 
+        "Strength": "2A", 
+        "Intelligence": "35", 
+        "Willpower": "48", 
+        "Agility": "4C", 
+        "Speed": "53", 
+        "Endurance": "25", 
+        "Personality": "39", 
+        "Luck": "28"
+    }, 
+    "HNAM - Hair": "00069473", 
+    "LNAM - Hair length": 0.837519000000000, 
+    "ENAM - Eyes": {
+        "Eyes #0": "00027306"
+    }, 
+    "HCLR - Hair color": {
+        "Red": "52", 
+        "Green": "3E", 
+        "Blue": "27", 
+        "Unused": "00"
+    }, 
+    "FaceGen Data": {
+        "FGGS - FaceGen Geometry-Symmetric": "FB 7C 8A BE 4C CD C7 BE AF 76 E5 3E 79 9F 32 BF 6D F4 C7 3D E6 2C 96 BF E4 4F C5 3F 26 A5 B9 3E E8 D8 03 3E 56 B6 AB BD 9A 66 E8 BE 38 B4 0A BF 96 A8 1A 40 9A 94 8B 3F D5 32 D9 3F 82 26 2B BF ED 24 9C 3D 96 4D DC 3F BE 0E 78 3E 8F 7D 82 BF 68 E5 D4 BF C7 7F 01 3F CF A7 45 BF B8 F5 90 BE 8F 6B 01 3F CC 98 99 3F 5C 9E 28 BE 4A F2 BB BF 47 99 86 3F FC 5F C2 3D 30 97 48 3F 2F 98 64 BF 68 7D E6 3D 63 B9 42 3F 32 D8 04 BF 73 61 46 3E C4 EE 5E 3F CC BE 5F 3F 7B 5D 0D BF 76 B2 28 BF 50 60 15 BD B2 7C 8E BE CE 17 3D BF 9F 8F 19 3E B8 5E 82 BE E4 B9 23 3F B5 F5 7A BF 85 52 D9 BF 92 2B 69 3F 89 64 26 3F", 
+        "FGGA - FaceGen Geometry-Asymmetric": "AD 6B 0F 3E A6 8C 82 3F BF 64 A2 3F 64 84 45 3F CC 59 8D BD 72 7A 96 BF 56 F8 05 BF 86 56 FD BF 46 08 C9 BE 6E E6 85 3F 16 98 94 BD 84 34 A2 3E AC F1 A4 BF 23 63 33 3F 92 8A 82 3E E6 CC 5F 3E 9A D1 DA 3E 74 FF B0 3C C4 C2 DD BE 23 2F 87 BF 3E 62 53 BF BA 9C DC 3E 0B C3 44 3F C9 4A C7 3E 78 0D 94 BF A8 D4 DE 3E 22 01 A1 BF EF 7C 40 3F 8F BC 1A BF E9 31 8E 3F", 
+        "FGTS - FaceGen Texture-Symmetric": "B8 1E 25 40 57 75 A2 BF 3E 02 AB 3F 12 79 1B BF EA 3A 88 3F 52 37 5F 40 92 05 70 BF 41 02 72 40 89 84 85 BF 6B 44 44 BF 0C 9A 2C 40 AE 7B C1 3F 72 AA 59 C0 56 83 2B C0 40 A2 A6 3B D6 D8 D5 3F 4E F9 CF BF C9 32 BE 3F 14 8C FB 3F 2A 9B 6B BF 5E D5 87 3E F2 06 9B BF 09 89 9D 3F C6 B9 B5 3E 45 DD 87 3E 32 C1 C3 3E 71 10 40 3F 30 FE 1D BF 7E CF C1 3F 47 A6 BB 3E 4E 1C E1 BF 09 91 2D 3D A4 B2 94 BE 3C D5 A4 BF C4 63 19 3F EE AD B1 3E 92 05 12 BF 2A AA 10 3F EB 87 DD 3E D6 BB 85 BE 3E 8E 89 3F 84 5E 2C 3D F7 13 32 BF 30 96 45 BD 77 5E 8F BE 98 F0 9B 3E B7 8B 72 BE 2A F3 99 3F C6 24 84 BF 60 72 ED BC"
+    }, 
+    "FNAM - Unknown": "2E 4A"
+}

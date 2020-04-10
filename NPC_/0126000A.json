@@ -1,0 +1,180 @@
+{
+    "Record Header": {
+        "Signature": "NPC_", 
+        "Data Size": 894, 
+        "Record Flags": {
+            "Compressed ": true
+        }, 
+        "FormID": "0126000A", 
+        "Version Control Info": "00 00 00 00"
+    }, 
+    "EDID - Editor ID": "0mebestianSence", 
+    "FULL - Name": "Mebestian Ence", 
+    "Model": {
+        "MODL - Model FileName": "Characters\\_Male\\skeleton.nif", 
+        "MODB - Bound Radius": 71.400482000000000
+    }, 
+    "ACBS - Configuration": {
+        "Flags": {
+            "No Rumors": true
+        }, 
+        "Base spell points": "00000080", 
+        "Fatigue": "000000D2", 
+        "Barter gold": "000001C1", 
+        "Level (offset)": 10, 
+        "Calc min": "00000001", 
+        "Calc max": "00000000"
+    }, 
+    "Factions": [
+        {
+            "Faction": "0122001B", 
+            "Rank": "00", 
+            "Unused": "4F 44 42"
+        }, 
+        {
+            "Faction": "01F0A263", 
+            "Rank": "00", 
+            "Unused": "4F 44 42"
+        }
+    ], 
+    "RNAM - Race": "Breton [RACE:000224FC]", 
+    "Items": [
+        {
+            "Item": "FbmwExpensiveBelt1 [CLOT:0100B690]", 
+            "Count": 1
+        }, 
+        {
+            "Item": "0spikedSclub [WEAP:01100003]", 
+            "Count": -1
+        }, 
+        {
+            "Item": "0steelSstaff [WEAP:0110001D]", 
+            "Count": -1
+        }, 
+        {
+            "Item": "0steelSclub [WEAP:01100020]", 
+            "Count": -1
+        }, 
+        {
+            "Item": "0ironSclub [WEAP:01100034]", 
+            "Count": -1
+        }, 
+        {
+            "Item": "0silverSstaff [WEAP:0110006A]", 
+            "Count": -1
+        }, 
+        {
+            "Item": "0expensiveUshoesU03 [CLOT:0114000B]", 
+            "Count": 1
+        }, 
+        {
+            "Item": "0expensiveUpantsU03 [CLOT:0114001D]", 
+            "Count": 1
+        }, 
+        {
+            "Item": "0expensiveUshirtU03 [CLOT:01140027]", 
+            "Count": 1
+        }, 
+        {
+            "Item": "0keyUmebastien [KEYM:01400207]", 
+            "Count": 1
+        }, 
+        {
+            "Item": "0ironSmace [WEAP:01F8E989]", 
+            "Count": -1
+        }, 
+        {
+            "Item": "0ironSwarhammer [WEAP:01F8E98B]", 
+            "Count": -1
+        }, 
+        {
+            "Item": "0steelSmace [WEAP:01F8E990]", 
+            "Count": -1
+        }, 
+        {
+            "Item": "0steelSwarhammer [WEAP:01F8E992]", 
+            "Count": -1
+        }
+    ], 
+    "Spells": [
+        "SPLO - Spell": "0sothaAsSmirror [SPEL:01060182]", 
+        "SPLO - Spell": "0vivecAsSfeast [SPEL:01060188]", 
+        "SPLO - Spell": "0spellSabsorption [SPEL:01060189]", 
+        "SPLO - Spell": "0dispel [SPEL:010602EB]", 
+        "SPLO - Spell": "0detectUcreature [SPEL:01060374]"
+    ], 
+    "AIDT - AI Data": {
+        "Aggression": "05", 
+        "Confidence": "32", 
+        "Energy Level": "32", 
+        "Responsibility": "63", 
+        "Buys/Sells and Services": {
+            "Weapons": true, 
+            "Armor": true, 
+            "Clothing": true, 
+            "Books": true, 
+            "Ingredients": true, 
+            "Lights": true, 
+            "Miscellaneous": true, 
+            "Magic Items": true, 
+            "Potions": true
+        }, 
+        "Teaches": "Mysticism:12", 
+        "Maximum training level": "31", 
+        "Unused": "00 00"
+    }, 
+    "AI Packages": [
+        "PKID - AI Package": "aaaServicesEditorLocLockAtEndStandStill [PACK:00009D8E]"
+    ], 
+    "CNAM - Class": "00024163", 
+    "DATA - Stats": {
+        "Armorer": "0F", 
+        "Athletics": "0F", 
+        "Blade": "0F", 
+        "Block": "22", 
+        "Blunt": "0F", 
+        "Hand to Hand": "18", 
+        "Heavy Armor": "0F", 
+        "Alchemy": "0B", 
+        "Alteration": "0B", 
+        "Conjuration": "10", 
+        "Destruction": "06", 
+        "Illusion": "0B", 
+        "Mysticism": "31", 
+        "Restoration": "10", 
+        "Acrobatics": "18", 
+        "Light Armor": "06", 
+        "Marksman": "06", 
+        "Mercantile": "14", 
+        "Security": "27", 
+        "Sneak": "27", 
+        "Speechcraft": "27", 
+        "Health": "0000005E", 
+        "Unused": "00 00", 
+        "Strength": "40", 
+        "Intelligence": "40", 
+        "Willpower": "40", 
+        "Agility": "2F", 
+        "Speed": "2B", 
+        "Endurance": "23", 
+        "Personality": "46", 
+        "Luck": "28"
+    }, 
+    "HNAM - Hair": "00064213", 
+    "LNAM - Hair length": 0.422284000000000, 
+    "ENAM - Eyes": {
+        "Eyes #0": "00027309"
+    }, 
+    "HCLR - Hair color": {
+        "Red": "43", 
+        "Green": "36", 
+        "Blue": "23", 
+        "Unused": "00"
+    }, 
+    "FaceGen Data": {
+        "FGGS - FaceGen Geometry-Symmetric": "4E 37 A3 3D 12 27 BA 3E 12 BB EA BD 7F 3D 99 BF 05 3D 30 BF 6C 1A 68 BF 30 73 50 BD C7 8E 37 BF 4C 6A 2D BE BC 7C 66 3F 2E CF 96 BE 10 61 9B BF B9 E6 ED 3E 32 CE C3 BF 2A 67 7E BF 37 4E CC 3F 5C 41 13 3E 80 15 9F 3F 92 75 CA BF 48 7A E2 BC 41 F3 90 3F 32 DB D3 3C EF D5 56 BF 92 18 42 BF 7A 54 82 BF 6E EE D9 3F 20 CF 31 3F 46 97 8E 3E DD 10 11 3F C6 90 2C 3F 10 87 B9 3F 9E B3 79 3D EE 21 F9 3E 46 9A 29 BF 8B 33 20 BF D4 9C C4 3E 4A 37 42 3F 06 9A 77 3F 2F 4D A5 3F 0E 5F 36 BF D0 72 B2 BE AB 9D F9 3E BB E1 47 BD 08 5B 8F 3F 49 34 97 BF 76 0D 02 BD 9C 2D 3E 3E E5 28 B0 BD EA 48 26 BE B8 09 37 BF", 
+        "FGGA - FaceGen Geometry-Asymmetric": "9C 2C 47 BF 69 BF AB 3E 24 47 09 BE E8 98 44 3F 28 A9 45 BE 3C 89 86 BF E4 40 19 BD 3B DA 25 BF 06 D4 12 3F 2E B6 2E BF 68 6B F1 3F 72 67 02 BF B8 4C AC BE 62 FF 95 BF 34 A7 92 3F 99 37 82 3E 6D CC E0 BE 7D C7 00 BF 70 19 83 3D 26 BC BB BE 17 3D B6 3D BA DF B9 BE 24 89 97 3F AA DD D4 BE 23 3E 78 3F 45 00 89 3F 56 57 94 3C 69 21 BB BF 25 4C A8 3D 6B 28 27 BF", 
+        "FGTS - FaceGen Texture-Symmetric": "EE 07 D3 BF 48 DC C2 BD C0 2C 2D BF EA 30 95 3F 07 81 D9 3D B8 9B CA BD 32 69 89 BE 8C 2F C8 BE 80 EE 73 3E E0 7C 38 3F DC CC 8F 3E 88 C3 93 BF F0 37 5E 3E 64 17 F3 BE F5 DA C5 3F F9 C3 CE BF F6 A6 BA BF 42 60 0D 40 56 A9 86 3E D0 E9 F5 BD 38 AB 46 BF 1D 39 96 BE 72 29 2C 3F BF 7F 36 BF A3 3B 05 3F 80 BF DF 3D 45 B4 2E 3F 20 2D C7 3C F9 AA 1C BF E4 E2 F1 3E 24 0B DB BE C4 8E B4 BE 80 99 A8 BF 28 32 1E 3F 64 B9 68 3D 1C 3F 64 3F BF 11 24 3F 50 3F 20 3F C5 ED A0 BF 48 53 19 3E 6E 33 8C BF CA 2D E9 3E 0D 30 6B BF C0 0D D7 BE D0 F6 B2 BE B8 6F 9F 3E 21 3C 93 BE 3B E6 08 BF D8 AB CE BE 64 D8 0A 3F"
+    }, 
+    "FNAM - Unknown": "48 1D"
+}

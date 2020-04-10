@@ -1,0 +1,12 @@
+{
+    "Topic": "1aidingSme3 [DIAL:0132269A]", 
+    "Record Header": {
+        "Signature": "INFO", 
+        "Data Size": 0, 
+        "Record Flags": {
+            "Deleted": true
+        }, 
+        "FormID": "013235A1", 
+        "Version Control Info": "00 00 00 00"
+    }
+}

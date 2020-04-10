@@ -1,0 +1,105 @@
+{
+    "Record Header": {
+        "Signature": "NPC_", 
+        "Data Size": 813, 
+        "Record Flags": {
+            "Compressed ": true
+        }, 
+        "FormID": "01040973", 
+        "Version Control Info": "00 00 00 00"
+    }, 
+    "EDID - Editor ID": "fbmWerewolfWildC", 
+    "FULL - Name": "Confused Lunatic", 
+    "Model": {
+        "MODL - Model FileName": "Characters\\_Male\\skeleton.nif", 
+        "MODB - Bound Radius": 0.000000000000000
+    }, 
+    "ACBS - Configuration": {
+        "Flags": {
+            "No Low Level Processing": true, 
+            "No Rumors": true
+        }, 
+        "Base spell points": "000000AA", 
+        "Fatigue": "0000015A", 
+        "Barter gold": "00000000", 
+        "Level (offset)": 65, 
+        "Calc min": "00000001", 
+        "Calc max": "00000000"
+    }, 
+    "Factions": [
+        {
+            "Faction": "01F8B824", 
+            "Rank": "00", 
+            "Unused": "4F 44 42"
+        }
+    ], 
+    "RNAM - Race": "Nord [RACE:000224FD]", 
+    "Spells": [
+        "SPLO - Spell": "0werewolfSblood [SPEL:01060413]"
+    ], 
+    "SCRI - Script": "fbmwBMWerewolfWilderness [SCPT:01F8AF8B]", 
+    "AIDT - AI Data": {
+        "Aggression": "63", 
+        "Confidence": "63", 
+        "Energy Level": "63", 
+        "Responsibility": "00", 
+        "Buys/Sells and Services": "00000000", 
+        "Teaches": "Armorer:0", 
+        "Maximum training level": "00", 
+        "Unused": "00 00"
+    }, 
+    "AI Packages": [
+        "PKID - AI Package": "aaaCreatureExterior1500AllowFalls [PACK:001896AE]"
+    ], 
+    "CNAM - Class": "00023788", 
+    "DATA - Stats": {
+        "Armorer": "64", 
+        "Athletics": "64", 
+        "Blade": "64", 
+        "Block": "64", 
+        "Blunt": "64", 
+        "Hand to Hand": "64", 
+        "Heavy Armor": "3A", 
+        "Alchemy": "0B", 
+        "Alteration": "0B", 
+        "Conjuration": "0B", 
+        "Destruction": "0B", 
+        "Illusion": "0B", 
+        "Mysticism": "0B", 
+        "Restoration": "10", 
+        "Acrobatics": "0B", 
+        "Light Armor": "59", 
+        "Marksman": "0B", 
+        "Mercantile": "0B", 
+        "Security": "0B", 
+        "Sneak": "0B", 
+        "Speechcraft": "0B", 
+        "Health": "000001A4", 
+        "Unused": "00 00", 
+        "Strength": "64", 
+        "Intelligence": "44", 
+        "Willpower": "44", 
+        "Agility": "4E", 
+        "Speed": "64", 
+        "Endurance": "64", 
+        "Personality": "32", 
+        "Luck": "32"
+    }, 
+    "HNAM - Hair": "0007B792", 
+    "LNAM - Hair length": 0.496842000000000, 
+    "ENAM - Eyes": {
+        "Eyes #0": "00027308"
+    }, 
+    "HCLR - Hair color": {
+        "Red": "E3", 
+        "Green": "C8", 
+        "Blue": "AC", 
+        "Unused": "00"
+    }, 
+    "FaceGen Data": {
+        "FGGS - FaceGen Geometry-Symmetric": "ED 93 61 BF 5F 9D F7 3F 0B EA 1C BF 66 4D E1 BF 6A 68 B1 3F 66 DF E0 BE 32 8E 2F BF 0C 95 4C 3F F2 A1 33 BF A0 6F 9E 3F 75 B9 50 BE FF 47 15 3F D2 DB 21 BF 63 98 C3 BF 34 5E 2E BE 7F 6C A9 BF 92 68 98 BF 4A A0 2C BF 0E 8E FC 3E 70 BB 99 BE FA 50 16 3F 40 DA 90 BB FA 24 92 3E 06 54 5D 3F 8C 74 EB 3E E3 5D 06 BF E1 AC 65 3E D7 4A 7B BF 16 2F CC 3D FC 82 28 3F 86 1D 7E 3F E0 F1 B2 BE D6 E8 A5 BE 59 3A 27 BE 30 3D B4 3E A2 DE 40 3F 55 BE 8F 3F AC D8 88 BF 2F 88 E8 BD 84 74 E9 3E DD 70 27 3D B6 2E 51 BF FF F7 F6 BE 59 BB 51 3D CA 5B 9C BE CB 86 84 3F F7 98 F8 BE 5F 18 E2 BE 84 61 4D BF 49 0C 92 3F", 
+        "FGGA - FaceGen Geometry-Asymmetric": "D4 8F 20 BF B4 40 99 3F 5B 4D CF BF 61 6D 8D 3D E0 3A C8 3E C6 BE 87 BD 83 C3 22 BF 0B 4C A8 BF 44 35 34 BE 5A 06 AE 3D D5 73 95 3F B9 C3 4A 3F 01 CF 0A BF 80 CA 72 3F 74 03 D7 3E 55 B2 29 3E 5E 3F B0 BE C6 B0 BD BE 4E 5C 5F BE 6B 81 35 3F 49 CA BD BF F6 73 35 3E 0E 50 1A BF 76 79 5E 3F CC 5F 8E BE CE 4C 5C BD D0 C8 D4 3D B5 37 80 BF 88 2B 5E 3F 31 5A 63 3E", 
+        "FGTS - FaceGen Texture-Symmetric": "E8 73 C3 BF A5 25 60 BF 85 E3 7B 3D F1 46 18 3F EA DC C9 3F 09 3D 91 3D CF D6 07 3F 2D 18 6F BF E0 30 8A BD D1 A7 B2 BF D2 6E 90 BE 19 B2 1B BF 00 35 81 3C A8 3B E0 BD D2 13 51 3F BF 23 91 3E 3C D9 92 BE A2 87 AF BF 6C 69 3D BF CA 17 08 3F 03 0F C3 3E 5C 08 51 BF FC 6D 61 3E 91 3D 5B 3F 42 EE 09 3F 34 B2 2E BF C1 9C C3 3F 6E 0D 45 BF 58 D0 99 3F 90 64 DB 3D 76 CC 80 BF CB 73 17 BF F2 F2 49 BE 8D C7 2C 3F 8C 7B D0 3E 69 5B 8C BE C0 DF DA BC FA 2A 33 BF 80 1B D1 BC 63 68 5C BF 14 14 06 3F 23 EC 95 BE 77 53 90 BF E2 4C AB 3F F9 5C 84 BE 44 E9 F0 BC D0 83 50 3C 08 2A 04 BD 9E E0 5A BF 60 D4 9B 3F"
+    }, 
+    "FNAM - Unknown": "B6 03"
+}

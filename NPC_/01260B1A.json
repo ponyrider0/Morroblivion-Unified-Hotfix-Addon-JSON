@@ -1,0 +1,168 @@
+{
+    "Record Header": {
+        "Signature": "NPC_", 
+        "Data Size": 924, 
+        "Record Flags": {
+            "Compressed ": true
+        }, 
+        "FormID": "01260B1A", 
+        "Version Control Info": "00 00 00 00"
+    }, 
+    "EDID - Editor ID": "0antoniusSnuncius", 
+    "FULL - Name": "Antonius Nuncius", 
+    "Model": {
+        "MODL - Model FileName": "Characters\\_Male\\skeleton.nif", 
+        "MODB - Bound Radius": 89.891640000000000
+    }, 
+    "ACBS - Configuration": {
+        "Flags": {
+            "No Rumors": true
+        }, 
+        "Base spell points": "000000C8", 
+        "Fatigue": "00000158", 
+        "Barter gold": "00000000", 
+        "Level (offset)": 45, 
+        "Calc min": "00000001", 
+        "Calc max": "00000000"
+    }, 
+    "Factions": [
+        {
+            "Faction": "0122001B", 
+            "Rank": "00", 
+            "Unused": "4F 44 42"
+        }, 
+        {
+            "Faction": "0122001C", 
+            "Rank": "00", 
+            "Unused": "4F 44 42"
+        }, 
+        {
+            "Faction": "01F0A263", 
+            "Rank": "00", 
+            "Unused": "4F 44 42"
+        }
+    ], 
+    "RNAM - Race": "Imperial [RACE:00000907]", 
+    "Items": [
+        {
+            "Item": "Gold001 [MISC:0000000F]", 
+            "Count": 250
+        }, 
+        {
+            "Item": "0PotionULocalUBrewU01 [ALCH:01080005]", 
+            "Count": 1
+        }, 
+        {
+            "Item": "0potionUlocalUliquorU01 [ALCH:01080006]", 
+            "Count": 1
+        }, 
+        {
+            "Item": "0silverSstaff [WEAP:0110006A]", 
+            "Count": 1
+        }, 
+        {
+            "Item": "0BMUWool01Ushoes [CLOT:01140230]", 
+            "Count": 1
+        }, 
+        {
+            "Item": "0BMUWool01URobe [CLOT:01140239]", 
+            "Count": 1
+        }
+    ], 
+    "Spells": [
+        "SPLO - Spell": "0secondSbarrier [SPEL:01060045]", 
+        "SPLO - Spell": "0summonSclanfear [SPEL:01060065]", 
+        "SPLO - Spell": "0wildSclumsiness [SPEL:010600AD]", 
+        "SPLO - Spell": "0wildSdistraction [SPEL:010600C2]", 
+        "SPLO - Spell": "0drainSdestruction [SPEL:010600CB]", 
+        "SPLO - Spell": "0drainSalteration [SPEL:010600CC]", 
+        "SPLO - Spell": "0drainSconjuration [SPEL:010600CE]", 
+        "SPLO - Spell": "0drainSmysticism [SPEL:010600CF]", 
+        "SPLO - Spell": "0drainSrestoration [SPEL:010600D0]", 
+        "SPLO - Spell": "0drainSalchemy [SPEL:010600D1]", 
+        "SPLO - Spell": "0drainSunarmored [SPEL:010600D2]", 
+        "SPLO - Spell": "0drainSbluntSweapon [SPEL:010600D7]", 
+        "SPLO - Spell": "0strongSreflect [SPEL:01060180]", 
+        "SPLO - Spell": "0strongSspelldrinker [SPEL:01060186]", 
+        "SPLO - Spell": "0wildSspelldrinker [SPEL:01060187]", 
+        "SPLO - Spell": "0absorbSagilitySXrangedX [SPEL:0106018D]", 
+        "SPLO - Spell": "0drainSblood [SPEL:01060198]", 
+        "SPLO - Spell": "0absorbSluckSXrangedX [SPEL:0106019C]", 
+        "SPLO - Spell": "0absorbSpersonalitySXrangedX [SPEL:0106019E]", 
+        "SPLO - Spell": "0absorbSspeedSXrangedX [SPEL:010601A0]", 
+        "SPLO - Spell": "0absorbSstrengthSXrangedX [SPEL:010601A4]", 
+        "SPLO - Spell": "0absorbSwillpowerSXrangedX [SPEL:010601A6]", 
+        "SPLO - Spell": "0bloodSdespair [SPEL:010601A9]", 
+        "SPLO - Spell": "0masterfulSgoldenSwisdom [SPEL:01060211]", 
+        "SPLO - Spell": "0masterfulSsmiting [SPEL:01060221]", 
+        "SPLO - Spell": "0masterfulStranscendantSwisdom [SPEL:01060224]", 
+        "SPLO - Spell": "0mastefulSredSwisdom [SPEL:01060227]", 
+        "SPLO - Spell": "0masterfulSunseenSwisdom [SPEL:01060255]", 
+        "SPLO - Spell": "0vivecAsSmercy [SPEL:0106027D]", 
+        "SPLO - Spell": "0poisonUpowerful [SPEL:01060387]"
+    ], 
+    "AIDT - AI Data": {
+        "Aggression": "05", 
+        "Confidence": "32", 
+        "Energy Level": "32", 
+        "Responsibility": "32", 
+        "Buys/Sells and Services": "00000000", 
+        "Teaches": "Alteration:8", 
+        "Maximum training level": "64", 
+        "Unused": "00 00"
+    }, 
+    "AI Packages": [
+        "PKID - AI Package": "aaaDefaultExploreEditorLoc512 [PACK:0002251B]"
+    ], 
+    "CNAM - Class": "00023785", 
+    "DATA - Stats": {
+        "Armorer": "09", 
+        "Athletics": "09", 
+        "Blade": "13", 
+        "Block": "09", 
+        "Blunt": "09", 
+        "Hand to Hand": "0E", 
+        "Heavy Armor": "09", 
+        "Alchemy": "56", 
+        "Alteration": "64", 
+        "Conjuration": "56", 
+        "Destruction": "56", 
+        "Illusion": "24", 
+        "Mysticism": "64", 
+        "Restoration": "64", 
+        "Acrobatics": "09", 
+        "Light Armor": "40", 
+        "Marksman": "09", 
+        "Mercantile": "13", 
+        "Security": "09", 
+        "Sneak": "09", 
+        "Speechcraft": "45", 
+        "Health": "000000D7", 
+        "Unused": "00 00", 
+        "Strength": "64", 
+        "Intelligence": "64", 
+        "Willpower": "64", 
+        "Agility": "4E", 
+        "Speed": "64", 
+        "Endurance": "42", 
+        "Personality": "64", 
+        "Luck": "28"
+    }, 
+    "HNAM - Hair": "00027FF2", 
+    "LNAM - Hair length": 0.412427000000000, 
+    "ENAM - Eyes": {
+        "Eyes #0": "00027308"
+    }, 
+    "HCLR - Hair color": {
+        "Red": "50", 
+        "Green": "40", 
+        "Blue": "2E", 
+        "Unused": "00"
+    }, 
+    "FaceGen Data": {
+        "FGGS - FaceGen Geometry-Symmetric": "B8 99 2B 3E D4 9C 8A 3F E6 C8 1E 3F 1F 69 AF BE 96 6B 83 BE FC 69 03 3F FB C0 8D 3F 0D AE F4 3F EA 14 80 3E 34 3A CE 3E B0 63 C2 BE 53 E2 BE 3E FF 0F 13 3E 9A E2 5A 3F 1B 05 B6 BF B8 04 C7 3D 9F 1A B4 3E 0A E0 40 BF 74 C7 4A BF 52 F7 35 3E 2F 91 AE BE 51 9D 24 3F B3 00 F6 3E 17 81 01 3F 46 64 F9 3E 49 40 D8 3E CE 7E B9 3F FB FC FD 3F EB A6 72 3F 4F 0C 49 3F 4A B8 0D 3F 6E D1 14 3F 13 25 AB BF A5 A4 82 3E AF AF 84 BF 86 A1 2D BD AE EB 9D 3E 60 F0 CA BE C0 B9 DA BD AD E3 14 40 91 E0 91 3F 5A 29 88 3F 6A B4 1F 3F 74 E9 B8 3C DC 26 AD BE 53 B2 67 3F 00 10 AE 3E 99 E2 84 3F B1 A5 06 3F BC 66 11 3F", 
+        "FGGA - FaceGen Geometry-Asymmetric": "98 D5 15 3F 30 E7 FD BF 7C EC 39 BF 9B 91 C0 BF 26 02 59 BE D8 90 60 BF 1F 92 9C BE 7F 5A A8 3F D8 93 65 BC 82 D0 FD 3E 2C AB 77 3F B9 4E 82 3F 18 77 9C 3D 94 2F 85 BD 0A 4F FC BD B6 61 D7 3E C9 44 83 3F BE 63 8B 3E DC DD 3C 3E A4 4B DC 3D 66 04 80 3F 4F 6A 02 3F B2 32 B8 3E D8 07 C2 3C 24 E3 B6 3F 0B 9E 83 BF 45 64 54 3E 49 0B 18 BF FC C1 46 3F EC 45 81 3E", 
+        "FGTS - FaceGen Texture-Symmetric": "80 52 4C BE 3F A0 8B 3E F4 00 69 3F 7B BE 89 3F CB D5 88 BF CA 16 03 BE 24 1A 58 3D AA BE 5C 3F CA 9B 08 BE 3C A0 38 BD A2 E9 6C 3F 86 9D 88 BE E0 25 54 BF 86 A2 12 BF 94 A2 E5 BE 90 35 D3 BE F0 87 CD 3F FC 38 8C BE E6 B7 B8 BE 30 F7 0F 3F 17 52 14 BF AC C5 59 BE D7 57 C1 BE 5A 21 64 BF 62 52 3A 3F E8 06 CC BE 52 52 34 BE 01 38 1D 3F D8 15 13 3F 78 7E A6 3D 30 6C BD 3F C6 D8 CF 3F EA 63 C4 BF 48 CC 74 3F 66 8A 57 BF E6 36 F6 BE B8 01 F2 3D FB B1 E8 3F BD 7D 48 BE 64 1D 2D 3F 75 0A 31 BF 4E 8B 8F BD D0 05 01 BE F8 1B FD 3C 45 66 76 3E 56 4F 1C 3F 0A 47 D7 BE 40 AB 9D 3F A0 21 97 BD 78 35 A9 3F"
+    }, 
+    "FNAM - Unknown": "8E 35"
+}

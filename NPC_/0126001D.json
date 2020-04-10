@@ -1,0 +1,162 @@
+{
+    "Record Header": {
+        "Signature": "NPC_", 
+        "Data Size": 900, 
+        "Record Flags": {
+            "Compressed ": true
+        }, 
+        "FormID": "0126001D", 
+        "Version Control Info": "00 00 00 00"
+    }, 
+    "EDID - Editor ID": "0tanarSllervi", 
+    "FULL - Name": "Tanar Llervi", 
+    "Model": {
+        "MODL - Model FileName": "Characters\\_Male\\skeleton.nif", 
+        "MODB - Bound Radius": 71.400482000000000
+    }, 
+    "ACBS - Configuration": {
+        "Flags": {
+            "Female": true, 
+            "No Rumors": true
+        }, 
+        "Base spell points": "00000084", 
+        "Fatigue": "000000B9", 
+        "Barter gold": "00000320", 
+        "Level (offset)": 7, 
+        "Calc min": "00000001", 
+        "Calc max": "00000000"
+    }, 
+    "Factions": [
+        {
+            "Faction": "0100761B", 
+            "Rank": "00", 
+            "Unused": "4F 44 42"
+        }, 
+        {
+            "Faction": "0122001B", 
+            "Rank": "00", 
+            "Unused": "4F 44 42"
+        }, 
+        {
+            "Faction": "01F0A263", 
+            "Rank": "00", 
+            "Unused": "4F 44 42"
+        }
+    ], 
+    "RNAM - Race": "DarkElf [RACE:000191C1]", 
+    "Items": [
+        {
+            "Item": "Beef [INGR:0003365F]", 
+            "Count": -1
+        }, 
+        {
+            "Item": "0commonUshoesU03 [CLOT:01140006]", 
+            "Count": 1
+        }, 
+        {
+            "Item": "0commonUpantsU05 [CLOT:01140016]", 
+            "Count": 1
+        }, 
+        {
+            "Item": "0commonUshirtU05 [CLOT:01140024]", 
+            "Count": 1
+        }, 
+        {
+            "Item": "0scUbalefulsuffering [BOOK:01180169]", 
+            "Count": 5
+        }, 
+        {
+            "Item": "0scUelementalburstfrost [BOOK:011801B0]", 
+            "Count": 10
+        }
+    ], 
+    "Spells": [
+        "SPLO - Spell": "0wearyingStouch [SPEL:010600B7]", 
+        "SPLO - Spell": "0shockbloom [SPEL:0106011E]", 
+        "SPLO - Spell": "0poisonbloom [SPEL:01060127]", 
+        "SPLO - Spell": "0lightningSbolt [SPEL:0106012B]", 
+        "SPLO - Spell": "0lightningSstorm [SPEL:0106012C]", 
+        "SPLO - Spell": "0demoralizingStouch [SPEL:0106014C]", 
+        "SPLO - Spell": "0rallySbeast [SPEL:0106014D]", 
+        "SPLO - Spell": "0rallyingStouch [SPEL:0106014E]", 
+        "SPLO - Spell": "0rallyScreature [SPEL:01060157]", 
+        "SPLO - Spell": "0rallyShumanoid [SPEL:01060158]"
+    ], 
+    "AIDT - AI Data": {
+        "Aggression": "05", 
+        "Confidence": "19", 
+        "Energy Level": "32", 
+        "Responsibility": "63", 
+        "Buys/Sells and Services": {
+            "Weapons": true, 
+            "Armor": true, 
+            "Clothing": true, 
+            "Books": true, 
+            "Miscellaneous": true, 
+            "Magic Items": true, 
+            "Recharge": true
+        }, 
+        "Teaches": "Destruction:10", 
+        "Maximum training level": "36", 
+        "Unused": "00 00"
+    }, 
+    "AI Packages": [
+        "PKID - AI Package": "MOEatCurrent8x1 [PACK:0106C391]", 
+        "PKID - AI Package": "MOMageCast19x1 [PACK:0106C395]", 
+        "PKID - AI Package": "MOMageRead3161 [PACK:0106C398]", 
+        "PKID - AI Package": "MOEatCurrent18x1 [PACK:0106C390]", 
+        "PKID - AI Package": "MOSleep22x6 [PACK:01F8CB8B]", 
+        "PKID - AI Package": "MOMerchantPackage [PACK:0106C399]"
+    ], 
+    "CNAM - Class": "00023E5F", 
+    "DATA - Stats": {
+        "Armorer": "06", 
+        "Athletics": "0B", 
+        "Blade": "10", 
+        "Block": "06", 
+        "Blunt": "06", 
+        "Hand to Hand": "06", 
+        "Heavy Armor": "06", 
+        "Alchemy": "2C", 
+        "Alteration": "1D", 
+        "Conjuration": "1D", 
+        "Destruction": "36", 
+        "Illusion": "1D", 
+        "Mysticism": "22", 
+        "Restoration": "1D", 
+        "Acrobatics": "06", 
+        "Light Armor": "0B", 
+        "Marksman": "0B", 
+        "Mercantile": "0A", 
+        "Security": "06", 
+        "Sneak": "06", 
+        "Speechcraft": "06", 
+        "Health": "0000003C", 
+        "Unused": "00 00", 
+        "Strength": "33", 
+        "Intelligence": "42", 
+        "Willpower": "37", 
+        "Agility": "2D", 
+        "Speed": "3C", 
+        "Endurance": "22", 
+        "Personality": "2D", 
+        "Luck": "28"
+    }, 
+    "HNAM - Hair": "000690C1", 
+    "LNAM - Hair length": 0.771752000000000, 
+    "ENAM - Eyes": {
+        "Eyes #0": "00027307"
+    }, 
+    "HCLR - Hair color": {
+        "Red": "86", 
+        "Green": "41", 
+        "Blue": "2D", 
+        "Unused": "00"
+    }, 
+    "FaceGen Data": {
+        "FGGS - FaceGen Geometry-Symmetric": "34 EF E6 BE 9C 54 75 BF 3A 62 D4 BE EC 2D 04 BD E4 64 A1 3F 5D 84 08 3F B7 CB 3E 3F 74 8C 47 BF 1A 2D 5D 3F B8 1F DE 3E FD A3 21 BF 91 6C C9 BF E0 8C AC 3E A8 11 21 BE 4E 50 FE BE 0C 7D 14 BE 6A C5 E1 BF D6 48 39 BF 24 03 B6 BF 39 DC A3 3F 9C 4A F1 BF 86 CD 5F BE E0 2F A8 BF 4F 53 5E 3F AC 59 E2 BE AC 62 21 3F F0 C6 9C BD 4A 96 DD BF F4 9D 0F BF 58 E2 B8 3F 70 40 FD BD A4 ED 0C 3F CC 8C 74 3D 34 C5 10 BF 79 40 7A 3F BC 0D 12 BF C0 79 50 BF 84 F6 44 3E 7A 35 6F BF 9E 84 0A 3F 9E FB 46 BF 50 92 FD 3E C0 34 2D BD 65 25 1D 3F A0 9A 29 BF D6 4E 89 3F F0 34 3D BE 98 0E 48 3E 7C E7 87 3F 5A 44 0E BF", 
+        "FGGA - FaceGen Geometry-Asymmetric": "21 89 BC BD 99 23 88 BF 27 36 14 BD B0 74 6F BF DB 23 22 BF AB 83 B1 3F A9 45 09 BF AE 3C CA 3C A6 6F B7 3F A4 81 70 BE 4D C2 04 3E 94 D7 7C BD D6 1F B5 3F 1C F2 D1 3E 4E 32 F3 BE 90 FE 39 3E 79 A1 1F 3E 90 B5 5E 3F 38 66 98 3D 2D 93 3A 3F 9E 8A DC 3E 74 C9 1B BF 94 2E E2 3E 04 3C 9D BD 1A E4 74 BF 3D 55 E2 3E 8C 7F 96 3D 12 D6 7A BE A8 80 7F BE 8E 6F C7 BE", 
+        "FGTS - FaceGen Texture-Symmetric": "59 A0 C9 3F 92 D5 D6 3F 84 80 11 3E FA 90 D6 BE E2 68 83 3E 98 67 B1 BD CB 5B B6 BF 8C 43 FE 3D 2C E0 5D BF 36 19 35 BF 9D 78 04 3F AA 3C 17 BF 30 CA 27 BF 57 F3 C2 3E 21 94 94 3F 44 97 F5 3E 62 AC 8F BF C6 A9 C2 3E 52 05 BB 3E 28 4F 20 BE E1 2D 38 BF 1C B5 80 BF AD 34 AB 3F 8C 7A 1B 3F 96 5A 70 BF 62 64 AF 3E 1A EF C4 3E BA AB A3 3F B0 21 BA 3D D2 41 00 3F F0 95 72 3D 30 39 23 3D EC 98 8D BE A9 FF 8A 3E 4D 40 D0 3F 78 54 54 BF BC 9A 5C BF 5F 0D CA 3F 20 B1 B9 3B EF DE 0E BF F0 7F 00 BD 5E E2 8D 3F 27 C3 14 3F A0 FB 81 BF DB 22 CD BE 9C 4F AA BE E4 42 D2 3E 8D 8A 1D BF 14 6B 9E BE 7D 84 B2 3F"
+    }, 
+    "FNAM - Unknown": "72 54"
+}

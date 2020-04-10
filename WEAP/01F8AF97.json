@@ -1,0 +1,30 @@
+{
+    "Record Header": {
+        "Signature": "WEAP", 
+        "Data Size": 239, 
+        "Record Flags": {}, 
+        "FormID": "01F8AF97", 
+        "Version Control Info": "00 00 00 00"
+    }, 
+    "EDID - Editor ID": "fbmwBMMaceOfAevarStoneSinger", 
+    "FULL - Name": "Mace of Aevar Stone-Singer", 
+    "Model": {
+        "MODL - Model FileName": "Morroblivion\\Weapons\\Stalhrim\\mace.nif", 
+        "MODB - Bound Radius": 15.955242000000000
+    }, 
+    "ICON - Icon FileName": "darthsouth\\Weapons\\Artifacts\\maceofaevarstonesinger.dds", 
+    "ENAM - Enchantment": "0bmUmace [ENCH:0104030B]", 
+    "ANAM - Enchantment Points": 200, 
+    "DATA - DATA": {
+        "Type": "Blunt One Hand:2", 
+        "Speed": 0.900000000000000, 
+        "Reach": 1.600000000000000, 
+        "Flags": {
+            "Ignores Normal Weapon Resistance": true
+        }, 
+        "Value": 50000, 
+        "Health": 3200, 
+        "Weight": 90.000000000000000, 
+        "Damage": 60
+    }
+}

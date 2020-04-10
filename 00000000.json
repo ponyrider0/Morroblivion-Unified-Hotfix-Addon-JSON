@@ -23,19 +23,19 @@
             "DATA - Unused": "00 00 00 00 00 00 00 00"
         }, 
         {
-            "MAST - FileName": "Morrowind_ob - UCWUS.esp", 
-            "DATA - Unused": "00 00 00 00 00 00 00 00"
-        }, 
-        {
             "MAST - FileName": "Morrowind_ob - Chargen and Transport Mod.esp", 
             "DATA - Unused": "00 00 00 00 00 00 00 00"
         }, 
         {
-            "MAST - FileName": "Morroblivion_Unofficial_Patch.esp", 
+            "MAST - FileName": "Morrowind_ob - UCWUS.esp", 
             "DATA - Unused": "00 00 00 00 00 00 00 00"
         }, 
         {
             "MAST - FileName": "Morrowind_ob - Conversation.esp", 
+            "DATA - Unused": "00 00 00 00 00 00 00 00"
+        }, 
+        {
+            "MAST - FileName": "Morroblivion_Unofficial_Patch.esp", 
             "DATA - Unused": "00 00 00 00 00 00 00 00"
         }
     ]

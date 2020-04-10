@@ -1,10 +1,10 @@
 {
-    "Topic": "mwSkillTrain1LightArmor [DIAL:0407365A]", 
+    "Topic": "mwSkillTrain1LightArmor [DIAL:0507365A]", 
     "Record Header": {
         "Signature": "INFO", 
         "Data Size": 2974, 
         "Record Flags": {}, 
-        "FormID": "04073647", 
+        "FormID": "05073647", 
         "Version Control Info": "00 00 00 00"
     }, 
     "DATA - DATA": {
@@ -12,7 +12,7 @@
         "Next Speaker": "00", 
         "Flags": {}
     }, 
-    "QSTI - Quest": "mwSkillTrain [QUST:04073668]", 
+    "QSTI - Quest": "mwSkillTrain [QUST:05073668]", 
     "PNAM - Previous INFO": "00000000", 
     "Responses": [
         {
@@ -930,7 +930,7 @@
         "SCDA - Compiled result script": "A8 16 04 00 01 00 1B 00 15 00 12 00 72 01 00 73 11 00 0A 00 20 58 0E 10 04 00 01 00 1B 00 A9 16 08 00 01 00 72 01 00 73 11 00", 
         "SCTX - Result script source": "SetTrainerSkill lightarmor\r\nset mwSkillTrain.tempval to GetAV lightarmor\r\nSetTrainerLevel mwSkillTrain.tempval", 
         "References": [
-            "SCRO - Global Reference": "mwSkillTrain [QUST:04073668]"
+            "SCRO - Global Reference": "mwSkillTrain [QUST:05073668]"
         ]
     }
 }

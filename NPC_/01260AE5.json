@@ -43,7 +43,7 @@
             "Unused": "4F 44 42"
         }, 
         {
-            "Faction": "05007EED", 
+            "Faction": "04007EED", 
             "Rank": "00", 
             "Unused": "4F 44 42"
         }
@@ -90,7 +90,7 @@
         "Unused": "00 00"
     }, 
     "AI Packages": [
-        "PKID - AI Package": " [:05008828]"
+        "PKID - AI Package": " [:04008828]"
     ], 
     "CNAM - Class": "00034E6E", 
     "DATA - Stats": {

@@ -3,7 +3,7 @@
         "Signature": "SCPT", 
         "Data Size": 1077, 
         "Record Flags": {}, 
-        "FormID": "040768B7", 
+        "FormID": "050768B7", 
         "Version Control Info": "00 00 00 00"
     }, 
     "EDID - Editor ID": "mwLanternHavocOnScript", 
@@ -34,11 +34,11 @@
         "SCRO - Global Reference": "0lightUdeUlanternU07 [LIGH:012C0094]", 
         "SCRO - Global Reference": "0lightUdeUlanternU07U128 [LIGH:012C01B7]", 
         "SCRO - Global Reference": "0lightUdeUlanternU07Uwarm [LIGH:012C0106]", 
-        "SCRO - Global Reference": "0lightUdeUlanternU07havoc [LIGH:040768B8]", 
+        "SCRO - Global Reference": "0lightUdeUlanternU07havoc [LIGH:050768B8]", 
         "SCRO - Global Reference": "0lightUdeUlanternU05 [LIGH:012C005B]", 
         "SCRO - Global Reference": "0lightUdeUlanternU05U128UCarry [LIGH:012C01BB]", 
         "SCRO - Global Reference": "0lightUdeUlanternU05U200 [LIGH:012C0192]", 
         "SCRO - Global Reference": "0lightUdeUlanternU05UCarry [LIGH:012C019B]", 
-        "SCRO - Global Reference": "0lightUdeUlanternU05havoc [LIGH:040768B6]"
+        "SCRO - Global Reference": "0lightUdeUlanternU05havoc [LIGH:050768B6]"
     ]
 }

@@ -3,12 +3,12 @@
         "Signature": "DIAL", 
         "Data Size": 66, 
         "Record Flags": {}, 
-        "FormID": "04073653", 
+        "FormID": "05073653", 
         "Version Control Info": "00 00 00 00"
     }, 
     "EDID - Editor ID": "mwSkillTrain1Conjuration", 
     "Quests": [
-        "QSTI - Quest": "mwSkillTrain [QUST:04073668]"
+        "QSTI - Quest": "mwSkillTrain [QUST:05073668]"
     ], 
     "FULL - Name": "Conjuration", 
     "DATA - Type": "00"

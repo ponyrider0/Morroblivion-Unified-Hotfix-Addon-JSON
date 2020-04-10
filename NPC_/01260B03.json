@@ -1,7 +1,7 @@
 {
     "Record Header": {
         "Signature": "NPC_", 
-        "Data Size": 849, 
+        "Data Size": 852, 
         "Record Flags": {
             "Compressed ": true
         }, 
@@ -43,7 +43,7 @@
             "Unused": "4F 44 42"
         }, 
         {
-            "Faction": "05007EED", 
+            "Faction": "04007EED", 
             "Rank": "00", 
             "Unused": "4F 44 42"
         }

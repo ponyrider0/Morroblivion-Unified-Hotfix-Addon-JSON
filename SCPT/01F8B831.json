@@ -42,7 +42,7 @@
         "SCRV - Local Variable": "00000002", 
         "SCRO - Global Reference": "fbmwbmwerewolfclaw [WEAP:010168D5]", 
         "SCRO - Global Reference": "fbmwbmWerewolfClawShield [ARMO:0101CC71]", 
-        "SCRO - Global Reference": "fbmwBMWerewolfTransform [SCPT:040119D9]", 
-        "SCRO - Global Reference": "fbmwUpdate3D [SCPT:040132C6]"
+        "SCRO - Global Reference": "fbmwBMWerewolfTransform [SCPT:050119D9]", 
+        "SCRO - Global Reference": "fbmwUpdate3D [SCPT:050132C6]"
     ]
 }

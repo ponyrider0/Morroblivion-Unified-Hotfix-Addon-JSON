@@ -4,7 +4,7 @@
         "Signature": "INFO", 
         "Data Size": 97, 
         "Record Flags": {}, 
-        "FormID": "0501834F", 
+        "FormID": "0401834F", 
         "Version Control Info": "00 00 00 00"
     }, 
     "DATA - DATA": {
@@ -12,8 +12,8 @@
         "Next Speaker": "00", 
         "Flags": {}
     }, 
-    "QSTI - Quest": "WereWolfMorroPlayer [QUST:050137A5]", 
-    "PNAM - Previous INFO": "0501834E", 
+    "QSTI - Quest": "WereWolfMorroPlayer [QUST:040137A5]", 
+    "PNAM - Previous INFO": "0401834E", 
     "Responses": [
         {
             "TRDT - Response Data": {

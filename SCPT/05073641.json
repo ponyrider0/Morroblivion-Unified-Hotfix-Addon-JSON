@@ -3,7 +3,7 @@
         "Signature": "SCPT", 
         "Data Size": 1748, 
         "Record Flags": {}, 
-        "FormID": "04073641", 
+        "FormID": "05073641", 
         "Version Control Info": "03 54 00 00"
     }, 
     "EDID - Editor ID": "mwSkillTrainScript", 
@@ -81,6 +81,6 @@
     "References": [
         "SCRV - Local Variable": "00000009", 
         "SCRV - Local Variable": "0000000F", 
-        "SCRO - Global Reference": "mwSkillTrain0 [DIAL:04073667]"
+        "SCRO - Global Reference": "mwSkillTrain0 [DIAL:05073667]"
     ]
 }

@@ -3,7 +3,7 @@
         "Signature": "SCPT", 
         "Data Size": 7785, 
         "Record Flags": {}, 
-        "FormID": "0407366A", 
+        "FormID": "0507366A", 
         "Version Control Info": "00 00 00 00"
     }, 
     "EDID - Editor ID": "fbmwbmHircineRingTransformationScript", 
@@ -206,17 +206,17 @@
         "SCRV - Local Variable": "00000011", 
         "SCRO - Global Reference": "PlayerRef [PLYR:00000014]", 
         "SCRO - Global Reference": "oldencoumbrancesetting [GLOB:010024D8]", 
-        "SCRO - Global Reference": "fbmwbmWerewolfManageControlPC [SCPT:040119DB]", 
-        "SCRO - Global Reference": "fbmwBMWerewolfRollBack [SCPT:040119DA]", 
-        "SCRO - Global Reference": "fbmwUpdate3D [SCPT:040132C6]", 
-        "SCRO - Global Reference": "fbmwBMWerewolfTransform [SCPT:040119D9]", 
+        "SCRO - Global Reference": "fbmwbmWerewolfManageControlPC [SCPT:050119DB]", 
+        "SCRO - Global Reference": "fbmwBMWerewolfRollBack [SCPT:050119DA]", 
+        "SCRO - Global Reference": "fbmwUpdate3D [SCPT:050132C6]", 
+        "SCRO - Global Reference": "fbmwBMWerewolfTransform [SCPT:050119D9]", 
         "SCRO - Global Reference": "fbmwbmclawcost [GLOB:0106F418]", 
         "SCRO - Global Reference": "fbmwbmwerewolfclawPC [WEAP:0103D74E]", 
         "SCRO - Global Reference": "fbmwbmClawcostnpc [GLOB:010949A7]", 
         "SCRO - Global Reference": "fbmwbmwerewolfclaw [WEAP:010168D5]", 
         "SCRO - Global Reference": "GameHour [GLOB:00000038]", 
         "SCRO - Global Reference": "fbmwBMringhircine [CLOT:0102A414]", 
-        "SCRO - Global Reference": "fbmwBMWerewolfEquip [SCPT:040119DD]", 
-        "SCRO - Global Reference": "fbmwBMWerewolfUnequip [SCPT:040132C3]"
+        "SCRO - Global Reference": "fbmwBMWerewolfEquip [SCPT:050119DD]", 
+        "SCRO - Global Reference": "fbmwBMWerewolfUnequip [SCPT:050132C3]"
     ]
 }
